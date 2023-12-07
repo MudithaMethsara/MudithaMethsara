@@ -6,7 +6,7 @@
 <h3 align="center">A passionate backend developer from SriLanka</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/f0cKyHniahEAAAAd/background-khaoticfuture.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mudithamethsara&label=Profile%20views&color=0e75b6&style=flat" alt="mudithamethsara" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mudithamethsara&label=Profile%20views&color=0e75b6&style=flat" alt="mudithamethsara" /> </p>-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mudithamethsara" alt="mudithamethsara" /></a> </p>
 
