@@ -34,8 +34,8 @@
 <a href="https://www.credly.com/badges/687f42d9-302d-4dc0-a537-dba8d4941e9e/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/computer-hardware-basics.png" alt="Computer Hardware" height="60" width="60" /></a>
 <a href="https://www.credly.com/badges/c6407f49-1ce0-469a-9002-5890af451c2b/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/introduction-to-cybersecurity.png" alt="Computer Hardware" height="60" width="60" /></a>
 <a href="https://www.credly.com/badges/a2b83b13-50e7-42e0-a95c-75aa921b7a91/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/introduction-to-data-science.png" alt="Computer Hardware" height="60" width="60" /></a>
-<a href="https://www.credly.com/badges/687f42d9-302d-4dc0-a537-dba8d4941e9e/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/computer-hardware-basics.png" alt="Computer Hardware" height="60" width="60" /></a>
-<a href="https://www.credly.com/badges/687f42d9-302d-4dc0-a537-dba8d4941e9e/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/computer-hardware-basics.png" alt="Computer Hardware" height="60" width="60" /></a>
+<a href="https://www.credly.com/badges/89a8f42e-094a-4903-a110-e818d924c586/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/introduction-to-iot.png" alt="Computer Hardware" height="60" width="60" /></a>
+<a href="https://www.credly.com/badges/36febe94-56d3-463e-b41a-f6e210fe4a8c/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/python-essentials-1.1.png" alt="Computer Hardware" height="60" width="60" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
