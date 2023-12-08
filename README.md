@@ -37,6 +37,7 @@
 <a href="https://www.credly.com/badges/a2b83b13-50e7-42e0-a95c-75aa921b7a91/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/introduction-to-data-science.png" alt="Computer Hardware" height="60" width="60" /></a>
 <a href="https://www.credly.com/badges/89a8f42e-094a-4903-a110-e818d924c586/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/introduction-to-iot.png" alt="Computer Hardware" height="60" width="60" /></a>
 <a href="https://www.credly.com/badges/36febe94-56d3-463e-b41a-f6e210fe4a8c/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/python-essentials-1.1.png" alt="Computer Hardware" height="60" width="60" /></a>
+<a href="https://www.credly.com/badges/78ed90cf-1ad3-45d7-a8b6-a8a958ed894a/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/python-essentials-1.1.png" alt="Computer Hardware" height="60" width="60" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
