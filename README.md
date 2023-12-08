@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **infomudithamethsara@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muditha-methsara-189a07230/](https://www.linkedin.com/in/muditha-methsara-189a07230/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/muditha-methsara-189a07230/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
