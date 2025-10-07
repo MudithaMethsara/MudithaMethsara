@@ -91,32 +91,4 @@
   @keyframes pulse {
     0% { box-shadow: 0 0 10px #FF0000; }
     50% { box-shadow: 0 0 20px #A10000; }
-    100% { box-shadow: 0 0 10px #FF0000; }
-  }
-
-  /* Paw Print Trail */
-  .paw-trail {
-    display: inline-block;
-    animation: pawPulse 1s infinite;
-  }
-  @keyframes pawPulse {
-    0% { opacity: 1; }
-    50% { opacity: 0.5; }
-    100% { opacity: 1; }
-  }
-</style>
-
-<!-- Snowfall Effect -->
-<div class="snow"></div><div class="snow"></div><div class="snow"></div>
-<div class="snow"></div><div class="snow"></div><div class="snow"></div>
-<div class="snow"></div><div class="snow"></div><div class="snow"></div>
-
-<!-- Scanline Effect -->
-<div class="scanline"></div>
-
-<!-- Boot Sequence Header -->
-```bash
-[SYSTEM BOOTING...] REDWOLF OS v2.3.1
-Initializing Cyber Protocols... [OK]
-Loading Neural Matrix... [OK]
-Activating RedWolf Core... [COMPLETE]
+    100% { box-shadow: 0 0 10px #FF
