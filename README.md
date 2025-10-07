@@ -1,65 +1,207 @@
-<img src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/gitHubCover.png" alt="Cover Image">
-<h1 align="center">
-    <!--<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=F70000&random=false&width=500&height=70&lines=Hey+There!%F0%9F%91%8B;I'm+Muditha+Methsara!;A+passionate+Back-End+developer." alt="Typing SVG" />-->
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F70000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muditha+Methsara!;+Back-End+Developer." />
-</h1>
-<!-- <h1 align="center">Hi 👋, I'm Muditha Methsara</h1> -->
-<!--<h3 align="center">A passionate backend developer from SriLanka</h3>-->
-<!--<img align="right" alt="Coding" width="400" src="https://media.tenor.com/f0cKyHniahEAAAAd/background-khaoticfuture.gif">-->
+```markdown
+<div style="background-color: #000000; color: #FF0000; font-family: 'Courier New', monospace; position: relative; overflow: hidden; padding: 20px;">
+<style>
+  /* Global Neon Glow */
+  .neon-text {
+    color: #FF0000;
+    text-shadow: 0 0 5px #FF0000, 0 0 10px #FF0000, 0 0 20px #A10000;
+    animation: flicker 1.5s infinite alternate;
+  }
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mudithamethsara&label=Profile%20views&color=0e75b6&style=flat" alt="mudithamethsara" /> </p>
+  /* Flicker Animation */
+  @keyframes flicker {
+    0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% { opacity: 1; }
+    20%, 24%, 55% { opacity: 0.7; }
+  }
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mudithamethsara" alt="mudithamethsara" /></a> </p>-->
+  /* Scanline Animation */
+  .scanline {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(to right, transparent, #A10000, transparent);
+    animation: scanline 6s linear infinite;
+  }
+  @keyframes scanline {
+    0% { transform: translateY(-100%); }
+    100% { transform: translateY(100vh); }
+  }
 
-<p align="left"> <a href="https://twitter.com/muditha_meth" target="blank"><img src="https://img.shields.io/twitter/follow/muditha_meth?logo=twitter&style=for-the-badge" alt="muditha_meth" /></a> </p>
+  /* Snowfall Animation */
+  .snow {
+    position: absolute;
+    top: -10px;
+    width: 10px;
+    height: 10px;
+    background: #FF0000;
+    border-radius: 50%;
+    opacity: 0.7;
+    animation: snowfall linear infinite;
+  }
+  @keyframes snowfall {
+    0% { transform: translateY(-10px); opacity: 0.7; }
+    100% { transform: translateY(100vh); opacity: 0.2; }
+  }
+  .snow:nth-child(1) { left: 10%; animation-duration: 10s; }
+  .snow:nth-child(2) { left: 20%; animation-duration: 12s; animation-delay: 1s; }
+  .snow:nth-child(3) { left: 30%; animation-duration: 15s; animation-delay: 2s; }
+  .snow:nth-child(4) { left: 40%; animation-duration: 11s; animation-delay: 3s; }
+  .snow:nth-child(5) { left: 50%; animation-duration: 13s; animation-delay: 4s; }
+  .snow:nth-child(6) { left: 60%; animation-duration: 14s; animation-delay: 5s; }
+  .snow:nth-child(7) { left: 70%; animation-duration: 10s; animation-delay: 6s; }
+  .snow:nth-child(8) { left: 80%; animation-duration: 12s; animation-delay: 7s; }
+  .snow:nth-child(9) { left: 90%; animation-duration: 15s; animation-delay: 8s; }
 
-- 🔭 I’m currently working on [Hospital Management System & API](#)
+  /* Running Wolf Animation */
+  .wolf-animation {
+    position: absolute;
+    top: 10px;
+    width: 100%;
+    height: 80px;
+    overflow: hidden;
+  }
+  .wolf {
+    animation: run 5s linear infinite;
+  }
+  @keyframes run {
+    0% { transform: translateX(-100px); }
+    100% { transform: translateX(100vw); }
+  }
 
-- 🌱 I’m currently learning **Undergraduate Software Engineer of Java Institute for Advance Technology, Angular, AngularJs, Springboot, Android, NodeJs, Oracle, Laraval**
+  /* Glowing Border */
+  .glow-border {
+    border: 2px solid #FF0000;
+    box-shadow: 0 0 10px #FF0000, 0 0 20px #A10000;
+    transition: all 0.3s ease;
+  }
+  .glow-border:hover {
+    box-shadow: 0 0 15px #FF0000, 0 0 30px #A10000;
+    transform: scale(1.05);
+  }
 
-- 👯 I’m looking to collaborate on [Ocean Wave Power Generator Project](#)
+  /* Pulse Divider */
+  .pulse-divider {
+    width: 100%;
+    height: 2px;
+    background: #FF0000;
+    box-shadow: 0 0 10px #FF0000;
+    animation: pulse 2s infinite;
+  }
+  @keyframes pulse {
+    0% { box-shadow: 0 0 10px #FF0000; }
+    50% { box-shadow: 0 0 20px #A10000; }
+    100% { box-shadow: 0 0 10px #FF0000; }
+  }
 
-- 👨‍💻 All of my projects are available at [#](#)
+  /* Paw Print Trail */
+  .paw-trail {
+    display: inline-block;
+    animation: pawPulse 1s infinite;
+  }
+  @keyframes pawPulse {
+    0% { opacity: 1; }
+    50% { opacity: 0.5; }
+    100% { opacity: 1; }
+  }
+</style>
 
-- 💬 Ask me about **PHP, Java, C#, React, ReactNative, Photoshop, UnrealEngine**
+<!-- Snowfall Effect -->
+<div class="snow"></div><div class="snow"></div><div class="snow"></div>
+<div class="snow"></div><div class="snow"></div><div class="snow"></div>
+<div class="snow"></div><div class="snow"></div><div class="snow"></div>
 
-- 📫 How to reach me **infomudithamethsara@gmail.com**
+<!-- Scanline Effect -->
+<div class="scanline"></div>
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/muditha-methsara-189a07230/)
+<!-- Boot Sequence Header -->
+```bash
+[SYSTEM BOOTING...] REDWOLF OS v2.3.1
+Initializing Cyber Protocols... [OK]
+Loading Neural Matrix... [OK]
+Activating RedWolf Core... [COMPLETE]
+```
+<div style="text-align: center; color: #FF0000; font-size: 14px; text-shadow: 0 0 5px #FF0000;">
+<pre>
+   _____
+  /     \   ____   ____   _____
+ /_______\/    \_/    \_/     \
+ |  ***  |  ***  |  ***  |  ***  |
+ |  ***  |  ***  |  ***  |  ***  |
+ |_______|_______|_______|_______|
+</pre>
+</div>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-### Licenses & Certifications
-<p align="left">
-<a href="https://www.credly.com/badges/687f42d9-302d-4dc0-a537-dba8d4941e9e/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/computer-hardware-basics.png" alt="" height="60" width="60" /></a>
-<a href="https://www.credly.com/badges/c6407f49-1ce0-469a-9002-5890af451c2b/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/introduction-to-cybersecurity.png" alt="" height="60" width="60" /></a>
-<a href="https://www.credly.com/badges/a2b83b13-50e7-42e0-a95c-75aa921b7a91/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/introduction-to-data-science.png" alt="" height="60" width="60" /></a>
-<a href="https://www.credly.com/badges/89a8f42e-094a-4903-a110-e818d924c586/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/introduction-to-iot.png" alt="" height="60" width="60" /></a>
-<a href="https://www.credly.com/badges/36febe94-56d3-463e-b41a-f6e210fe4a8c/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/python-essentials-1.1.png" alt="" height="60" width="60" /></a>
-<a href="https://www.credly.com/badges/78ed90cf-1ad3-45d7-a8b6-a8a958ed894a/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/operating-systems-basics.png" alt="" height="60" width="60" /></a>
+<!-- Cyber Banner with Running Wolf -->
+<div class="wolf-animation">
+  <svg class="wolf" width="80" height="80" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M20 60 L30 50 L40 60 L50 50 L60 60 L70 50 L80 60" stroke="#FF0000" stroke-width="5" stroke-linecap="round" fill="none"/>
+    <path d="M30 70 L50 70 L60 80" stroke="#FF0000" stroke-width="5" stroke-linecap="round" fill="none"/>
+    <circle cx="70" cy="40" r="5" fill="#FF0000"/>
+  </svg>
+</div>
+
+<!-- About RedWolf -->
+<h1 class="neon-text" style="text-align: center;">RedWolf</h1>
+<p style="text-align: center; color: #A10000; font-size: 18px;">
+  Software Engineer | Cyber Guardian | Creator of Futuristic Systems
+</p>
+<p style="text-align: center; font-style: italic; color: #FF0000; text-shadow: 0 0 5px #FF0000;">
+  "In code we trust. In red we conquer."
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/muditha_methsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muditha_methsara" height="30" width="40" /></a>
-<a href="https://twitter.com/muditha_meth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muditha_meth" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muditha methsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muditha methsara" height="30" width="40" /></a>
-<a href="https://fb.com/muditha methsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muditha methsara" height="30" width="40" /></a>
-<a href="https://instagram.com/muditha_methsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muditha_methsara" height="30" width="40" /></a>
-<a href="https://discord.gg/934651147204059216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="934651147204059216" height="30" width="40" /></a>
+<!-- Skills & Tools -->
+<h2 class="neon-text">Skills & Arsenal</h2>
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; text-align: center;">
+  <div class="glow-border" style="padding: 10px; background: #1A1A1A;">HTML</div>
+  <div class="glow-border" style="padding: 10px; background: #1A1A1A;">CSS</div>
+  <div class="glow-border" style="padding: 10px; background: #1A1A1A;">JavaScript</div>
+  <div class="glow-border" style="padding: 10px; background: #1A1A1A;">Java</div>
+  <div class="glow-border" style="padding: 10px; background: #1A1A1A;">PHP</div>
+  <div class="glow-border" style="padding: 10px; background: #1A1A1A;">MySQL</div>
+  <div class="glow-border" style="padding: 10px; background: #1A1A1A;">Kali Linux</div>
+  <div class="glow-border" style="padding: 10px; background: #1A1A1A;">Docker</div>
+</div>
+
+<!-- Projects Showcase -->
+<h2 class="neon-text">Projects Showcase</h2>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px;">
+  <div class="glow-border" style="padding: 15px; background: #1A1A1A;">
+    <h3 style="color: #FF0000;">WolfCore Engine</h3>
+    <p style="color: #A10000;">A high-performance framework for secure systems.</p>
+  </div>
+  <div class="glow-border" style="padding: 15px; background: #1A1A1A;">
+    <h3 style="color: #FF0000;">CrimsonNet Defense</h3>
+    <p style="color: #A10000;">AI-driven cybersecurity suite.</p>
+  </div>
+  <div class="glow-border" style="padding: 15px; background: #1A1A1A;">
+    <h3 style="color: #FF0000;">RedOps System</h3>
+    <p style="color: #A10000;">Automated penetration testing toolkit.</p>
+  </div>
+</div>
+
+<!-- Live Stats -->
+<h2 class="neon-text">Live Stats</h2>
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=redwolf&theme=dark&show_icons=true&border_color=FF0000" style="border: 2px solid #FF0000; box-shadow: 0 0 10px #FF0000;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redwolf&theme=dark&layout=compact&border_color=FF0000" style="border: 2px solid #FF0000; box-shadow: 0 0 10px #FF0000;">
+</div>
+
+<!-- Connect with Me -->
+<h2 class="neon-text">Connect with Me</h2>
+<div style="display: flex; justify-content: center; gap: 15px;">
+  <a href="https://linkedin.com" class="glow-border" style="padding: 10px 20px; color: #FF0000; text-decoration: none;">LinkedIn</a>
+  <a href="https://github.com" class="glow-border" style="padding: 10px 20px; color: #FF0000; text-decoration: none;">GitHub</a>
+  <a href="https://discord.com" class="glow-border" style="padding: 10px 20px; color: #FF0000; text-decoration: none;">Discord</a>
+  <a href="https://youtube.com" class="glow-border" style="padding: 10px 20px; color: #FF0000; text-decoration: none;">YouTube</a>
+</div>
+
+<!-- Signature -->
+<div class="pulse-divider" style="margin: 20px 0;"></div>
+<p style="text-align: center; color: #FF0000; font-size: 16px;">
+  🐺 Crafted by RedWolf | The Code Howls in Red 🔥
+  <span class="paw-trail">🐾</span><span class="paw-trail">🐾</span><span class="paw-trail">🐾</span>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-
-<!--<div>
-<a href="https://beacons.ai/mudithamethsara">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mudithamethsara&show_icons=true&theme=dracula&include_all_conmits=true&count_private-true"/>
-<ing height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudithamethsara&1ayout=compact&langs_count=16&theme-dracula"/>
-</div>-->
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mudithamethsara&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudithamethsara&hide=TeX&layout=compact&theme=prussian)
-
-
-
+</div>
+```
