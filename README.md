@@ -1,65 +1,261 @@
-<img src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/gitHubCover.png" alt="Cover Image">
-<h1 align="center">
-    <!--<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=F70000&random=false&width=500&height=70&lines=Hey+There!%F0%9F%91%8B;I'm+Muditha+Methsara!;A+passionate+Back-End+developer." alt="Typing SVG" />-->
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F70000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muditha+Methsara!;+Back-End+Developer." />
-</h1>
-<!-- <h1 align="center">Hi 👋, I'm Muditha Methsara</h1> -->
-<!--<h3 align="center">A passionate backend developer from SriLanka</h3>-->
-<!--<img align="right" alt="Coding" width="400" src="https://media.tenor.com/f0cKyHniahEAAAAd/background-khaoticfuture.gif">-->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mudithamethsara&label=Profile%20views&color=0e75b6&style=flat" alt="mudithamethsara" /> </p>
-
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mudithamethsara" alt="mudithamethsara" /></a> </p>-->
-
-<p align="left"> <a href="https://twitter.com/muditha_meth" target="blank"><img src="https://img.shields.io/twitter/follow/muditha_meth?logo=twitter&style=for-the-badge" alt="muditha_meth" /></a> </p>
-
-- 🔭 I’m currently working on [Hospital Management System & API](#)
-
-- 🌱 I’m currently learning **Undergraduate Software Engineer of Java Institute for Advance Technology, Angular, AngularJs, Springboot, Android, NodeJs, Oracle, Laraval**
-
-- 👯 I’m looking to collaborate on [Ocean Wave Power Generator Project](#)
-
-- 👨‍💻 All of my projects are available at [#](#)
-
-- 💬 Ask me about **PHP, Java, C#, React, ReactNative, Photoshop, UnrealEngine**
-
-- 📫 How to reach me **infomudithamethsara@gmail.com**
-
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/muditha-methsara-189a07230/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-### Licenses & Certifications
-<p align="left">
-<a href="https://www.credly.com/badges/687f42d9-302d-4dc0-a537-dba8d4941e9e/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/computer-hardware-basics.png" alt="" height="60" width="60" /></a>
-<a href="https://www.credly.com/badges/c6407f49-1ce0-469a-9002-5890af451c2b/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/introduction-to-cybersecurity.png" alt="" height="60" width="60" /></a>
-<a href="https://www.credly.com/badges/a2b83b13-50e7-42e0-a95c-75aa921b7a91/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/introduction-to-data-science.png" alt="" height="60" width="60" /></a>
-<a href="https://www.credly.com/badges/89a8f42e-094a-4903-a110-e818d924c586/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/introduction-to-iot.png" alt="" height="60" width="60" /></a>
-<a href="https://www.credly.com/badges/36febe94-56d3-463e-b41a-f6e210fe4a8c/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/python-essentials-1.1.png" alt="" height="60" width="60" /></a>
-<a href="https://www.credly.com/badges/78ed90cf-1ad3-45d7-a8b6-a8a958ed894a/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/operating-systems-basics.png" alt="" height="60" width="60" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RedWolfOps/RedWolfOps/main/assets/redwolf-banner.gif" alt="RedWolf Dynamic Banner">
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/muditha_methsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muditha_methsara" height="30" width="40" /></a>
-<a href="https://twitter.com/muditha_meth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muditha_meth" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muditha methsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muditha methsara" height="30" width="40" /></a>
-<a href="https://fb.com/muditha methsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muditha methsara" height="30" width="40" /></a>
-<a href="https://instagram.com/muditha_methsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muditha_methsara" height="30" width="40" /></a>
-<a href="https://discord.gg/934651147204059216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="934651147204059216" height="30" width="40" /></a>
+---
+
+### `SYSTEM.OUT.PRINTLN("I don't predict the future. I code it.");`
+
+---
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/RedWolfOps">
+    <img src="https://img.shields.io/badge/STATUS-ONLINE-red?style=for-the-badge&logo=power-automate&logoColor=white&labelColor=black&color=red" alt="Status">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center">
+        <p align="center">
+          <img src="https://raw.githubusercontent.com/RedWolfOps/RedWolfOps/main/assets/wolf-logo.png" width="150px;" alt="RedWolf Logo"/>
+        </p>
+        <h1 align="center">REDWOLF</h1>
+        <p align="center">
+          <b>Full-Stack Engineer | Cybersecurity Learner | System Architect</b>
+        </p>
+        <p align="center">
+          <i>"Discipline is the soul of an army. It makes small numbers formidable; procures success to the weak, and esteem to all."</i>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/RedWolfOps/RedWolfOps/main/assets/arsenal.png" width="30px" />
+  &nbsp;TECH ARSENAL&nbsp;
+  <img src="https://raw.githubusercontent.com/RedWolfOps/RedWolfOps/main/assets/arsenal.png" width="30px" />
+</h2>
+
+<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr valign="top">
+    <td width="50%">
+      <table width="100%" border="0">
+        <tr><th align="center">Languages</th></tr>
+        <tr>
+          <td align="center">
+            <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+            <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
+            <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+            <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
+            <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%">
+      <table width="100%" border="0">
+        <tr><th align="center">Frameworks & Libraries</th></tr>
+        <tr>
+          <td align="center">
+            <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+            <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+            <a href="#"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"></a>
+            <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"></a>
+            <a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="50%">
+      <table width="100%" border="0">
+        <tr><th align="center">Databases</th></tr>
+        <tr>
+          <td align="center">
+            <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+            <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+            <a href="#"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"></a>
+            <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%">
+      <table width="100%" border="0">
+        <tr><th align="center">DevOps & Cloud</th></tr>
+        <tr>
+          <td align="center">
+            <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+            <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
+            <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+            <a href="#"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"></a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+    <tr valign="top">
+    <td colspan="2">
+      <table width="100%" border="0">
+        <tr><th align="center">Cybersecurity Tools</th></tr>
+        <tr>
+          <td align="center">
+            <a href="#"><img src="https://img.shields.io/badge/Metasploit-D64B27?style=for-the-badge&logo=metasploit&logoColor=white"></a>
+            <a href="#"><img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white"></a>
+            <a href="#"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"></a>
+            <a href="#"><img src="https://img.shields.io/badge/Burp_Suite-FF7E00?style=for-the-badge&logo=burp-suite&logoColor=black"></a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/RedWolfOps/RedWolfOps/main/assets/dashboard.png" width="30px" />
+  &nbsp;PERFORMANCE DASHBOARD&nbsp;
+  <img src="https://raw.githubusercontent.com/RedWolfOps/RedWolfOps/main/assets/dashboard.png" width="30px" />
+</h2>
+
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=RedWolfOps&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C70039&icon_color=C70039&text_color=959DA5&rank_icon=github" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=RedWolfOps&theme=tokyonight&hide_border=true&background=0D1117&stroke=C70039&ring=C70039&fire=C70039&currStreakNum=959DA5&sideNums=959DA5&currStreakLabel=959DA5&sideLabels=959DA5" alt="GitHub Streak" />
+  </p>
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RedWolfOps&bg_color=0d1117&color=959da5&line=c70039&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  </p>
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=RedWolfOps&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  </p>
+</div>
+
+<br>
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/RedWolfOps/RedWolfOps/main/assets/projects.png" width="30px" />
+  &nbsp;FEATURED PROJECTS&nbsp;
+  <img src="https://raw.githubusercontent.com/RedWolfOps/RedWolfOps/main/assets/projects.png" width="30px" />
+</h2>
+
+<div align="center">
+  <table border="0" cellpadding="10" cellspacing="10">
+    <tr valign="top">
+      <td width="33%">
+        <a href="https://github.com/RedWolfOps/sentinel-node">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RedWolfOps&repo=sentinel-node&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C70039&icon_color=C70039&text_color=959DA5" alt="Sentinel Node Project" />
+        </a>
+      </td>
+      <td width="33%">
+        <a href="https://github.com/RedWolfOps/quantum-ledger">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RedWolfOps&repo=quantum-ledger&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C70039&icon_color=C70039&text_color=959DA5" alt="Quantum Ledger Project" />
+        </a>
+      </td>
+      <td width="33%">
+        <a href="https://github.com/RedWolfOps/dynamic-threat-map">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RedWolfOps&repo=dynamic-threat-map&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C70039&icon_color=C70039&text_color=959DA5" alt="Dynamic Threat Map Project" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/RedWolfOps/RedWolfOps/main/assets/skills.png" width="30px" />
+  &nbsp;CYBER SKILLS RADAR&nbsp;
+  <img src="https://raw.githubusercontent.com/RedWolfOps/RedWolfOps/main/assets/skills.png" width="30px" />
+</h2>
+
+<table width="100%" align="center" border="0">
+  <tr>
+    <th align="center" width="33%">Offensive Security</th>
+    <th align="center" width="33%">Defensive Security</th>
+    <th align="center" width="33%">System Architecture</th>
+  </tr>
+  <tr>
+    <td align="center"><code>[ ▰▰▰▰▰▰▱▱▱▱ ]</code></td>
+    <td align="center"><code>[ ▰▰▰▰▰▰▰▱▱▱ ]</code></td>
+    <td align="center"><code>[ ▰▰▰▰▰▰▰▰▰▱ ]</code></td>
+  </tr>
+  <tr>
+    <td align="center">Network Pentesting</td>
+    <td align="center">Incident Response</td>
+    <td align="center">Microservice Design</td>
+  </tr>
+  <tr>
+    <td align="center">Web App Exploitation</td>
+    <td align="center">Threat Intelligence</td>
+    <td align="center">Cloud-Native Scaling</td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/RedWolfOps/RedWolfOps/main/assets/workflow.png" width="30px" />
+  &nbsp;BATTLE-TESTED WORKFLOW&nbsp;
+  <img src="https://raw.githubusercontent.com/RedWolfOps/RedWolfOps/main/assets/workflow.png" width="30px" />
+</h2>
+
+<div align="center">
+  <ul>
+    <li><b>Phase 1:</b> Reconnaissance & Threat Modeling</li>
+    <li><b>Phase 2:</b> System Blueprinting & High-Level Design</li>
+    <li><b>Phase 3:</b> Agile Development & Brutal Code Review</li>
+    <li><b>Phase 4:</b> Penetration Testing & Fortification</li>
+    <li><b>Phase 5:</b> Automated Deployment & Continuous Monitoring</li>
+  </ul>
+</div>
+
+<br>
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/RedWolfOps/RedWolfOps/main/assets/contact.png" width="30px" />
+  &nbsp;CONTACT & LINK HUB&nbsp;
+  <img src="https://raw.githubusercontent.com/RedWolfOps/RedWolfOps/main/assets/contact.png" width="30px" />
+</h2>
+
+<p align="center">
+    <a href="mailto:contact@redwolf.dev">
+      <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=red">
+    </a>
+    <a href="https://www.linkedin.com/in/redwolfdev">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://twitter.com/redwolfdev">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+    <a href="https://discord.gg/redwolfdev">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<br>
 
-<!--<div>
-<a href="https://beacons.ai/mudithamethsara">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mudithamethsara&show_icons=true&theme=dracula&include_all_conmits=true&count_private-true"/>
-<ing height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudithamethsara&1ayout=compact&langs_count=16&theme-dracula"/>
-</div>-->
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mudithamethsara&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudithamethsara&hide=TeX&layout=compact&theme=prussian)
-
-
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RedWolfOps/RedWolfOps/main/assets/red-divider.png" alt="Red Divider"/>
+  <br>
+  <br>
+  <p>
+    <i><font color="#C70039">"The strength of the pack is the wolf, and the strength of the wolf is the pack."</font></i>
+  </p>
+  <br>
+  <br>
+  <img src="https://raw.githubusercontent.com/RedWolfOps/RedWolfOps/main/assets/red-divider.png" alt="Red Divider"/>
+</div>
