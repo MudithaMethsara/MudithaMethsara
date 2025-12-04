@@ -1,209 +1,65 @@
-# **RedWolf System**
-A high-performance, secure, and scalable framework for elite operations.  
-*A RedWolf Dynamic Creation.*
+<img src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/gitHubCover.png" alt="Cover Image">
+<h1 align="center">
+    <!--<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=F70000&random=false&width=500&height=70&lines=Hey+There!%F0%9F%91%8B;I'm+Muditha+Methsara!;A+passionate+Back-End+developer." alt="Typing SVG" />-->
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F70000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muditha+Methsara!;+Back-End+Developer." />
+</h1>
+<!-- <h1 align="center">Hi 👋, I'm Muditha Methsara</h1> -->
+<!--<h3 align="center">A passionate backend developer from SriLanka</h3>-->
+<!--<img align="right" alt="Coding" width="400" src="https://media.tenor.com/f0cKyHniahEAAAAd/background-khaoticfuture.gif">-->
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mudithamethsara&label=Profile%20views&color=0e75b6&style=flat" alt="mudithamethsara" /> </p>
 
-### **PROJECT INFORMATION**
-| Field | Value |
-| :--- | :--- |
-| **Project Type** | Secure Application Framework |
-| **Version** | 1.0.0 |
-| **Status** | Active Development |
-| **License** | MIT License |
-| **Author** | RedWolf Dynamic |
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mudithamethsara" alt="mudithamethsara" /></a> </p>-->
 
----
+<p align="left"> <a href="https://twitter.com/muditha_meth" target="blank"><img src="https://img.shields.io/twitter/follow/muditha_meth?logo=twitter&style=for-the-badge" alt="muditha_meth" /></a> </p>
 
-### **PROJECT OVERVIEW**
-RedWolf System is a robust, modular framework for building secure, high-throughput applications. It is engineered for developers and organizations that demand uncompromising performance, stability, and security for their mission-critical infrastructure.
+- 🔭 I’m currently working on [Hospital Management System & API](#)
 
-The system exists to provide a fortified foundation for critical applications, eliminating common vulnerabilities and performance bottlenecks from the ground up. It is designed for real-world scenarios such as powering secure data processing pipelines, mission-critical operational dashboards, and high-frequency transaction systems.
+- 🌱 I’m currently learning **Undergraduate Software Engineer of Java Institute for Advance Technology, Angular, AngularJs, Springboot, Android, NodeJs, Oracle, Laraval**
 
----
+- 👯 I’m looking to collaborate on [Ocean Wave Power Generator Project](#)
 
-### **CORE FEATURES**
-- **Modular Architecture:** Decoupled components ensure maximum flexibility, maintainability, and scalability.
-- **Zero-Trust Security Model:** Granular, policy-based access control and end-to-end encryption are enforced throughout the system.
-- **High-Throughput Kernel:** The core processing engine is optimized for low-latency operations and massive concurrency.
-- **Automated Threat Detection:** Proactive, real-time monitoring and response to anomalous system activity.
-- **CLI-Driven Operations:** Full system control and scriptability through a powerful command-line interface.
-- **Resilient & Fault-Tolerant:** Designed for high availability with automated recovery mechanisms.
+- 👨‍💻 All of my projects are available at [#](#)
 
----
+- 💬 Ask me about **PHP, Java, C#, React, ReactNative, Photoshop, UnrealEngine**
 
-### **TECHNOLOGY STACK**
-| Domain | Technology |
-| :--- | :--- |
-| **Frontend** | React 18, TypeScript, Vite, WebSocket |
-| **Backend** | Go, Rust, gRPC, NATS Messaging |
-| **Database** | PostgreSQL (Primary), Redis (Caching/Queue) |
-| **Security** | OAuth 2.0 (OIDC), JWT, Argon2id Hashing, TLS 1.3 |
-| **Deployment** | Docker, Kubernetes, Helm |
-| **Observability** | Prometheus, Grafana, OpenTelemetry |
+- 📫 How to reach me **infomudithamethsara@gmail.com**
 
----
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/muditha-methsara-189a07230/)
 
-### **SYSTEM MODULES**
-- **Auth Core:** Centralized service for all authentication (token generation, validation) and authorization (RBAC) logic.
-- **API Gateway:** The single, hardened entry point for all client requests. Enforces security policies, performs rate limiting, and routes traffic to internal services.
-- **Data Persistence Unit:** Abstracted layer that manages all stateful interactions with the primary (PostgreSQL) and cache (Redis) databases.
-- **Processing Engine:** A set of high-performance services written in Go and Rust that execute core business logic and data transformations.
-- **System Monitor:** Real-time agent that collects metrics, logs, and traces for performance and security monitoring.
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+### Licenses & Certifications
+<p align="left">
+<a href="https://www.credly.com/badges/687f42d9-302d-4dc0-a537-dba8d4941e9e/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/computer-hardware-basics.png" alt="" height="60" width="60" /></a>
+<a href="https://www.credly.com/badges/c6407f49-1ce0-469a-9002-5890af451c2b/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/introduction-to-cybersecurity.png" alt="" height="60" width="60" /></a>
+<a href="https://www.credly.com/badges/a2b83b13-50e7-42e0-a95c-75aa921b7a91/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/introduction-to-data-science.png" alt="" height="60" width="60" /></a>
+<a href="https://www.credly.com/badges/89a8f42e-094a-4903-a110-e818d924c586/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/introduction-to-iot.png" alt="" height="60" width="60" /></a>
+<a href="https://www.credly.com/badges/36febe94-56d3-463e-b41a-f6e210fe4a8c/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/python-essentials-1.1.png" alt="" height="60" width="60" /></a>
+<a href="https://www.credly.com/badges/78ed90cf-1ad3-45d7-a8b6-a8a958ed894a/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/operating-systems-basics.png" alt="" height="60" width="60" /></a>
+</p>
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/muditha_methsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muditha_methsara" height="30" width="40" /></a>
+<a href="https://twitter.com/muditha_meth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muditha_meth" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muditha methsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muditha methsara" height="30" width="40" /></a>
+<a href="https://fb.com/muditha methsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muditha methsara" height="30" width="40" /></a>
+<a href="https://instagram.com/muditha_methsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muditha_methsara" height="30" width="40" /></a>
+<a href="https://discord.gg/934651147204059216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="934651147204059216" height="30" width="40" /></a>
+</p>
 
-### **SYSTEM WORKFLOW**
-1. A client initiates a request to the **API Gateway** with a JWT credential in the authorization header.
-2. The **Gateway** validates the JWT signature and claims against the **Auth Core**. It checks the user's role and permissions for the requested resource.
-3. Upon successful validation, the request is routed to the appropriate service within the **Processing Engine**.
-4. The **Engine** executes the required task, interacting with the **Data Persistence Unit** to read or write data as needed.
-5. The response is packaged and returned through the **Gateway** to the client.
-6. All operations, successful or not, are logged and monitored by the **System Monitor**, with critical alerts triggered on security or performance anomalies.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
----
+<!--<div>
+<a href="https://beacons.ai/mudithamethsara">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mudithamethsara&show_icons=true&theme=dracula&include_all_conmits=true&count_private-true"/>
+<ing height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudithamethsara&1ayout=compact&langs_count=16&theme-dracula"/>
+</div>-->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mudithamethsara&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudithamethsara&hide=TeX&layout=compact&theme=prussian)
 
-### **INSTALLATION GUIDE**
 
-**Prerequisites:**
-- Git
-- Node.js (v18+)
-- Go (v1.19+)
-- Rust (latest stable)
-- Docker & Docker Compose
 
-**1. Clone the Repository**
-```sh
-git clone https://github.com/RedWolfDynamic/RedWolfSystem.git
-cd RedWolfSystem
-```
-
-**2. Configure Environment Variables**
-Create a `.env` file in the project root by copying the example file:
-```sh
-cp .env.example .env
-```
-Update the `.env` file with your database credentials, secret keys, and other required parameters.
-
-**3. Database Setup (Docker)**
-Start the required PostgreSQL and Redis containers:
-```sh
-docker-compose up -d db cache
-```
-
-**4. Backend Setup (Go & Rust)**
-Install dependencies and compile the services:
-```sh
-# For Go services
-go mod download
-go build ./...
-
-# For Rust services
-cd services/rust-service
-cargo build --release
-```
-
-**5. Frontend Setup (Node.js)**
-```sh
-cd frontend
-npm install
-```
-
----
-
-### **USAGE INSTRUCTIONS**
-
-**1. Run the System**
-- Start the backend services (from the root directory):
-  ```sh
-  ./bin/auth-core & ./bin/api-gateway & ./bin/processing-engine
-  ```
-- Start the frontend development server (from the `frontend` directory):
-  ```sh
-  npm run dev
-  ```
-
-**2. Access the Application**
-Navigate to `http://localhost:5173`.
-
-**3. Login & Roles**
-- **Default Admin:** `admin@redwolf.io` / `default_admin_password`
-- **Default User:** `user@redwolf.io` / `default_user_password`
-
-The **Admin** role has full system configuration access. The **User** role has limited access to core application features as defined by the default security policy.
-
----
-
-### **FOLDER STRUCTURE**
-```
-/
-├── .github/
-│   ├── ISSUE_TEMPLATE/
-│   └── workflows/
-├── cmd/
-│   ├── api-gateway/
-│   └── ... (other service entrypoints)
-├── internal/
-│   ├── auth/
-│   ├── database/
-│   └── ... (shared packages)
-├── frontend/
-│   ├── src/
-│   └── ... (React application)
-├── scripts/
-│   ├── db-migrate.sh
-│   └── deploy.sh
-├── .env.example
-├── .gitignore
-├── docker-compose.yml
-├── go.mod
-├── LICENSE
-└── README.md
-```
-
----
-
-### **SECURITY NOTES**
-- **Authentication:** JWT-based authentication using short-lived access tokens and secure, HTTP-only refresh tokens. OIDC compliance is enforced.
-- **Password Handling:** All user passwords are put through Argon2id hashing with unique salts. No plaintext passwords are ever logged or stored.
-- **Access Control:** Granular Role-Based Access Control (RBAC) is enforced at the API Gateway, ensuring services are protected by default.
-- **Data Protection:** All network traffic is encrypted using TLS 1.3. Sensitive data at rest is encrypted using AES-256-GCM.
-
----
-
-### **PERFORMANCE NOTES**
-- **Optimization:** Backend services are compiled to native binaries for near-bare-metal performance. Critical data processing paths are implemented in Rust for memory safety and maximum speed.
-- **Scalability:** The system is designed as a set of stateless microservices, allowing for seamless horizontal scaling via container orchestration platforms like Kubernetes.
-- **Stability:** A comprehensive test suite covers unit, integration, and end-to-end tests, ensuring code quality and system reliability. Database connections and service interactions include exponential backoff and retry mechanisms.
-
----
-
-### **FUTURE IMPROVEMENTS**
-- **Q1 2026:** Implementation of an advanced anomaly detection engine using machine learning to identify sophisticated threats.
-- **Q2 2026:** Integration of distributed tracing to provide deeper insights into cross-service requests.
-- **Q3 2026:** Development of a plugin architecture to allow for secure, third-party module integration.
-- **Q4 2026:** Geo-distributed deployment capabilities for improved disaster recovery and lower global latency.
-
----
-
-### **CONTRIBUTION GUIDELINES**
-We adhere to a strict development protocol to maintain system integrity.
-1. Fork the repository.
-2. Create a new feature branch (`git checkout -b feature/YourFeatureName`).
-3. Commit your changes with clear, semantic commit messages.
-4. Ensure all new code is covered by tests and that all existing tests pass.
-5. Push to your branch and submit a pull request to the `main` branch.
-6. The pull request will be reviewed by the core team. Code must adhere to the existing style and pass all CI checks.
-
----
-
-### **LICENSE**
-This project is licensed under the MIT License. See the `LICENSE` file for the full text.
-
----
-
-### **AUTHOR**
-**Name:** RedWolf  
-**Title:** Software Engineer | Founder – RedWolf Dynamic
-
-*“Code with teeth. Build with fire.”*
