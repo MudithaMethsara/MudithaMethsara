@@ -1,220 +1,209 @@
-<!--
-██████╗░░█████╗░██████╗░░█████╗░██╗░░░░░██╗░░░██╗░█████╗░██╗░░░██╗███████╗
-██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║░░░░░██║░░░██║██╔══██╗██║░░░██║██╔════╝
-██████╔╝██║░░██║██║░░██║██║░░██║██║░░░░░██║░░░██║██║░░██║██║░░░██║█████╗░░
-██╔══██╗██║░░██║██║░░██║██║░░██║██║░░░░░██║░░░██║██║░░██║██║░░░██║██╔══╝░░
-██║░░██║╚█████╔╝██████╔╝╚█████╔╝███████╗╚██████╔╝╚█████╔╝╚██████╔╝███████╗
-╚═╝░░╚═╝░╚════╝░╚═════╝░░╚════╝░╚══════╝░╚═════╝░░╚════╝░░╚═════╝░╚══════╝
--->
-
-<div align="center">
-
-<p align="center">
-  <img src="https://dummyimage.com/1200x400/0d1117/c70039.png&text=REDWOLF+DYNAMIC" alt="RedWolf Dynamic Banner - You can replace this with an animated GIF">
-</p>
-
-### `> I don't chase the game. I become the Apex._`
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=redwolfdynamic&style=for-the-badge&color=c70039&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-red?style=for-the-badge&labelColor=0D1117&color=c70039" alt="Status"/>
-</p>
-
-</div>
+# **RedWolf System**
+A high-performance, secure, and scalable framework for elite operations.  
+*A RedWolf Dynamic Creation.*
 
 ---
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="border: none;">
-    <tr>
-      <td align="center">
-        <p align="center">
-          <img src="https://dummyimage.com/150x150/0d1117/c70039.png&text=RW" width="150px;" alt="RedWolf Logo"/>
-        </p>
-        <h1 align="center">R<font color="#C70039">E</font>DW<font color="#C70039">O</font>LF</h1>
-        <p align="center">
-          <b>Full-Stack Engineer | Cyber Operator | System Architect</b>
-        </p>
-        <p align="center">
-          <i>"He who is brave is free."</i>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+### **PROJECT INFORMATION**
+| Field | Value |
+| :--- | :--- |
+| **Project Type** | Secure Application Framework |
+| **Version** | 1.0.0 |
+| **Status** | Active Development |
+| **License** | MIT License |
+| **Author** | RedWolf Dynamic |
 
-<br>
+---
 
-<h2 align="center">
-  <img src="https://dummyimage.com/30x30/0d1117/c70039.png&text=+" alt=""/>
-  &nbsp;TECH ARSENAL&nbsp;
-  <img src="https://dummyimage.com/30x30/0d1117/c70039.png&text=+" alt=""/>
-</h2>
+### **PROJECT OVERVIEW**
+RedWolf System is a robust, modular framework for building secure, high-throughput applications. It is engineered for developers and organizations that demand uncompromising performance, stability, and security for their mission-critical infrastructure.
 
-<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
-  <!-- The Tech Arsenal remains largely the same as it's already well-structured -->
-  <tr valign="top">
-    <td width="50%">
-      <table width="100%" border="0">
-        <tr><th align="center">Languages</th></tr>
-        <tr>
-          <td align="center">
-            <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117"></a>
-            <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117"></a>
-            <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"></a>
-            <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117"></a>
-            <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117"></a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="50%">
-      <table width="100%" border="0">
-        <tr><th align="center">Frameworks & Libraries</th></tr>
-        <tr>
-          <td align="center">
-            <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117"></a>
-            <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117"></a>
-            <a href="#"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117"></a>
-            <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117"></a>
-            <a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=0D1117"></a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-    <tr valign="top">
-    <td colspan="2">
-      <table width="100%" border="0">
-        <tr><th align="center">Cybersecurity Tools</th></tr>
-        <tr>
-          <td align="center">
-            <a href="#"><img src="https://img.shields.io/badge/Metasploit-D64B27?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0D1117"></a>
-            <a href="#"><img src="https://img.shields.io/badge/Nmap-E4E4E4?style=for-the-badge&logo=nmap&logoColor=black&labelColor=0D1117"></a>
-            <a href="#"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0D1117"></a>
-            <a href="#"><img src="https://img.shields.io/badge/Burp_Suite-FF7E00?style=for-the-badge&logo=burp-suite&logoColor=black&labelColor=0D1117"></a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+The system exists to provide a fortified foundation for critical applications, eliminating common vulnerabilities and performance bottlenecks from the ground up. It is designed for real-world scenarios such as powering secure data processing pipelines, mission-critical operational dashboards, and high-frequency transaction systems.
 
-<br>
+---
 
-<h2 align="center">
-  <img src="https://dummyimage.com/30x30/0d1117/c70039.png&text=+" alt=""/>
-  &nbsp;PERFORMANCE DASHBOARD&nbsp;
-  <img src="https://dummyimage.com/30x30/0d1117/c70039.png&text=+" alt=""/>
-</h2>
+### **CORE FEATURES**
+- **Modular Architecture:** Decoupled components ensure maximum flexibility, maintainability, and scalability.
+- **Zero-Trust Security Model:** Granular, policy-based access control and end-to-end encryption are enforced throughout the system.
+- **High-Throughput Kernel:** The core processing engine is optimized for low-latency operations and massive concurrency.
+- **Automated Threat Detection:** Proactive, real-time monitoring and response to anomalous system activity.
+- **CLI-Driven Operations:** Full system control and scriptability through a powerful command-line interface.
+- **Resilient & Fault-Tolerant:** Designed for high availability with automated recovery mechanisms.
 
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=RedWolfOps&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C70039&icon_color=C70039&text_color=959DA5&rank_icon=github" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=RedWolfOps&theme=tokyonight&hide_border=true&background=0D1117&stroke=C70039&ring=C70039&fire=C70039&currStreakNum=959DA5&sideNums=959DA5&currStreakLabel=959DA5&sideLabels=959DA5" alt="GitHub Streak" />
-  </p>
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RedWolfOps&bg_color=0d1117&color=959da5&line=c70039&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-  </p>
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=RedWolfOps&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-  </p>
-</div>
+---
 
-<br>
+### **TECHNOLOGY STACK**
+| Domain | Technology |
+| :--- | :--- |
+| **Frontend** | React 18, TypeScript, Vite, WebSocket |
+| **Backend** | Go, Rust, gRPC, NATS Messaging |
+| **Database** | PostgreSQL (Primary), Redis (Caching/Queue) |
+| **Security** | OAuth 2.0 (OIDC), JWT, Argon2id Hashing, TLS 1.3 |
+| **Deployment** | Docker, Kubernetes, Helm |
+| **Observability** | Prometheus, Grafana, OpenTelemetry |
 
-<h2 align="center">
-  <img src="https://dummyimage.com/30x30/0d1117/c70039.png&text=+" alt=""/>
-  &nbsp;FEATURED PROJECTS&nbsp;
-  <img src="https://dummyimage.com/30x30/0d1117/c70039.png&text=+" alt=""/>
-</h2>
+---
 
-<div align="center">
-  <table border="0" cellpadding="10" cellspacing="10">
-    <tr valign="top">
-      <td width="33%"><a href="https://github.com/RedWolfOps/sentinel-node"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RedWolfOps&repo=sentinel-node&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C70039&icon_color=C70039&text_color=959DA5" alt="Sentinel Node Project" /></a></td>
-      <td width="33%"><a href="https://github.com/RedWolfOps/quantum-ledger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RedWolfOps&repo=quantum-ledger&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C70039&icon_color=C70039&text_color=959DA5" alt="Quantum Ledger Project" /></a></td>
-      <td width="33%"><a href="https://github.com/RedWolfOps/dynamic-threat-map"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RedWolfOps&repo=dynamic-threat-map&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C70039&icon_color=C70039&text_color=959DA5" alt="Dynamic Threat Map Project" /></a></td>
-    </tr>
-  </table>
-</div>
+### **SYSTEM MODULES**
+- **Auth Core:** Centralized service for all authentication (token generation, validation) and authorization (RBAC) logic.
+- **API Gateway:** The single, hardened entry point for all client requests. Enforces security policies, performs rate limiting, and routes traffic to internal services.
+- **Data Persistence Unit:** Abstracted layer that manages all stateful interactions with the primary (PostgreSQL) and cache (Redis) databases.
+- **Processing Engine:** A set of high-performance services written in Go and Rust that execute core business logic and data transformations.
+- **System Monitor:** Real-time agent that collects metrics, logs, and traces for performance and security monitoring.
 
-<br>
+---
 
-<h2 align="center">
-  <img src="https://dummyimage.com/30x30/0d1117/c70039.png&text=+" alt=""/>
-  &nbsp;CYBER DOMAIN EXPERTISE&nbsp;
-  <img src="https://dummyimage.com/30x30/0d1117/c70039.png&text=+" alt=""/>
-</h2>
+### **SYSTEM WORKFLOW**
+1. A client initiates a request to the **API Gateway** with a JWT credential in the authorization header.
+2. The **Gateway** validates the JWT signature and claims against the **Auth Core**. It checks the user's role and permissions for the requested resource.
+3. Upon successful validation, the request is routed to the appropriate service within the **Processing Engine**.
+4. The **Engine** executes the required task, interacting with the **Data Persistence Unit** to read or write data as needed.
+5. The response is packaged and returned through the **Gateway** to the client.
+6. All operations, successful or not, are logged and monitored by the **System Monitor**, with critical alerts triggered on security or performance anomalies.
 
-<table width="100%" align="center" border="0" style="border-collapse: collapse;">
-  <tr>
-    <td width="33%" style="padding: 10px;"><h4 align="center">Offensive Security</h4></td>
-    <td width="33%" style="padding: 10px;"><h4 align="center">Defensive Security</h4></td>
-    <td width="33%" style="padding: 10px;"><h4 align="center">System Architecture</h4></td>
-  </tr>
-  <tr>
-    <td><pre>Network Pentesting  [████████░░] 80%</pre></td>
-    <td><pre>Incident Response   [███████░░░] 70%</pre></td>
-    <td><pre>Microservice Design [█████████░] 90%</pre></td>
-  </tr>
-  <tr>
-    <td><pre>Web Exploitation    [█████████░] 90%</pre></td>
-    <td><pre>Threat Intelligence [██████░░░░] 60%</pre></td>
-    <td><pre>Cloud-Native Infra  [████████░░] 80%</pre></td>
-  </tr>
-  <tr>
-    <td><pre>Reverse Engineering [█████░░░░░] 50%</pre></td>
-    <td><pre>Digital Forensics   [████░░░░░░] 40%</pre></td>
-    <td><pre>Distributed Systems [███████░░░] 70%</pre></td>
-  </tr>
-</table>
+---
 
-<br>
+### **INSTALLATION GUIDE**
 
-<h2 align="center">
-  <img src="https://dummyimage.com/30x30/0d1117/c70039.png&text=+" alt=""/>
-  &nbsp;THE HUNT PROTOCOL&nbsp;
-  <img src="https://dummyimage.com/30x30/0d1117/c70039.png&text=+" alt=""/>
-</h2>
+**Prerequisites:**
+- Git
+- Node.js (v18+)
+- Go (v1.19+)
+- Rust (latest stable)
+- Docker & Docker Compose
 
-<div align="center">
-  <ol style="list-style-type: none; text-align: left; max-width: 600px; margin: auto;">
-    <li><font color="#C70039">01.</font> <b>STALK:</b> Identify the Target, Map the Terrain.</li>
-    <li><font color="#C70039">02.</font> <b>PLAN:</b> Encircle the Objective, Design the Ambush.</li>
-    <li><font color="#C70039">03.</font> <b>HUNT:</b> Execute with Precision, Eliminate Weaknesses.</li>
-    <li><font color="#C70039">04.</font> <b>SECURE:</b> Test the Defenses, Fortify the Den.</li>
-    <li><font color="#C70039">05.</font> <b>DOMINATE:</b> Deploy the Asset, Watch from the Shadows.</li>
-  </ol>
-</div>
+**1. Clone the Repository**
+```sh
+git clone https://github.com/RedWolfDynamic/RedWolfSystem.git
+cd RedWolfSystem
+```
 
-<br>
+**2. Configure Environment Variables**
+Create a `.env` file in the project root by copying the example file:
+```sh
+cp .env.example .env
+```
+Update the `.env` file with your database credentials, secret keys, and other required parameters.
 
-<h2 align="center">
-  <img src="https://dummyimage.com/30x30/0d1117/c70039.png&text=+" alt=""/>
-  &nbsp;COMM-LINK&nbsp;
-  <img src="https://dummyimage.com/30x30/0d1117/c70039.png&text=+" alt=""/>
-</h2>
+**3. Database Setup (Docker)**
+Start the required PostgreSQL and Redis containers:
+```sh
+docker-compose up -d db cache
+```
 
-<p align="center">
-    <a href="mailto:contact@redwolf.dev">
-      <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=red&labelColor=0D1117">
-    </a>
-    <a href="https://www.linkedin.com/in/redwolfdev">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117">
-    </a>
-    <a href="https://twitter.com/redwolfdev">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117">
-    </a>
-    <a href="https://discord.gg/redwolfdev">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117">
-    </a>
-</p>
+**4. Backend Setup (Go & Rust)**
+Install dependencies and compile the services:
+```sh
+# For Go services
+go mod download
+go build ./...
 
-<div align="center">
-  <img src="https://dummyimage.com/800x4/c70039/0d1117.png" alt="Red Divider"/>
-  <p>
-    <i><font color="#C70039">"The strength of the pack is the wolf, and the strength of the wolf is the pack."</font></i>
-  </p>
-  <img src="https://dummyimage.com/800x4/c70039/0d1117.png" alt="Red Divider"/>
-</div>
+# For Rust services
+cd services/rust-service
+cargo build --release
+```
+
+**5. Frontend Setup (Node.js)**
+```sh
+cd frontend
+npm install
+```
+
+---
+
+### **USAGE INSTRUCTIONS**
+
+**1. Run the System**
+- Start the backend services (from the root directory):
+  ```sh
+  ./bin/auth-core & ./bin/api-gateway & ./bin/processing-engine
+  ```
+- Start the frontend development server (from the `frontend` directory):
+  ```sh
+  npm run dev
+  ```
+
+**2. Access the Application**
+Navigate to `http://localhost:5173`.
+
+**3. Login & Roles**
+- **Default Admin:** `admin@redwolf.io` / `default_admin_password`
+- **Default User:** `user@redwolf.io` / `default_user_password`
+
+The **Admin** role has full system configuration access. The **User** role has limited access to core application features as defined by the default security policy.
+
+---
+
+### **FOLDER STRUCTURE**
+```
+/
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   └── workflows/
+├── cmd/
+│   ├── api-gateway/
+│   └── ... (other service entrypoints)
+├── internal/
+│   ├── auth/
+│   ├── database/
+│   └── ... (shared packages)
+├── frontend/
+│   ├── src/
+│   └── ... (React application)
+├── scripts/
+│   ├── db-migrate.sh
+│   └── deploy.sh
+├── .env.example
+├── .gitignore
+├── docker-compose.yml
+├── go.mod
+├── LICENSE
+└── README.md
+```
+
+---
+
+### **SECURITY NOTES**
+- **Authentication:** JWT-based authentication using short-lived access tokens and secure, HTTP-only refresh tokens. OIDC compliance is enforced.
+- **Password Handling:** All user passwords are put through Argon2id hashing with unique salts. No plaintext passwords are ever logged or stored.
+- **Access Control:** Granular Role-Based Access Control (RBAC) is enforced at the API Gateway, ensuring services are protected by default.
+- **Data Protection:** All network traffic is encrypted using TLS 1.3. Sensitive data at rest is encrypted using AES-256-GCM.
+
+---
+
+### **PERFORMANCE NOTES**
+- **Optimization:** Backend services are compiled to native binaries for near-bare-metal performance. Critical data processing paths are implemented in Rust for memory safety and maximum speed.
+- **Scalability:** The system is designed as a set of stateless microservices, allowing for seamless horizontal scaling via container orchestration platforms like Kubernetes.
+- **Stability:** A comprehensive test suite covers unit, integration, and end-to-end tests, ensuring code quality and system reliability. Database connections and service interactions include exponential backoff and retry mechanisms.
+
+---
+
+### **FUTURE IMPROVEMENTS**
+- **Q1 2026:** Implementation of an advanced anomaly detection engine using machine learning to identify sophisticated threats.
+- **Q2 2026:** Integration of distributed tracing to provide deeper insights into cross-service requests.
+- **Q3 2026:** Development of a plugin architecture to allow for secure, third-party module integration.
+- **Q4 2026:** Geo-distributed deployment capabilities for improved disaster recovery and lower global latency.
+
+---
+
+### **CONTRIBUTION GUIDELINES**
+We adhere to a strict development protocol to maintain system integrity.
+1. Fork the repository.
+2. Create a new feature branch (`git checkout -b feature/YourFeatureName`).
+3. Commit your changes with clear, semantic commit messages.
+4. Ensure all new code is covered by tests and that all existing tests pass.
+5. Push to your branch and submit a pull request to the `main` branch.
+6. The pull request will be reviewed by the core team. Code must adhere to the existing style and pass all CI checks.
+
+---
+
+### **LICENSE**
+This project is licensed under the MIT License. See the `LICENSE` file for the full text.
+
+---
+
+### **AUTHOR**
+**Name:** RedWolf  
+**Title:** Software Engineer | Founder – RedWolf Dynamic
+
+*“Code with teeth. Build with fire.”*
