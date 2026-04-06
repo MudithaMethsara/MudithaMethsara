@@ -113,6 +113,16 @@ $ whoami
 
 ## 🐍 Activity
 
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MudithaMethsara&show_icons=true&theme=radical&hide_border=true&bg_color=0D0000&title_color=b00000&icon_color=b00000&text_color=ffffff&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MudithaMethsara&layout=compact&theme=radical&hide_border=true&bg_color=0D0000&title_color=b00000&text_color=ffffff&langs_count=10" />
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=MudithaMethsara&theme=radical&hide_border=true&background=0D0000&ring=b00000&fire=ff0000&currStreakLabel=b00000" />
+
+</div>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/MudithaMethsara/MudithaMethsara/output/github-contribution-grid-snake-dark.svg" />
 </div>
