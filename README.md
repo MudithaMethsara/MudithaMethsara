@@ -1,65 +1,128 @@
-<img src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/gitHubCover.png" alt="Cover Image">
-<h1 align="center">
-    <!--<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=F70000&random=false&width=500&height=70&lines=Hey+There!%F0%9F%91%8B;I'm+Muditha+Methsara!;A+passionate+Back-End+developer." alt="Typing SVG" />-->
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F70000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muditha+Methsara!;+Back-End+Developer." />
-</h1>
-<!-- <h1 align="center">Hi 👋, I'm Muditha Methsara</h1> -->
-<!--<h3 align="center">A passionate backend developer from SriLanka</h3>-->
-<!--<img align="right" alt="Coding" width="400" src="https://media.tenor.com/f0cKyHniahEAAAAd/background-khaoticfuture.gif">-->
+<!-- ██████╗ ███████╗ █████╗ ██████╗ ███╗   ███╗███████╗ -->
+<!-- ██╔══██╗██╔════╝██╔══██╗██╔══██╗████╗ ████║██╔════╝ -->
+<!-- ██████╔╝█████╗  ███████║██║  ██║██╔████╔██║█████╗   -->
+<!-- ██╔══██╗██╔══╝  ██╔══██║██║  ██║██║╚██╔╝██║██╔══╝   -->
+<!-- ██║  ██║███████╗██║  ██║██████╔╝██║ ╚═╝ ██║███████╗ -->
+<!-- Generated with README.GEN v2.0 — Next-Gen Engine    -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mudithamethsara&label=Profile%20views&color=0e75b6&style=flat" alt="mudithamethsara" /> </p>
+<div align="center">
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mudithamethsara" alt="mudithamethsara" /></a> </p>-->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=b00000&height=200&section=header&text=Muditha%20Methsara&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Back-End%20Developer&descAlignY=55&descSize=20" />
 
-<p align="left"> <a href="https://twitter.com/muditha_meth" target="blank"><img src="https://img.shields.io/twitter/follow/muditha_meth?logo=twitter&style=for-the-badge" alt="muditha_meth" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=B00000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%F0%9F%92%BB%20Back-End%20Developer%3B%F0%9F%94%A5%20Building%20the%20Future%20from%20Sri%20Lanka%3B%E2%9A%A1%20Code.%20Create.%20Conquer." />
 
-- 🔭 I’m currently working on [Hospital Management System & API](#)
+</div>
 
-- 🌱 I’m currently learning **Undergraduate Software Engineer of Java Institute for Advance Technology, Angular, AngularJs, Springboot, Android, NodeJs, Oracle, Laraval**
+---
 
-- 👯 I’m looking to collaborate on [Ocean Wave Power Generator Project](#)
-
-- 👨‍💻 All of my projects are available at [#](#)
-
-- 💬 Ask me about **PHP, Java, C#, React, ReactNative, Photoshop, UnrealEngine**
-
-- 📫 How to reach me **infomudithamethsara@gmail.com**
-
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/muditha-methsara-189a07230/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-### Licenses & Certifications
 <p align="left">
-<a href="https://www.credly.com/badges/687f42d9-302d-4dc0-a537-dba8d4941e9e/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/computer-hardware-basics.png" alt="" height="60" width="60" /></a>
-<a href="https://www.credly.com/badges/c6407f49-1ce0-469a-9002-5890af451c2b/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/introduction-to-cybersecurity.png" alt="" height="60" width="60" /></a>
-<a href="https://www.credly.com/badges/a2b83b13-50e7-42e0-a95c-75aa921b7a91/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/introduction-to-data-science.png" alt="" height="60" width="60" /></a>
-<a href="https://www.credly.com/badges/89a8f42e-094a-4903-a110-e818d924c586/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/introduction-to-iot.png" alt="" height="60" width="60" /></a>
-<a href="https://www.credly.com/badges/36febe94-56d3-463e-b41a-f6e210fe4a8c/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/python-essentials-1.1.png" alt="" height="60" width="60" /></a>
-<a href="https://www.credly.com/badges/78ed90cf-1ad3-45d7-a8b6-a8a958ed894a/public_url" target="blank"><img align="center" src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/operating-systems-basics.png" alt="" height="60" width="60" /></a>
+  <img src="https://komarev.com/ghpvc/?username=MudithaMethsara&label=PROFILE+VIEWS&color=b00000&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/MudithaMethsara?label=FOLLOWERS&style=flat-square&color=b00000&labelColor=000000" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MudithaMethsara&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## ⚡ About Me
+
+```bash
+$ whoami
+> Muditha Methsara — Back-End Developer
+```
+
+| | |
+|---|---|
+| 🔭 **Working on** | Hospital Management System & API |
+| 🌱 **Learning** | Advanced Spring Boot, Angular, Microservices |
+| 👯 **Open to** | Collaborate on Ocean Wave Power Generator Project |
+| 📫 **Reach me** | `infomudithamethsara@gmail.com` |
+| 📍 **Located** | Sri Lanka |
+
+---
+
+## 🛠 Tech Arsenal
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40" height="40" />
+
+</div>
+
+---
+
+## 🌐 Connect
+
 <p align="left">
-<a href="https://dev.to/muditha_methsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muditha_methsara" height="30" width="40" /></a>
-<a href="https://twitter.com/muditha_meth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muditha_meth" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muditha methsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muditha methsara" height="30" width="40" /></a>
-<a href="https://fb.com/muditha methsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muditha methsara" height="30" width="40" /></a>
-<a href="https://instagram.com/muditha_methsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muditha_methsara" height="30" width="40" /></a>
-<a href="https://discord.gg/934651147204059216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="934651147204059216" height="30" width="40" /></a>
+<a href="https://twitter.com/muditha_meth" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muditha-methsara-189a07230/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/muditha_methsara" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://discord.gg/934651147204059216" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<!--<div>
-<a href="https://beacons.ai/mudithamethsara">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mudithamethsara&show_icons=true&theme=dracula&include_all_conmits=true&count_private-true"/>
-<ing height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudithamethsara&1ayout=compact&langs_count=16&theme-dracula"/>
-</div>-->
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mudithamethsara&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudithamethsara&hide=TeX&layout=compact&theme=prussian)
+## 🏆 Licenses & Certifications
 
+<p align="left">
+<a href="https://www.credly.com/badges/687f42d9-302d-4dc0-a537-dba8d4941e9e/public_url" target="_blank"><img src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/computer-hardware-basics.png" alt="Computer Hardware Basics" height="60" width="60" /></a>
+<a href="https://www.credly.com/badges/c6407f49-1ce0-469a-9002-5890af451c2b/public_url" target="_blank"><img src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/introduction-to-cybersecurity.png" alt="Intro to Cybersecurity" height="60" width="60" /></a>
+<a href="https://www.credly.com/badges/a2b83b13-50e7-42e0-a95c-75aa921b7a91/public_url" target="_blank"><img src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/introduction-to-data-science.png" alt="Intro to Data Science" height="60" width="60" /></a>
+<a href="https://www.credly.com/badges/89a8f42e-094a-4903-a110-e818d924c586/public_url" target="_blank"><img src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/introduction-to-iot.png" alt="Intro to IoT" height="60" width="60" /></a>
+<a href="https://www.credly.com/badges/36febe94-56d3-463e-b41a-f6e210fe4a8c/public_url" target="_blank"><img src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/python-essentials-1.1.png" alt="Python Essentials 1" height="60" width="60" /></a>
+<a href="https://www.credly.com/badges/78ed90cf-1ad3-45d7-a8b6-a8a958ed894a/public_url" target="_blank"><img src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/licenses%26certifications/operating-systems-basics.png" alt="Operating Systems Basics" height="60" width="60" /></a>
+</p>
 
+---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MudithaMethsara&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=b00000&icon_color=b00000&text_color=ffffff&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MudithaMethsara&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=b00000&text_color=ffffff&langs_count=10" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MudithaMethsara&theme=radical&hide_border=true&background=000000&ring=b00000&fire=ff0000&currStreakLabel=b00000" />
+</div>
+
+---
+
+## 🐍 Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MudithaMethsara/MudithaMethsara/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=b00000&height=120&section=footer&animation=twinkling" />
+
+*"Code is poetry written in logic."*
+
+</div>
