@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![trophy](img/trophy.png)
+<img src="img/trophy.png"/>
 
 </div>
 
