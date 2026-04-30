@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
+    <style>
+        .text {
+            font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+            font-weight: bold;
+            font-size: 24px;
+            fill: #DC143C; /* Vibrant Crimson Red */
+        }
+        .online-status {
+            fill: #2ECC71; /* High-visibility Neon Green */
+            font-weight: 900;
+            text-shadow: 0 0 5px #2ECC71;
+        }
+        .line {
+            opacity: 0;
+            animation: fadeIn 0.1s forwards;
+        }
+        @keyframes fadeIn {
+            to { opacity: 1; }
+        }
+        /* Sequence lines for terminal experience */
+        .l1 { animation-delay: 0.5s; }
+        .l2 { animation-delay: 1.5s; }
+        .l3 { animation-delay: 2.5s; }
+        .l4 { animation-delay: 3.5s; }
+        .l5 { animation-delay: 4.5s; }
+    </style>
+    <text x="50%" y="50" class="text line l1" text-anchor="middle">System.init(User.REDWOLF);</text>
+    <text x="50%" y="100" class="text line l2" text-anchor="middle">Loading Elite Developer Profile...</text>
+    <text x="50%" y="150" class="text line l3" text-anchor="middle">> Architecting the Future of Software</text>
+    <text x="50%" y="200" class="text line l4" text-anchor="middle">> Mastering AI + Web3 + Cloud</text>
+    <text x="50%" y="250" class="text line l5" text-anchor="middle">
+        > Status: <tspan class="online-status">ONLINE</tspan>
+    </text>
+</svg>
