@@ -1,7 +1,7 @@
 # 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF0000,000000,000000&height=350&section=header&text=REDWOLF&fontSize=80&animation=fadeIn&fontAlignY=38&desc=🔥%20Elite%20Full-Stack%20Architect%20%7C%20Cyberpunk%20Dev%20%7C%20Innovation%20Engine%20🔥&descAlignY=65&descSize=22&fontColor=FF0000&descColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=DC143C,000000,000000&height=350&section=header&text=REDWOLF&fontSize=80&animation=fadeIn&fontAlignY=38&desc=🔥%20Elite%20Full-Stack%20Architect%20%7C%20Cyberpunk%20Dev%20%7C%20Innovation%20Engine%20🔥&descAlignY=65&descSize=22&fontColor=FFFFFF&descColor=FFFFFF" />
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=1500&pause=500&color=FF0000&center=true&vCenter=true&multiline=true&width=1000&height=160&lines=System.init(User.REDWOLF)%3B;Loading+Elite+Developer+Profile...;%3E+Architecting+the+Future+of+Software;%3E+Mastering+AI+%2B+Web3+%2B+Cloud;%3E+Status:+ONLINE)] (https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=1500&pause=500&color=FFFFFF&center=true&vCenter=true&multiline=true&width=1000&height=160&lines=System.init(User.REDWOLF)%3B;Loading+Elite+Developer+Profile...;%3E+Architecting+the+Future+of+Software;%3E+Mastering+AI+%2B+Web3+%2B+Cloud;%3E+Status:+ONLINE)] (https://git.io/typing-svg)
 
 </div>
 
@@ -41,7 +41,7 @@
 
 ### 💫 **Neural Link Established**
 
-**🚀 Greetings, Cyber-Traveller.** I am **Muditha Methsara**, an **Elite Full-Stack Architect & AI Specialist** operating out of **Birmingham City University, UK**.
+**🚀 Greetings, Cyber-Traveller.** I am **RedWolf**, an **Elite Full-Stack Architect & AI Specialist** operating out of **Birmingham City University, UK**.
 
 I don't just write code; I weave digital realities. My mission is to dismantle complex problems and reassemble them into elegant, scalable, and high-performance solutions. From the depths of backend infrastructure to the shimmering pixels of the frontend, I control the entire stack.
 
@@ -77,7 +77,7 @@ I don't just write code; I weave digital realities. My mission is to dismantle c
 <div align="center">
 
 ```yaml
-name: Muditha Methsara
+name: RedWolf
 location: Birmingham, UK 🇬🇧
 education: Birmingham City University
 role: Full-Stack Architect & AI Specialist
@@ -195,7 +195,7 @@ motto: "Ship fast, break nothing, scale everything"
 </table>
 
 ### **📈 Contribution Activity Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mathiyass&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&area_color=FF0000&hide_border=true&custom_title=MUDITHA%20METHSARA's%20Contribution%20Timeline" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mathiyass&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&area_color=FF0000&hide_border=true&custom_title=REDWOLF's%20Contribution%20Timeline" width="95%" />
 
 ### **🏔️ 3D Contribution Calendar**
 <img src="https://raw.githubusercontent.com/Mathiyass/Mathiyass/output/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
@@ -432,7 +432,7 @@ Example:
 
 ### **`> END_TRANSMISSION_`**
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF0000,000000,000000&height=150&section=footer&animation=fadeIn&fontColor=FF0000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=DC143C,000000,000000&height=150&section=footer&animation=fadeIn&fontColor=FFFFFF" />
 </div>
 
 </div>
