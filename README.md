@@ -10,7 +10,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=1500&pause=500&color=FFFFFF&center=true&vCenter=true&multiline=true&width=1000&height=160&lines=System.init(User.REDWOLF)%3B;Loading+Elite+Developer+Profile...;%3E+Architecting+the+Future+of+Software;%3E+Mastering+AI+%2B+Web3+%2B+Cloud;%3E+Status:+ONLINE)] (https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&multiline=true&width=1000&height=350&lines=System.init(User.REDWOLF)%3B;Loading+Elite+Developer+Profile...;%3E+Architecting+the+Future+of+Software;%3E+Mastering+AI+%2B+Web3+%2B+Cloud;%3E+Status:+ONLINE)](https://git.io/typing-svg)
 
 </div>
 
