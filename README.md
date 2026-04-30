@@ -286,14 +286,6 @@ motto: "Ship fast, break nothing, scale everything"
 
 ---
 
-## 🃏 **DEV_HUMOR.EXE**
-
-<div align="center">
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&qColor=%23FF0000&aColor=%23000000&borderColor=%23000000&bgColor=%23000000&textColor=%23ffffff)
-
-</div>
-
 ---
 
 ## 🌍 **CONNECT TO THE GRID**
