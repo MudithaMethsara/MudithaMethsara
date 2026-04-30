@@ -218,22 +218,20 @@ motto: "Ship fast, break nothing, scale everything"
 
 <div align="center">
 
-<a href="https://github.com/Mathiyass/Mathiyass">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathiyass&repo=Mathiyass&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=ffffff" />
-</a>
 <a href="https://github.com/Mathiyass/MA-Optimizer">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathiyass&repo=MA-Optimizer&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=ffffff" />
 </a>
-<a href="https://github.com/Mathiyass/MAportfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathiyass&repo=MAportfolio&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=ffffff" />
+<a href="https://github.com/Mathiyass/-VELORA-Paint-Factory-POS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathiyass&repo=-VELORA-Paint-Factory-POS&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=ffffff" />
 </a>
-<a href="https://github.com/Mathiyass/MA_Chat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathiyass&repo=MA_Chat&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=ffffff" />
+<a href="https://github.com/Mathiyass/killer-quebes-co1301">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathiyass&repo=killer-quebes-co1301&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=ffffff" />
+</a>
+<a href="https://github.com/Mathiyass/MADevMarketplace">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathiyass&repo=MADevMarketplace&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=ffffff" />
 </a>
 
 </div>
-
-> 💡 *Pin your best repositories on your GitHub profile and duplicate the card template above for each repo!*
 
 ---
 
@@ -241,20 +239,9 @@ motto: "Ship fast, break nothing, scale everything"
 
 <div align="center">
 
-<!-- 
-To enable LIVE Spotify Now Playing:
-1. Deploy: https://github.com/kittinan/spotify-github-profile
-2. Replace the placeholder below with your widget URL
-
-Example:
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=00FFE1" />
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=FF0000&bar_color_cover=true" alt="Spotify Now Playing" />
--->
-
 <br/>
 
-[![Spotify](https://img.shields.io/badge/🎧_Connect_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/mathiya)
+[![Spotify](https://img.shields.io/badge/🎧_Connect_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/mudithamethsara)
 [![Apple Music](https://img.shields.io/badge/🎵_Apple_Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/)
 
 </div>
