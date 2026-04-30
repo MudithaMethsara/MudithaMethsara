@@ -29,7 +29,7 @@ Since handles are unconfirmed and returning 404, we will comment out the failing
 
 ```yaml
 # .github/workflows/blog-post-workflow.yml
-          feed_list: "" # "https://medium.com/feed/@RedWolfss,https://dev.to/feed/RedWolfss"
+          feed_list: "" # "https://medium.com/feed/@RedWolf,https://dev.to/feed/RedWolf"
 ```
 
 - [ ] **Step 3: Commit Workflow Fixes**
@@ -76,8 +76,8 @@ git commit -m "feat: apply command center header and dynamic terminal"
 
 - [ ] **Step 1: Update Profile View & Follower Badges**
 ```markdown
-![Profile Views](https://komarev.com/ghpvc/?username=RedWolfss&label=PROFILE+VIEWS&style=for-the-badge&color=00E5FF&labelColor=0D1117)
-![GitHub followers](https://img.shields.io/github/followers/RedWolfss?label=FOLLOWERS&style=for-the-badge&color=FF1744&labelColor=0D1117&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=RedWolf&label=PROFILE+VIEWS&style=for-the-badge&color=00E5FF&labelColor=0D1117)
+![GitHub followers](https://img.shields.io/github/followers/RedWolf?label=FOLLOWERS&style=for-the-badge&color=FF1744&labelColor=0D1117&logo=github)
 ```
 
 - [ ] **Step 2: Update AI/ML Matrix Badges to Cyan/Red**
@@ -101,12 +101,12 @@ git commit -m "feat: re-theme profile badges and technology matrix"
 
 - [ ] **Step 1: Update Streak Stats colors**
 ```markdown
-<img src="https://streak-stats.demolab.com?user=RedWolfss&theme=tokyonight_duo&hide_border=true&background=0D1117&ring=FF1744&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=FF1744" />
+<img src="https://streak-stats.demolab.com?user=RedWolf&theme=tokyonight_duo&hide_border=true&background=0D1117&ring=FF1744&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=FF1744" />
 ```
 
 - [ ] **Step 2: Update Readme Stats colors**
 ```markdown
-<img src="https://github-readme-stats.vercel.app/api?username=RedWolfss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF1744&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=RedWolf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF1744&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" />
 ```
 
 - [ ] **Step 3: Commit Analytics changes**

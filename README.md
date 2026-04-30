@@ -19,13 +19,13 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=RedWolfss&label=PROFILE+VIEWS&style=for-the-badge&color=FF0000&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=RedWolf&label=PROFILE+VIEWS&style=for-the-badge&color=FF0000&labelColor=000000)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/RedWolfss?label=FOLLOWERS&style=for-the-badge&color=FF0000&labelColor=000000&logo=github)
+![GitHub followers](https://img.shields.io/github/followers/RedWolf?label=FOLLOWERS&style=for-the-badge&color=FF0000&labelColor=000000&logo=github)
 &nbsp;
-![GitHub stars](https://img.shields.io/github/stars/RedWolfss?label=TOTAL+STARS&style=for-the-badge&color=FF0000&labelColor=000000&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/RedWolf?label=TOTAL+STARS&style=for-the-badge&color=FF0000&labelColor=000000&logo=github)
 &nbsp;
-![GitHub repos](https://img.shields.io/badge/dynamic/json?label=REPOS&style=for-the-badge&color=FF0000&labelColor=000000&query=%24.public_repos&url=https://api.github.com/users/RedWolfss)
+![GitHub repos](https://img.shields.io/badge/dynamic/json?label=REPOS&style=for-the-badge&color=FF0000&labelColor=000000&query=%24.public_repos&url=https://api.github.com/users/RedWolf)
 
 </div>
 
@@ -59,7 +59,7 @@ I don't just write code; I weave digital realities. My mission is to dismantle c
 
 ### 🏆 **Trophy Case**
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=RedWolfss&theme=radical&margin-w=4" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RedWolf&theme=radical&margin-w=4" width="100%" />
 </a>
 
 </div>
@@ -160,14 +160,14 @@ motto: "Ship fast, break nothing, scale everything"
 
 ### **🔥 Streak Status**
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=RedWolfss&theme=tokyonight_duo&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF" />
+  <img src="https://streak-stats.demolab.com?user=RedWolf&theme=tokyonight_duo&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF" />
 </a>
 
 </td>
 <td width="50%" align="center">
 
 ### **⚡ Code Frequency**
-<img src="https://github-readme-stats.vercel.app/api?username=RedWolfss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=RedWolf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" />
 
 </td>
 </tr>
@@ -178,25 +178,25 @@ motto: "Ship fast, break nothing, scale everything"
 <td width="50%" align="center">
 
 ### **💻 Language Dominance**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedWolfss&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=ffffff&langs_count=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedWolf&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=ffffff&langs_count=10" />
 
 </td>
 <td width="50%" align="center">
 
 ### **📊 Profile Summary**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RedWolfss&theme=tokyonight" width="100%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RedWolfss&theme=tokyonight" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RedWolfss&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RedWolf&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RedWolf&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RedWolf&theme=tokyonight" width="48%" />
 
 </td>
 </tr>
 </table>
 
 ### **📈 Contribution Activity Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RedWolfss&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&area_color=FF0000&hide_border=true&custom_title=REDWOLF's%20Contribution%20Timeline" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RedWolf&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&area_color=FF0000&hide_border=true&custom_title=REDWOLF's%20Contribution%20Timeline" width="95%" />
 
 ### **🏔️ 3D Contribution Calendar**
-<img src="https://raw.githubusercontent.com/RedWolfss/RedWolfss/output/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
+<img src="https://raw.githubusercontent.com/RedWolf/RedWolf/output/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
 
 </div>
 
@@ -206,7 +206,7 @@ motto: "Ship fast, break nothing, scale everything"
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RedWolfss/RedWolfss/output/metrics.svg" width="100%" alt="GitHub Metrics" />
+<img src="https://raw.githubusercontent.com/RedWolf/RedWolf/output/metrics.svg" width="100%" alt="GitHub Metrics" />
 
 <!-- Metrics will be generated by the github-metrics workflow. If not set up yet, this will show a broken image. -->
 
@@ -221,8 +221,8 @@ motto: "Ship fast, break nothing, scale everything"
 ## ⚡ **RECENT NETWORK ACTIVITY**
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#27](https://github.com/RedWolfss/MAportfolio/issues/27) in [RedWolfss/MAportfolio](https://github.com/RedWolfss/MAportfolio)
-2. 🔒 Closed issue [#26](https://github.com/RedWolfss/MAportfolio/issues/26) in [RedWolfss/MAportfolio](https://github.com/RedWolfss/MAportfolio)
+1. 🔒 Closed issue [#27](https://github.com/RedWolf/MAportfolio/issues/27) in [RedWolf/MAportfolio](https://github.com/RedWolf/MAportfolio)
+2. 🔒 Closed issue [#26](https://github.com/RedWolf/MAportfolio/issues/26) in [RedWolf/MAportfolio](https://github.com/RedWolf/MAportfolio)
 <!--END_SECTION:activity-->
 
 ---
@@ -292,7 +292,7 @@ motto: "Ship fast, break nothing, scale everything"
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=FF0000&labelColor=000000)](https://github.com/RedWolfss)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=FF0000&labelColor=000000)](https://github.com/RedWolf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=000000&labelColor=000000)](https://linkedin.com/in/mathisha-angirasa-a955941a2/)
 [![Twitter](https://img.shields.io/badge/𝕏_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white&color=FF0000&labelColor=000000)](https://x.com/M_Methsara_RW)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=000000&labelColor=000000)](https://www.instagram.com/muditha_methsara)
@@ -317,7 +317,7 @@ motto: "Ship fast, break nothing, scale everything"
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mudithamethsara)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mudithamethsara)
-[![Sponsor](https://img.shields.io/badge/GitHub_Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/RedWolfss)
+[![Sponsor](https://img.shields.io/badge/GitHub_Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/RedWolf)
 
 </div>
 
@@ -330,13 +330,13 @@ motto: "Ship fast, break nothing, scale everything"
 
 ### **🐍 Snake Protocol — Contribution Grid**
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RedWolfss/RedWolfss/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RedWolfss/RedWolfss/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/RedWolfss/RedWolfss/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RedWolf/RedWolf/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RedWolf/RedWolf/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RedWolf/RedWolf/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 ### **👾 Pacman Protocol — Contribution Grid**
-<img src="https://raw.githubusercontent.com/RedWolfss/RedWolfss/output/pacman-contribution-graph.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/RedWolf/RedWolf/output/pacman-contribution-graph.svg" width="100%" />
 
 <br/>
 

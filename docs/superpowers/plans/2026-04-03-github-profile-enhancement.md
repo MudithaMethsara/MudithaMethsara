@@ -54,13 +54,13 @@ Update `komarev` and `img.shields.io` badges.
 ```markdown
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=RedWolfss&label=PROFILE+VIEWS&style=for-the-badge&color=00E5FF&labelColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=RedWolf&label=PROFILE+VIEWS&style=for-the-badge&color=00E5FF&labelColor=0D1117)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/RedWolfss?label=FOLLOWERS&style=for-the-badge&color=FF1744&labelColor=0D1117&logo=github)
+![GitHub followers](https://img.shields.io/github/followers/RedWolf?label=FOLLOWERS&style=for-the-badge&color=FF1744&labelColor=0D1117&logo=github)
 &nbsp;
-![GitHub stars](https://img.shields.io/github/stars/RedWolfss?label=TOTAL+STARS&style=for-the-badge&color=00E5FF&labelColor=0D1117&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/RedWolf?label=TOTAL+STARS&style=for-the-badge&color=00E5FF&labelColor=0D1117&logo=github)
 &nbsp;
-![GitHub repos](https://img.shields.io/badge/dynamic/json?label=REPOS&style=for-the-badge&color=FF1744&labelColor=0D1117&logo=github&query=%24.public_repos&url=https://api.github.com/users/RedWolfss)
+![GitHub repos](https://img.shields.io/badge/dynamic/json?label=REPOS&style=for-the-badge&color=FF1744&labelColor=0D1117&logo=github&query=%24.public_repos&url=https://api.github.com/users/RedWolf)
 
 </div>
 ```
@@ -107,17 +107,17 @@ git commit -m "feat: update technology matrix with themed badges"
 
 - [ ] **Step 1: Update Streak Stats colors**
 ```markdown
-<img src="https://streak-stats.demolab.com?user=RedWolfss&theme=tokyonight_duo&hide_border=true&background=0D1117&ring=FF1744&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=FF1744" />
+<img src="https://streak-stats.demolab.com?user=RedWolf&theme=tokyonight_duo&hide_border=true&background=0D1117&ring=FF1744&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=FF1744" />
 ```
 
 - [ ] **Step 2: Update GitHub Readme Stats colors**
 ```markdown
-<img src="https://github-readme-stats.vercel.app/api?username=RedWolfss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF1744&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=MudithaMethsara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF1744&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" />
 ```
 
 - [ ] **Step 3: Update Top Languages colors**
 ```markdown
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedWolfss&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=ffffff&langs_count=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MudithaMethsara&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=ffffff&langs_count=10" />
 ```
 
 - [ ] **Step 4: Commit changes**
