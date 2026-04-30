@@ -29,7 +29,7 @@ Since handles are unconfirmed and returning 404, we will comment out the failing
 
 ```yaml
 # .github/workflows/blog-post-workflow.yml
-          feed_list: "" # "https://medium.com/feed/@mathiyass,https://dev.to/feed/mathiyass"
+          feed_list: "" # "https://medium.com/feed/@RedWolfss,https://dev.to/feed/RedWolfss"
 ```
 
 - [ ] **Step 3: Commit Workflow Fixes**
@@ -48,7 +48,7 @@ git commit -m "fix(ci): update youtube channel id and disable failing blog feeds
 - [ ] **Step 1: Replace header with waving capsule-render (Cyan-Red)**
 ```markdown
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00E5FF,FF1744,000000&height=350&section=header&text=MATHIYA&fontSize=80&animation=fadeIn&fontAlignY=38&desc=🔥%20Elite%20Full-Stack%20Architect%20%7C%20Cyberpunk%20Dev%20%7C%20Innovation%20Engine%20🔥&descAlignY=65&descSize=22&fontColor=00E5FF&descColor=FF1744" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00E5FF,FF1744,000000&height=350&section=header&text=RedWolf&fontSize=80&animation=fadeIn&fontAlignY=38&desc=🔥%20Elite%20Full-Stack%20Architect%20%7C%20Cyberpunk%20Dev%20%7C%20Innovation%20Engine%20🔥&descAlignY=65&descSize=22&fontColor=00E5FF&descColor=FF1744" />
 </div>
 ```
 
@@ -56,7 +56,7 @@ git commit -m "fix(ci): update youtube channel id and disable failing blog feeds
 ```markdown
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=1500&pause=500&color=00E5FF&center=true&vCenter=true&multiline=true&width=1000&height=160&lines=System.init(User.MATHIYA)%3B;Loading+Elite+Developer+Profile...;%3E+Architecting+the+Future+of+Software;%3E+Mastering+AI+%2B+Web3+%2B+Cloud;%3E+Status:+ONLINE)] (https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=1500&pause=500&color=00E5FF&center=true&vCenter=true&multiline=true&width=1000&height=160&lines=System.init(User.RedWolf)%3B;Loading+Elite+Developer+Profile...;%3E+Architecting+the+Future+of+Software;%3E+Mastering+AI+%2B+Web3+%2B+Cloud;%3E+Status:+ONLINE)] (https://git.io/typing-svg)
 
 </div>
 ```
@@ -76,8 +76,8 @@ git commit -m "feat: apply command center header and dynamic terminal"
 
 - [ ] **Step 1: Update Profile View & Follower Badges**
 ```markdown
-![Profile Views](https://komarev.com/ghpvc/?username=Mathiyass&label=PROFILE+VIEWS&style=for-the-badge&color=00E5FF&labelColor=0D1117)
-![GitHub followers](https://img.shields.io/github/followers/Mathiyass?label=FOLLOWERS&style=for-the-badge&color=FF1744&labelColor=0D1117&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=RedWolfss&label=PROFILE+VIEWS&style=for-the-badge&color=00E5FF&labelColor=0D1117)
+![GitHub followers](https://img.shields.io/github/followers/RedWolfss?label=FOLLOWERS&style=for-the-badge&color=FF1744&labelColor=0D1117&logo=github)
 ```
 
 - [ ] **Step 2: Update AI/ML Matrix Badges to Cyan/Red**
@@ -101,12 +101,12 @@ git commit -m "feat: re-theme profile badges and technology matrix"
 
 - [ ] **Step 1: Update Streak Stats colors**
 ```markdown
-<img src="https://streak-stats.demolab.com?user=Mathiyass&theme=tokyonight_duo&hide_border=true&background=0D1117&ring=FF1744&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=FF1744" />
+<img src="https://streak-stats.demolab.com?user=RedWolfss&theme=tokyonight_duo&hide_border=true&background=0D1117&ring=FF1744&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=FF1744" />
 ```
 
 - [ ] **Step 2: Update Readme Stats colors**
 ```markdown
-<img src="https://github-readme-stats.vercel.app/api?username=Mathiyass&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF1744&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=RedWolfss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF1744&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" />
 ```
 
 - [ ] **Step 3: Commit Analytics changes**

@@ -19,13 +19,13 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mathiyass&label=PROFILE+VIEWS&style=for-the-badge&color=FF0000&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=RedWolfss&label=PROFILE+VIEWS&style=for-the-badge&color=FF0000&labelColor=000000)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/Mathiyass?label=FOLLOWERS&style=for-the-badge&color=FF0000&labelColor=000000&logo=github)
+![GitHub followers](https://img.shields.io/github/followers/RedWolfss?label=FOLLOWERS&style=for-the-badge&color=FF0000&labelColor=000000&logo=github)
 &nbsp;
-![GitHub stars](https://img.shields.io/github/stars/Mathiyass?label=TOTAL+STARS&style=for-the-badge&color=FF0000&labelColor=000000&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/RedWolfss?label=TOTAL+STARS&style=for-the-badge&color=FF0000&labelColor=000000&logo=github)
 &nbsp;
-![GitHub repos](https://img.shields.io/badge/dynamic/json?label=REPOS&style=for-the-badge&color=FF0000&labelColor=000000&query=%24.public_repos&url=https://api.github.com/users/Mathiyass)
+![GitHub repos](https://img.shields.io/badge/dynamic/json?label=REPOS&style=for-the-badge&color=FF0000&labelColor=000000&query=%24.public_repos&url=https://api.github.com/users/RedWolfss)
 
 </div>
 
@@ -59,7 +59,7 @@ I don't just write code; I weave digital realities. My mission is to dismantle c
 
 ### 🏆 **Trophy Case**
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mathiyass&theme=radical&margin-w=4" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RedWolfss&theme=radical&margin-w=4" width="100%" />
 </a>
 
 </div>
@@ -160,14 +160,14 @@ motto: "Ship fast, break nothing, scale everything"
 
 ### **🔥 Streak Status**
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Mathiyass&theme=tokyonight_duo&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF" />
+  <img src="https://streak-stats.demolab.com?user=RedWolfss&theme=tokyonight_duo&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF" />
 </a>
 
 </td>
 <td width="50%" align="center">
 
 ### **⚡ Code Frequency**
-<img src="https://github-readme-stats.vercel.app/api?username=Mathiyass&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=RedWolfss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" />
 
 </td>
 </tr>
@@ -178,25 +178,25 @@ motto: "Ship fast, break nothing, scale everything"
 <td width="50%" align="center">
 
 ### **💻 Language Dominance**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiyass&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=ffffff&langs_count=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedWolfss&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=ffffff&langs_count=10" />
 
 </td>
 <td width="50%" align="center">
 
 ### **📊 Profile Summary**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mathiyass&theme=tokyonight" width="100%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mathiyass&theme=tokyonight" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mathiyass&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RedWolfss&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RedWolfss&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RedWolfss&theme=tokyonight" width="48%" />
 
 </td>
 </tr>
 </table>
 
 ### **📈 Contribution Activity Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mathiyass&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&area_color=FF0000&hide_border=true&custom_title=REDWOLF's%20Contribution%20Timeline" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RedWolfss&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&area_color=FF0000&hide_border=true&custom_title=REDWOLF's%20Contribution%20Timeline" width="95%" />
 
 ### **🏔️ 3D Contribution Calendar**
-<img src="https://raw.githubusercontent.com/Mathiyass/Mathiyass/output/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
+<img src="https://raw.githubusercontent.com/RedWolfss/RedWolfss/output/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
 
 </div>
 
@@ -206,7 +206,7 @@ motto: "Ship fast, break nothing, scale everything"
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mathiyass/Mathiyass/output/metrics.svg" width="100%" alt="GitHub Metrics" />
+<img src="https://raw.githubusercontent.com/RedWolfss/RedWolfss/output/metrics.svg" width="100%" alt="GitHub Metrics" />
 
 <!-- Metrics will be generated by the github-metrics workflow. If not set up yet, this will show a broken image. -->
 
@@ -221,8 +221,8 @@ motto: "Ship fast, break nothing, scale everything"
 ## ⚡ **RECENT NETWORK ACTIVITY**
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#27](https://github.com/Mathiyass/MAportfolio/issues/27) in [Mathiyass/MAportfolio](https://github.com/Mathiyass/MAportfolio)
-2. 🔒 Closed issue [#26](https://github.com/Mathiyass/MAportfolio/issues/26) in [Mathiyass/MAportfolio](https://github.com/Mathiyass/MAportfolio)
+1. 🔒 Closed issue [#27](https://github.com/RedWolfss/MAportfolio/issues/27) in [RedWolfss/MAportfolio](https://github.com/RedWolfss/MAportfolio)
+2. 🔒 Closed issue [#26](https://github.com/RedWolfss/MAportfolio/issues/26) in [RedWolfss/MAportfolio](https://github.com/RedWolfss/MAportfolio)
 <!--END_SECTION:activity-->
 
 ---
@@ -273,13 +273,13 @@ motto: "Ship fast, break nothing, scale everything"
 
 <!-- Replace the username placeholders with your actual usernames -->
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mathiya/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/mathiya)
-[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/mathiya)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/mathiya)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/RedWolf/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/RedWolf)
+[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/RedWolf)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/RedWolf)
 
 <!-- If you have a LeetCode account, uncomment and update this:
-<img src="https://leetcard.jacoblin.cool/mathiya?theme=dark&font=Orbitron&ext=heatmap" width="60%" />
+<img src="https://leetcard.jacoblin.cool/RedWolf?theme=dark&font=Orbitron&ext=heatmap" width="60%" />
 -->
 
 </div>
@@ -292,17 +292,17 @@ motto: "Ship fast, break nothing, scale everything"
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=FF0000&labelColor=000000)](https://github.com/Mathiyass)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=FF0000&labelColor=000000)](https://github.com/RedWolfss)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=000000&labelColor=000000)](https://linkedin.com/in/mathisha-angirasa-a955941a2/)
 [![Twitter](https://img.shields.io/badge/𝕏_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white&color=FF0000&labelColor=000000)](https://x.com/M_Methsara_RW)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=000000&labelColor=000000)](https://www.instagram.com/muditha_methsara)
 [![Discord](https://img.shields.io/badge/Discord-redwollff-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=FF0000&labelColor=000000)](https://discord.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=000000&labelColor=FF0000)](https://wa.me/94726125275)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white&color=000000&labelColor=000000)](https://mudithamethsara.github.io/muditha_methsara/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000&labelColor=000000)](https://youtube.com/@mathiya1783)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000&labelColor=000000)](https://youtube.com/@RedWolf1783)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&color=000000&labelColor=000000)](https://medium.com/@mathishaangirasa)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&color=FF0000&labelColor=000000)](https://dev.to/mathishaangirasa)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=000000&labelColor=000000)](https://stackoverflow.com/users/mathiya)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=000000&labelColor=000000)](https://stackoverflow.com/users/RedWolf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FF0000&labelColor=000000)](mailto:YOUR_EMAIL_HERE)
 
 </div>
@@ -317,7 +317,7 @@ motto: "Ship fast, break nothing, scale everything"
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mudithamethsara)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mudithamethsara)
-[![Sponsor](https://img.shields.io/badge/GitHub_Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Mathiyass)
+[![Sponsor](https://img.shields.io/badge/GitHub_Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/RedWolfss)
 
 </div>
 
@@ -330,13 +330,13 @@ motto: "Ship fast, break nothing, scale everything"
 
 ### **🐍 Snake Protocol — Contribution Grid**
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mathiyass/Mathiyass/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mathiyass/Mathiyass/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Mathiyass/Mathiyass/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RedWolfss/RedWolfss/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RedWolfss/RedWolfss/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RedWolfss/RedWolfss/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 ### **👾 Pacman Protocol — Contribution Grid**
-<img src="https://raw.githubusercontent.com/Mathiyass/Mathiyass/output/pacman-contribution-graph.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/RedWolfss/RedWolfss/output/pacman-contribution-graph.svg" width="100%" />
 
 <br/>
 

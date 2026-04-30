@@ -13,7 +13,7 @@ Transform the GitHub profile into a high-performance, visually stunning "Elite A
 ## 3. Core Modules
 
 ### 3.1. Header: The Command Center
-- **Capsule Render**: Custom waving header with "MATHIYA" in Cyan and Red glitch text.
+- **Capsule Render**: Custom waving header with "RedWolf" in Cyan and Red glitch text.
 - **Dynamic Typing SVG**: Rapid-fire terminal initialization commands.
 - **Neon Divider**: Animated line across the full width.
 

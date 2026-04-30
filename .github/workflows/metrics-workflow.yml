@@ -22,7 +22,7 @@ jobs:
           # Create one at: https://github.com/settings/tokens
           # Then add it as a repository secret named METRICS_TOKEN
 
-          user: Mathiyass
+          user: RedWolfss
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London

@@ -12,7 +12,7 @@
 ## 2. Components
 ### 2.1. Dynamic Terminal Header
 - Replace static images with a multi-line Typing SVG.
-- content: `System.init(User.MATHIYA);`, `Loading Elite Developer Profile...`, `> status: ONLINE`.
+- content: `System.init(User.RedWolf);`, `Loading Elite Developer Profile...`, `> status: ONLINE`.
 - Animated divider using the waving capsule-render.
 
 ### 2.2. Technology Arsenal Matrix
