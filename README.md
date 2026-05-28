@@ -278,11 +278,11 @@ Example:
 
 ### 📝 **Latest Neural Logs (Blog)**
 <!-- BLOG-POST-LIST:START -->
-- [Waiting for uplink...](https://medium.com/@mathishaangirasa)
-- [Waiting for uplink...](https://medium.com/@mathishaangirasa)
-- [Waiting for uplink...](https://medium.com/@mathishaangirasa)
-- [Waiting for uplink...](https://medium.com/@mathishaangirasa)
-- [Waiting for uplink...](https://medium.com/@mathishaangirasa)
+- [Waiting for uplink...](https://dev.to/muditha_methsara)
+- [Waiting for uplink...](https://dev.to/muditha_methsara)
+- [Waiting for uplink...](https://dev.to/muditha_methsara)
+- [Waiting for uplink...](https://dev.to/muditha_methsara)
+- [Waiting for uplink...](https://dev.to/muditha_methsara)
 <!-- BLOG-POST-LIST:END -->
 
 </td>
@@ -374,14 +374,13 @@ Example:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=DC143C&labelColor=0D1117)](https://github.com/MudithaMethsara)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=DC143C&labelColor=0D1117)](https://linkedin.com/in/mathisha-angirasa-a955941a2/)
-[![Twitter](https://img.shields.io/badge/𝕏_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white&color=DC143C&labelColor=0D1117)](https://x.com/__MudithaMethsara__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=DC143C&labelColor=0D1117)](https://www.linkedin.com/in/muditha-methsara-189a07230/)
+[![Twitter](https://img.shields.io/badge/𝕏_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white&color=DC143C&labelColor=0D1117)](https://x.com/M_Methsara_RW)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=DC143C&labelColor=0D1117)](https://instagram.com/muditha_methsara)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=DC143C&labelColor=0D1117)](https://discord.gg/QERP5JJM8k)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white&color=DC143C&labelColor=0D1117)](https://MudithaMethsara.dev)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=DC143C&labelColor=0D1117)](https://youtube.com/@MudithaMethsara1783)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&color=DC143C&labelColor=0D1117)](https://medium.com/@mathishaangirasa)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&color=DC143C&labelColor=0D1117)](https://dev.to/mathishaangirasa)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=DC143C&labelColor=0D1117)](https://www.youtube.com/@RedWolf-GamingHub)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&color=DC143C&labelColor=0D1117)](https://dev.to/muditha_methsara)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=DC143C&labelColor=0D1117)](https://stackoverflow.com/users/MudithaMethsara)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=DC143C&labelColor=0D1117)](mailto:YOUR_EMAIL_HERE)
 
