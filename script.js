@@ -1,42 +1,73 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const lines = [
-    "Full‑Stack Engineer 🚀",
-    "Software Engineering @ BCU 🎓",
-    "AI • Automation • Cyberpunk Dev",
+  const terminalLines = [
+    "System.init(User.REDWOLF);",
+    "Loading Elite Developer Profile...",
+    "> Architecting the Future of Software",
+    "> Mastering AI + Web3 + Cloud",
+    "> Status: <span class='status-online'>ONLINE</span>"
   ];
-  const speed = 75,
-    pauseBetween = 1500;
-  let lineIndex = 0,
-    charIndex = 0;
 
-  const typingEl = document.querySelector(".typing");
-  const cursorEl = document.createElement("span");
-  cursorEl.classList.add("cursor");
-  typingEl.after(cursorEl);
+  const terminalContainer = document.getElementById("terminal-content");
+  let lineIndex = 0;
 
-  function typeLine() {
-    if (charIndex < lines[lineIndex].length) {
-      typingEl.textContent += lines[lineIndex].charAt(charIndex++);
-      setTimeout(typeLine, speed);
+  function typeTerminalLine(lineText, container, callback) {
+    const lineEl = document.createElement("div");
+    lineEl.className = "terminal-line";
+    container.appendChild(lineEl);
+
+    let charIndex = 0;
+    const isHtml = lineText.includes("<span");
+    
+    // If it's the status line, we need to handle the HTML tag
+    if (isHtml) {
+      const baseText = lineText.split("<span")[0];
+      const spanContent = "ONLINE";
+      
+      function typeBase() {
+        if (charIndex < baseText.length) {
+          lineEl.textContent += baseText.charAt(charIndex++);
+          setTimeout(typeBase, 40);
+        } else {
+          const span = document.createElement("span");
+          span.className = "status-online";
+          lineEl.appendChild(span);
+          let spanCharIndex = 0;
+          
+          function typeSpan() {
+            if (spanCharIndex < spanContent.length) {
+              span.textContent += spanContent.charAt(spanCharIndex++);
+              setTimeout(typeSpan, 40);
+            } else {
+              callback();
+            }
+          }
+          typeSpan();
+        }
+      }
+      typeBase();
     } else {
-      setTimeout(() => eraseLine(), pauseBetween);
+      function typeRegular() {
+        if (charIndex < lineText.length) {
+          lineEl.textContent += lineText.charAt(charIndex++);
+          setTimeout(typeRegular, 40);
+        } else {
+          callback();
+        }
+      }
+      typeRegular();
     }
   }
 
-  function eraseLine() {
-    if (charIndex > 0) {
-      typingEl.textContent = lines[lineIndex].slice(0, --charIndex);
-      setTimeout(eraseLine, speed / 2);
-    } else {
-      lineIndex = (lineIndex + 1) % lines.length;
-      setTimeout(typeLine, speed);
+  function startAnimation() {
+    if (lineIndex < terminalLines.length) {
+      typeTerminalLine(terminalLines[lineIndex], terminalContainer, () => {
+        lineIndex++;
+        setTimeout(startAnimation, 400);
+      });
     }
   }
 
-  function blinkCursor() {
-    cursorEl.classList.toggle("inactive");
-  }
-
-  setInterval(blinkCursor, 500);
-  typeLine();
+  // Clear existing content and start
+  terminalContainer.innerHTML = "";
+  startAnimation();
 });
