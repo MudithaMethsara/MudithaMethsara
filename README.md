@@ -124,14 +124,14 @@ motto: "Ship fast, break nothing, scale everything"
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=7" />
 </a>
 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=00E5FF&color=DC143C&labelColor=0D1117)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FF1744&color=DC143C&labelColor=0D1117)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=00E5FF&color=DC143C&labelColor=0D1117)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00E5FF&color=DC143C&labelColor=0D1117)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=FF1744&color=DC143C&labelColor=0D1117)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=00E5FF&color=DC143C&labelColor=0D1117)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=FF1744&color=DC143C&labelColor=0D1117)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=00E5FF&color=DC143C&labelColor=0D1117)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
 
 ### **🔧 TOOLS: DEVELOPMENT RIG**
 <a href="https://skillicons.dev">
@@ -140,11 +140,11 @@ motto: "Ship fast, break nothing, scale everything"
 
 ### **🧪 QUALITY: BATTLE-TESTED CODE**
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=FF1744&color=DC143C&labelColor=0D1117)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=00E5FF&color=DC143C&labelColor=0D1117)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=FF1744&color=DC143C&labelColor=0D1117)
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=00E5FF&color=DC143C&labelColor=0D1117)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=FF1744&color=DC143C&labelColor=0D1117)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=00E5FF&color=DC143C&labelColor=0D1117)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=FF1744&color=DC143C&labelColor=0D1117)
 
 </div>
@@ -357,7 +357,7 @@ Example:
 
 <div align="center">
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&qColor=%2300E5FF&aColor=%23FF1744&borderColor=%23FF1744&bgColor=%230D1117&textColor=%23ffffff)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&qColor=%23DC143C&aColor=%23DC143C&borderColor=%23DC143C&bgColor=%230D1117&textColor=%23ffffff)
 
 </div>
 
