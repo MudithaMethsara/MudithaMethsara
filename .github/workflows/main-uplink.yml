@@ -33,7 +33,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
 
       - name: Generate Auto 3D Contributions (Marketplace)
-        uses: jamesgeorge007/github-3d-contributions-svg@master
+        uses: offensive-vk/auto-3d-contributions@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
