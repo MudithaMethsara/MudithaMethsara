@@ -45,7 +45,7 @@ jobs:
           
           # Themes
           config_padding: 6%, 10%
-          style: |
+          extras_css: |
             :root {
               --color-canvas-default: #0D1117 !important;
               --color-canvas-subtle: #1e2327 !important;
@@ -64,7 +64,10 @@ jobs:
           plugin_languages_limit: 8
           plugin_stars: yes
           plugin_stars_limit: 4
+          
+          # Output
           filename: metrics.svg
+          output_action: none
 
       # 4. Prepare and Push to 'output' branch
       - name: Prepare Assets for Deployment
