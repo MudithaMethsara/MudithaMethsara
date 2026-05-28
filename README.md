@@ -8,7 +8,7 @@
   
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=1500&pause=500&color=DC143C&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=System.init(User.REDWOLF)%3B;Loading+Elite+Architect+Profile...;%3E+Deploying+Infrastructure...;%3E+Status:+ONLINE)] (https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=35&duration=2000&pause=1000&color=DC143C&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=System.init(User.REDWOLF)%3B;Loading+Elite+Architect+Profile...;%3E+Deploying+Infrastructure...;%3E+Status:+ONLINE)](https://git.io/typing-svg)
 
 </div>
 
@@ -164,7 +164,7 @@ motto: "Ship fast, break nothing, scale everything"
 
 ### **🔥 Streak Status**
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=MudithaMethsara&theme=tokyonight_duo&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=DC143C" />
+  <img src="https://streak-stats.demolab.com?user=MudithaMethsara&theme=radical&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=DC143C" />
 </a>
 
 </td>
