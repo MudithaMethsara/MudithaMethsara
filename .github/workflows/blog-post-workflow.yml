@@ -16,4 +16,5 @@ jobs:
       - name: Pull in dev.to / Medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@mathishaangirasa,https://dev.to/feed/mathishaangirasa"
+          # feed_list: "https://medium.com/feed/@mathishaangirasa,https://dev.to/feed/mathishaangirasa"
+          feed_list: ""

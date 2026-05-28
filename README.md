@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=1500&pause=500&color=00E5FF&center=true&vCenter=true&multiline=true&width=1000&height=160&lines=System.init(User.MUDITHAMETHSARA)%3B;Loading+Elite+Developer+Profile...;%3E+Architecting+the+Future+of+Software;%3E+Mastering+AI+%2B+Web3+%2B+Cloud;%3E+Status:+ONLINE)] (https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=1500&pause=500&color=DC143C&center=true&vCenter=true&multiline=true&width=1000&height=160&lines=System.init(User.REDWOLF)%3B;Loading+Elite+Architect+Profile...;%3E+Deploying+Infrastructure...;%3E+Status:+ONLINE)] (https://git.io/typing-svg)
 
 </div>
 
@@ -17,13 +17,13 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MudithaMethsara&label=PROFILE+VIEWS&style=for-the-badge&color=00E5FF&labelColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=MudithaMethsara&label=PROFILE+VIEWS&style=for-the-badge&color=DC143C&labelColor=0D1117)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/MudithaMethsara?label=FOLLOWERS&style=for-the-badge&color=FF1744&labelColor=0D1117&logo=github)
+![GitHub followers](https://img.shields.io/github/followers/MudithaMethsara?label=FOLLOWERS&style=for-the-badge&color=DC143C&labelColor=0D1117&logo=github)
 &nbsp;
-![GitHub stars](https://img.shields.io/github/stars/MudithaMethsara?label=TOTAL+STARS&style=for-the-badge&color=00E5FF&labelColor=0D1117&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/MudithaMethsara?label=TOTAL+STARS&style=for-the-badge&color=DC143C&labelColor=0D1117&logo=github)
 &nbsp;
-![GitHub repos](https://img.shields.io/badge/dynamic/json?label=REPOS&style=for-the-badge&color=FF1744&labelColor=0D1117&query=%24.public_repos&url=https://api.github.com/users/MudithaMethsara)
+![GitHub repos](https://img.shields.io/badge/dynamic/json?label=REPOS&style=for-the-badge&color=DC143C&labelColor=0D1117&query=%24.public_repos&url=https://api.github.com/users/MudithaMethsara)
 
 </div>
 
@@ -118,14 +118,14 @@ motto: "Ship fast, break nothing, scale everything"
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=7" />
 </a>
 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=00E5FF&color=FF1744&labelColor=0D1117)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FF1744&color=00E5FF&labelColor=0D1117)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=00E5FF&color=FF1744&labelColor=0D1117)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00E5FF&color=FF1744&labelColor=0D1117)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=FF1744&color=00E5FF&labelColor=0D1117)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=00E5FF&color=FF1744&labelColor=0D1117)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=FF1744&color=00E5FF&labelColor=0D1117)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=00E5FF&color=FF1744&labelColor=0D1117)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=00E5FF&color=DC143C&labelColor=0D1117)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FF1744&color=DC143C&labelColor=0D1117)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=00E5FF&color=DC143C&labelColor=0D1117)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00E5FF&color=DC143C&labelColor=0D1117)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=FF1744&color=DC143C&labelColor=0D1117)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=00E5FF&color=DC143C&labelColor=0D1117)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=FF1744&color=DC143C&labelColor=0D1117)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=00E5FF&color=DC143C&labelColor=0D1117)
 
 ### **🔧 TOOLS: DEVELOPMENT RIG**
 <a href="https://skillicons.dev">
@@ -133,13 +133,13 @@ motto: "Ship fast, break nothing, scale everything"
 </a>
 
 ### **🧪 QUALITY: BATTLE-TESTED CODE**
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=FF1744&color=00E5FF&labelColor=0D1117)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=00E5FF&color=FF1744&labelColor=0D1117)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=FF1744&color=00E5FF&labelColor=0D1117)
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=00E5FF&color=FF1744&labelColor=0D1117)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=FF1744&color=00E5FF&labelColor=0D1117)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=00E5FF&color=FF1744&labelColor=0D1117)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=FF1744&color=00E5FF&labelColor=0D1117)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=FF1744&color=DC143C&labelColor=0D1117)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=00E5FF&color=DC143C&labelColor=0D1117)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=FF1744&color=DC143C&labelColor=0D1117)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=00E5FF&color=DC143C&labelColor=0D1117)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=FF1744&color=DC143C&labelColor=0D1117)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=00E5FF&color=DC143C&labelColor=0D1117)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=FF1744&color=DC143C&labelColor=0D1117)
 
 </div>
 
@@ -158,14 +158,14 @@ motto: "Ship fast, break nothing, scale everything"
 
 ### **🔥 Streak Status**
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=MudithaMethsara&theme=tokyonight_duo&hide_border=true&background=0D1117&ring=FF1744&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=FF1744" />
+  <img src="https://streak-stats.demolab.com?user=MudithaMethsara&theme=tokyonight_duo&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=DC143C" />
 </a>
 
 </td>
 <td width="50%" align="center">
 
 ### **⚡ Code Frequency**
-<img src="https://github-readme-stats.vercel.app/api?username=MudithaMethsara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF1744&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=MudithaMethsara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" />
 
 </td>
 </tr>
@@ -176,7 +176,7 @@ motto: "Ship fast, break nothing, scale everything"
 <td width="50%" align="center">
 
 ### **💻 Language Dominance**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MudithaMethsara&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF1744&text_color=ffffff&langs_count=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MudithaMethsara&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=ffffff&langs_count=10" />
 
 </td>
 <td width="50%" align="center">
@@ -191,7 +191,7 @@ motto: "Ship fast, break nothing, scale everything"
 </table>
 
 ### **📈 Contribution Activity Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MudithaMethsara&bg_color=0D1117&color=00E5FF&line=FF1744&point=FFFFFF&area=true&area_color=FF1744&hide_border=true&custom_title=MUDITHAMETHSARA's%20Contribution%20Timeline" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MudithaMethsara&bg_color=0D1117&color=DC143C&line=FF1744&point=FFFFFF&area=true&area_color=DC143C&hide_border=true&custom_title=MUDITHAMETHSARA's%20Contribution%20Timeline" width="95%" />
 
 ### **🏔️ 3D Contribution Calendar**
 <img src="https://raw.githubusercontent.com/MudithaMethsara/MudithaMethsara/output/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
@@ -217,16 +217,16 @@ motto: "Ship fast, break nothing, scale everything"
 <div align="center">
 
 <a href="https://github.com/MudithaMethsara/MudithaMethsara">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MudithaMethsara&repo=MudithaMethsara&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF1744&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MudithaMethsara&repo=MudithaMethsara&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=ffffff" />
 </a>
 <a href="https://github.com/MudithaMethsara/MA-Optimizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MudithaMethsara&repo=MA-Optimizer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF1744&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MudithaMethsara&repo=MA-Optimizer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=ffffff" />
 </a>
 <a href="https://github.com/MudithaMethsara/MAportfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MudithaMethsara&repo=MAportfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF1744&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MudithaMethsara&repo=MAportfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=ffffff" />
 </a>
 <a href="https://github.com/MudithaMethsara/MA_Chat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MudithaMethsara&repo=MA_Chat&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF1744&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MudithaMethsara&repo=MA_Chat&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=ffffff" />
 </a>
 
 </div>
@@ -247,7 +247,7 @@ To enable LIVE Spotify Now Playing:
 Example:
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=00FFE1" />
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=00E5FF&bar_color_cover=true" alt="Spotify Now Playing" />
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=DC143C&bar_color_cover=true" alt="Spotify Now Playing" />
 -->
 
 <br/>
@@ -373,17 +373,17 @@ Example:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00E5FF&labelColor=0D1117)](https://github.com/MudithaMethsara)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=FF1744&labelColor=0D1117)](https://linkedin.com/in/mathisha-angirasa-a955941a2/)
-[![Twitter](https://img.shields.io/badge/𝕏_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white&color=00E5FF&labelColor=0D1117)](https://x.com/__MudithaMethsara__)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=FF1744&labelColor=0D1117)](https://instagram.com/mathi_ya_/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=00E5FF&labelColor=0D1117)](https://discord.gg/QERP5JJM8k)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white&color=FF1744&labelColor=0D1117)](https://MudithaMethsara.dev)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=00E5FF&labelColor=0D1117)](https://youtube.com/@MudithaMethsara1783)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&color=FF1744&labelColor=0D1117)](https://medium.com/@mathishaangirasa)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&color=00E5FF&labelColor=0D1117)](https://dev.to/mathishaangirasa)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=FF1744&labelColor=0D1117)](https://stackoverflow.com/users/MudithaMethsara)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00E5FF&labelColor=0D1117)](mailto:YOUR_EMAIL_HERE)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=DC143C&labelColor=0D1117)](https://github.com/MudithaMethsara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=DC143C&labelColor=0D1117)](https://linkedin.com/in/mathisha-angirasa-a955941a2/)
+[![Twitter](https://img.shields.io/badge/𝕏_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white&color=DC143C&labelColor=0D1117)](https://x.com/__MudithaMethsara__)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=DC143C&labelColor=0D1117)](https://instagram.com/muditha_methsara)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=DC143C&labelColor=0D1117)](https://discord.gg/QERP5JJM8k)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white&color=DC143C&labelColor=0D1117)](https://MudithaMethsara.dev)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=DC143C&labelColor=0D1117)](https://youtube.com/@MudithaMethsara1783)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&color=DC143C&labelColor=0D1117)](https://medium.com/@mathishaangirasa)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&color=DC143C&labelColor=0D1117)](https://dev.to/mathishaangirasa)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=DC143C&labelColor=0D1117)](https://stackoverflow.com/users/MudithaMethsara)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=DC143C&labelColor=0D1117)](mailto:YOUR_EMAIL_HERE)
 
 </div>
 
@@ -424,11 +424,11 @@ Example:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🕐 **Last Updated**
-<img src="https://img.shields.io/badge/Last_Updated-April_2026-00E5FF?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Last_Updated-May_2026-DC143C?style=flat-square&labelColor=0D1117" />
 
 ### **`> END_TRANSMISSION_`**
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00E5FF,FF1744,000000&height=150&section=footer&animation=fadeIn&fontColor=00E5FF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,DC143C,DC143C&height=150&section=footer&animation=fadeIn&fontColor=DC143C" />
 </div>
 
 </div>
