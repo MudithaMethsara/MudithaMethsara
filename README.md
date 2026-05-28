@@ -201,7 +201,7 @@ motto: "Ship fast, break nothing, scale everything"
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MudithaMethsara&bg_color=0D1117&color=DC143C&line=DC143C&point=FFFFFF&area=true&area_color=DC143C&hide_border=true&custom_title=MUDITHAMETHSARA's%20Contribution%20Timeline" width="95%" />
 
 ### **🏔️ 3D Contribution Calendar**
-<img src="https://raw.githubusercontent.com/MudithaMethsara/MudithaMethsara/output/profile-night-green.svg" width="100%" alt="3D Contribution Calendar" />
+<img src="https://raw.githubusercontent.com/MudithaMethsara/MudithaMethsara/output/dodecahedron.svg" width="100%" alt="3D Contribution Calendar" />
 
 </div>
 
