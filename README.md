@@ -171,7 +171,7 @@ motto: "Ship fast, break nothing, scale everything"
 <td width="50%" align="center">
 
 ### **⚡ Code Frequency**
-<img src="https://github-readme-stats.vercel.app/api?username=MudithaMethsara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" />
+<img src="https://raw.githubusercontent.com/MudithaMethsara/MudithaMethsara/main/svg/codefrequency.svg" width="100%" />
 
 </td>
 </tr>
