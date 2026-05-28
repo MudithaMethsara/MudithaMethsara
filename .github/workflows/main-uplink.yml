@@ -25,15 +25,9 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      # 2. Generate 3D Contribution Calendars
-      - name: Generate 3D Contribution Calendar (Standard)
+      # 2. Generate 3D Contribution Calendar (Verified)
+      - name: Generate 3D Contribution Calendar
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
-      - name: Generate Auto 3D Contributions (Marketplace)
-        uses: offensive-vk/auto-3d-contributions@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
@@ -70,11 +64,9 @@ jobs:
           plugin_languages_limit: 8
           plugin_stars: yes
           plugin_stars_limit: 4
-
-          # Output filename (internal to workflow)
           filename: metrics.svg
 
-      # 4. Consolidate and Push to 'output' branch
+      # 4. Prepare and Push to 'output' branch
       - name: Prepare Assets for Deployment
         run: |
           mkdir -p deploy
