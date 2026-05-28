@@ -207,10 +207,6 @@ motto: "Ship fast, break nothing, scale everything"
 
 ## 🚀 **FEATURED PROJECTS**
 
-<div align="center">
-  <img src="svg/featured.svg" width="100%" alt="Featured Projects" />
-</div>
-
 > 💡 *Check out my latest builds and infrastructure patterns!*
 
 ---
