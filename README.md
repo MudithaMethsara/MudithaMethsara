@@ -409,9 +409,6 @@ Example:
   <img alt="github-snake" src="https://raw.githubusercontent.com/MudithaMethsara/MudithaMethsara/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-### **👾 Pacman Protocol — Contribution Grid**
-<img src="https://raw.githubusercontent.com/MudithaMethsara/MudithaMethsara/output/pacman-contribution-graph.svg" width="100%" />
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -424,6 +421,17 @@ Example:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,DC143C,DC143C&height=150&section=footer&animation=fadeIn&fontColor=DC143C" />
 </div>
 
+</div>
+v>
+
+</div>
+l.app/api?type=waving&color=gradient&customColorList=000000,DC143C,DC143C&height=150&section=footer&animation=fadeIn&fontColor=DC143C" />
+</div>
+
+</div>
+v>
+
+</div>
 </div>
 v>
 
