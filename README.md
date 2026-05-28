@@ -8,10 +8,12 @@
   
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=35&duration=2000&pause=1000&color=DC143C&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=System.init(User.REDWOLF)%3B;Loading+Elite+Architect+Profile...;%3E+Deploying+Infrastructure...;%3E+Status:+ONLINE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=35&duration=2000&pause=1000&color=DC143C&center=true&vCenter=true&multiline=true&width=1000&height=350&lines=System.init(User.REDWOLF)%3B;Loading+Elite+Architect+Profile...;%3E+Deploying+Infrastructure...;%3E+Status:+ONLINE)](https://git.io/typing-svg)
 
 </div>
 
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
