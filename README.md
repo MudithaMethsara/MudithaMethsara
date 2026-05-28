@@ -6,10 +6,13 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=1500&pause=500&color=DC143C&center=true&vCenter=true&multiline=true&width=1000&height=220&lines=System.init(User.REDWOLF)%3B;Loading+Elite+Architect+Profile...;%3E+Deploying+Infrastructure...;%3E+Status:+ONLINE)] (https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=1500&pause=500&color=DC143C&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=System.init(User.REDWOLF)%3B;Loading+Elite+Architect+Profile...;%3E+Deploying+Infrastructure...;%3E+Status:+ONLINE)] (https://git.io/typing-svg)
 
 </div>
 
+<br/>
 <br/>
 <br/>
 
