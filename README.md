@@ -63,7 +63,7 @@ I don't just write code; I weave digital realities. My mission is to dismantle c
 
 ### 🏆 **Trophy Case**
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=MudithaMethsara&theme=radical&margin-w=4" width="100%" />
+  <img src="svg/trophy.svg" width="100%" />
 </a>
 
 </div>
@@ -79,7 +79,7 @@ I don't just write code; I weave digital realities. My mission is to dismantle c
 <div align="center">
 
 ```yaml
-name: MudithaMethsara
+name: Muditha Methsara | RedWolf
 location: Birmingham, UK 🇬🇧
 education: Birmingham City University
 role: Full-Stack Architect & AI Specialist
@@ -125,12 +125,12 @@ motto: "Ship fast, break nothing, scale everything"
 </a>
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FF1744&color=DC143C&labelColor=0D1117)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=FF1744&color=DC143C&labelColor=0D1117)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=FF1744&color=DC143C&labelColor=0D1117)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
 
 ### **🔧 TOOLS: DEVELOPMENT RIG**
@@ -139,13 +139,13 @@ motto: "Ship fast, break nothing, scale everything"
 </a>
 
 ### **🧪 QUALITY: BATTLE-TESTED CODE**
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=FF1744&color=DC143C&labelColor=0D1117)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=FF1744&color=DC143C&labelColor=0D1117)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=FF1744&color=DC143C&labelColor=0D1117)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=FF1744&color=DC143C&labelColor=0D1117)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
 
 </div>
 
@@ -171,7 +171,7 @@ motto: "Ship fast, break nothing, scale everything"
 <td width="50%" align="center">
 
 ### **⚡ Code Frequency**
-<img src="https://raw.githubusercontent.com/MudithaMethsara/MudithaMethsara/main/svg/codefrequency.svg" width="100%" />
+<img src="svg/codefrequency.svg" width="100%" />
 
 </td>
 </tr>
@@ -182,15 +182,14 @@ motto: "Ship fast, break nothing, scale everything"
 <td width="50%" align="center">
 
 ### **💻 Language Dominance**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MudithaMethsara&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=ffffff&langs_count=10" />
+<img src="svg/LanguageDominance.svg" width="100%" />
 
 </td>
 <td width="50%" align="center">
 
 ### **📊 Profile Summary**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MudithaMethsara&theme=tokyonight" width="100%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MudithaMethsara&theme=tokyonight" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MudithaMethsara&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=MudithaMethsara&show_icons=true&theme=radical&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=ffffff&count_private=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MudithaMethsara&theme=radical" width="100%" />
 
 </td>
 </tr>
@@ -199,8 +198,8 @@ motto: "Ship fast, break nothing, scale everything"
 ### **📈 Contribution Activity Graph**
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MudithaMethsara&bg_color=0D1117&color=DC143C&line=DC143C&point=FFFFFF&area=true&area_color=DC143C&hide_border=true&custom_title=MUDITHAMETHSARA's%20Contribution%20Timeline" width="95%" />
 
-### **🗻 3D Contribution Calendar**
-<img src="https://raw.githubusercontent.com/MudithaMethsara/MudithaMethsara/output/profile-night-green.svg" width="100%" alt="3D Contribution Calendar" />
+### **🏔️ 3D Contribution Calendar**
+<img src="https://raw.githubusercontent.com/MudithaMethsara/MudithaMethsara/output/profile-night-view.svg" width="100%" alt="3D Contribution Calendar" />
 
 </div>
 
@@ -209,40 +208,16 @@ motto: "Ship fast, break nothing, scale everything"
 ## 🚀 **FEATURED PROJECTS**
 
 <div align="center">
-
-<a href="https://github.com/MudithaMethsara/MudithaMethsara">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MudithaMethsara&repo=MudithaMethsara&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=ffffff" />
-</a>
-<a href="https://github.com/MudithaMethsara/MA-Optimizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MudithaMethsara&repo=MA-Optimizer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=ffffff" />
-</a>
-<a href="https://github.com/MudithaMethsara/MAportfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MudithaMethsara&repo=MAportfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=ffffff" />
-</a>
-<a href="https://github.com/MudithaMethsara/MA_Chat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MudithaMethsara&repo=MA_Chat&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=ffffff" />
-</a>
-
+  <img src="svg/featured.svg" width="100%" alt="Featured Projects" />
 </div>
 
-> 💡 *Pin your best repositories on your GitHub profile and duplicate the card template above for each repo!*
+> 💡 *Check out my latest builds and infrastructure patterns!*
 
 ---
 
 ## 🎵 **NOW VIBING TO**
 
 <div align="center">
-
-<!-- 
-To enable LIVE Spotify Now Playing:
-1. Deploy: https://github.com/kittinan/spotify-github-profile
-2. Replace the placeholder below with your widget URL
-
-Example:
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=00FFE1" />
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=DC143C&bar_color_cover=true" alt="Spotify Now Playing" />
--->
 
 <br/>
 
@@ -310,7 +285,7 @@ Example:
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=First%2C+solve+the+problem.+Then%2C+write+the+code.&author=John+Johnson)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=First%2C+solve+the+problem.+Then%2C+write+the+code.&author=John+Johnson)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
@@ -320,15 +295,11 @@ Example:
 
 <div align="center">
 
-<!-- Replace with your actual certifications. Here are badge templates: -->
-
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-Fundamentals_AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Meta](https://img.shields.io/badge/Meta-Front--End_Developer-0866FF?style=for-the-badge&logo=meta&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
-
-> 💡 *Update these with your actual certifications!*
 
 </div>
 
@@ -338,16 +309,10 @@ Example:
 
 <div align="center">
 
-<!-- Replace the username placeholders with your actual usernames -->
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MudithaMethsara/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/MudithaMethsara)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/MudithaMethsara)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/MudithaMethsara)
-
-<!-- If you have a LeetCode account, uncomment and update this:
-<img src="https://leetcard.jacoblin.cool/MudithaMethsara?theme=dark&font=Orbitron&ext=heatmap" width="60%" />
--->
 
 </div>
 
@@ -422,20 +387,3 @@ Example:
 </div>
 
 </div>
-v>
-
-</div>
-l.app/api?type=waving&color=gradient&customColorList=000000,DC143C,DC143C&height=150&section=footer&animation=fadeIn&fontColor=DC143C" />
-</div>
-
-</div>
-v>
-
-</div>
-</div>
-v>
-
-</div>
-v>
-v>
-v>
