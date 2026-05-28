@@ -37,7 +37,7 @@
 
 ### 💫 **Neural Link Established**
 
-**🚀 Greetings, Cyber-Traveller.** I am **MUDITHAMETHSARA**, an **Elite Full-Stack Architect & AI Specialist** operating out of **Birmingham City University, UK**.
+**🚀 Greetings, Cyber-Traveller.** I am **Muditha Methsara | RedWolf**, an **Elite Full-Stack Architect & AI Specialist** operating out of **Birmingham City University, UK**.
 
 I don't just write code; I weave digital realities. My mission is to dismantle complex problems and reassemble them into elegant, scalable, and high-performance solutions. From the depths of backend infrastructure to the shimmering pixels of the frontend, I control the entire stack.
 
@@ -191,7 +191,7 @@ motto: "Ship fast, break nothing, scale everything"
 </table>
 
 ### **📈 Contribution Activity Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MudithaMethsara&bg_color=0D1117&color=DC143C&line=FF1744&point=FFFFFF&area=true&area_color=DC143C&hide_border=true&custom_title=MUDITHAMETHSARA's%20Contribution%20Timeline" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MudithaMethsara&bg_color=0D1117&color=DC143C&line=DC143C&point=FFFFFF&area=true&area_color=DC143C&hide_border=true&custom_title=MUDITHAMETHSARA's%20Contribution%20Timeline" width="95%" />
 
 ### **🏔️ 3D Contribution Calendar**
 <img src="https://raw.githubusercontent.com/MudithaMethsara/MudithaMethsara/output/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
@@ -429,5 +429,8 @@ Example:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,DC143C,DC143C&height=150&section=footer&animation=fadeIn&fontColor=DC143C" />
 </div>
+
+</div>
+v>
 
 </div>
