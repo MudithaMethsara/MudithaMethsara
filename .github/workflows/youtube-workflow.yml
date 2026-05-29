@@ -17,4 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "YOUTUBE"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?user=RedWolf-GamingHub"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCRa-MY1B5RiaUF0hhGrDKFg"
