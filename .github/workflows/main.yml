@@ -8,9 +8,9 @@
 name: Update Profile Metrics, 3D Graph & Snake
 
 on:
-  # Run automatically every 12 hours to update stats, 3D graph, and snake
+  # Run automatically at 6:00 AM and 6:00 PM Sri Lanka Time (UTC+5:30 -> 00:30 & 12:30 UTC)
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "30 0,12 * * *"
 
   # Allows manual execution from the Actions tab
   workflow_dispatch:
@@ -50,6 +50,7 @@ jobs:
           python generate_3d_contrib.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TZ: "Asia/Colombo"
 
       # Step 4: Commit updated SVGs if changed
       - name: Commit Updated SVGs
