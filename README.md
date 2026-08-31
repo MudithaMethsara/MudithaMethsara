@@ -1,387 +1,168 @@
-# 
+<p align="center">
+  <img src="./assets/header.svg" alt="Muditha Methsara Kosgollawaththa — Banner" width="100%" />
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,DC143C,DC143C&height=350&section=header&text=MUDITHAMETHSARA&fontSize=80&animation=fadeIn&fontAlignY=38&desc=🔥%20Elite%20Full-Stack%20Architect%20%7C%20Cyberpunk%20Dev%20%7C%20Innovation%20Engine%20🔥&descAlignY=65&descSize=22&fontColor=FFFFFF&descColor=FFFFFF" />
-</div>
-
-<div align="center">
-  
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=35&duration=2000&pause=1000&color=DC143C&center=true&vCenter=true&multiline=true&width=1000&height=350&lines=System.init(User.REDWOLF)%3B;Loading+Elite+Architect+Profile...;%3E+Deploying+Infrastructure...;%3E+Status:+ONLINE)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<!-- ═══════════════════ ANIMATED DIVIDER ═══════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════ PROFILE BADGES ═══════════════════ -->
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=MudithaMethsara&label=PROFILE+VIEWS&style=for-the-badge&color=DC143C&labelColor=0D1117)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/MudithaMethsara?label=FOLLOWERS&style=for-the-badge&color=DC143C&labelColor=0D1117&logo=github)
-&nbsp;
-![GitHub stars](https://img.shields.io/github/stars/MudithaMethsara?label=TOTAL+STARS&style=for-the-badge&color=DC143C&labelColor=0D1117&logo=github)
-&nbsp;
-![GitHub repos](https://img.shields.io/badge/dynamic/json?label=REPOS&style=for-the-badge&color=DC143C&labelColor=0D1117&query=%24.public_repos&url=https://api.github.com/users/MudithaMethsara)
-
-</div>
+<p align="center">
+  <a href="https://methsara.dev"><img src="https://img.shields.io/badge/Portfolio-methsara.dev-121218?style=flat-square&logo=google-chrome&logoColor=83CA16" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/muditha-methsara-189a07230"><img src="https://img.shields.io/badge/LinkedIn-Muditha_Methsara-121218?style=flat-square&logo=linkedin&logoColor=83CA16" alt="LinkedIn" /></a>
+  <a href="https://x.com/M_Methsara_RW"><img src="https://img.shields.io/badge/X-@M__Methsara__RW-121218?style=flat-square&logo=x&logoColor=83CA16" alt="Twitter / X" /></a>
+  <a href="https://github.com/MudithaMethsara"><img src="https://img.shields.io/badge/GitHub-MudithaMethsara-121218?style=flat-square&logo=github&logoColor=83CA16" alt="GitHub" /></a>
+  <a href="https://methsara.dev/contact"><img src="https://img.shields.io/badge/Status-Available_for_Projects-83CA16?style=flat-square&labelColor=121218&logoColor=83CA16" alt="Status" /></a>
+</p>
 
 ---
 
-## ⚡ **MISSION CRITICAL: PROFILE STATUS**
+### About Me
+
+Great software starts with clear thinking. I am a **Professional Developer and Software Engineer** from Sri Lanka specializing in building scalable web applications, robust backend architectures, distributed APIs, and full-stack digital systems shaped by clean architecture, comprehensive test coverage, and thoughtful execution.
+
+In addition to engineering engagements, I hold executive and leadership positions driving technology strategy and production delivery:
+- **Chief Operating Officer (COO)** at [SIVION AI](https://sivions.com) — Directing AI product lifecycles, operational scaling, and intelligent system workflows.
+- **Production Director** at [CodeXpro Solutions](https://codexpro.net) — Leading software engineering lifecycles, system architecture standards, and client delivery pipelines.
+
+📍 **Location:** Gampaha, Sri Lanka • Remote Worldwide  
+⚡ **Core Focus:** React, TypeScript, Node.js, Spring Boot, Java, Cloud Architecture, REST APIs & Microservices
+
+---
+
+### Tech Stack &amp; Engineering Tooling
+
+<p align="center">
+  <strong>Languages</strong><br />
+  <img src="https://img.shields.io/badge/TypeScript-121218?style=flat-square&logo=typescript&logoColor=83CA16" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-121218?style=flat-square&logo=javascript&logoColor=83CA16" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-121218?style=flat-square&logo=openjdk&logoColor=83CA16" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-121218?style=flat-square&logo=python&logoColor=83CA16" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-121218?style=flat-square&logo=postgresql&logoColor=83CA16" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-121218?style=flat-square&logo=html5&logoColor=83CA16" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-121218?style=flat-square&logo=css3&logoColor=83CA16" alt="CSS3" />
+</p>
+
+<p align="center">
+  <strong>Frontend &amp; Mobile</strong><br />
+  <img src="https://img.shields.io/badge/React_19-121218?style=flat-square&logo=react&logoColor=83CA16" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js_16-121218?style=flat-square&logo=next.js&logoColor=83CA16" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_Native-121218?style=flat-square&logo=react&logoColor=83CA16" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-121218?style=flat-square&logo=expo&logoColor=83CA16" alt="Expo" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-121218?style=flat-square&logo=tailwindcss&logoColor=83CA16" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Electron-121218?style=flat-square&logo=electron&logoColor=83CA16" alt="Electron" />
+</p>
+
+<p align="center">
+  <strong>Backend, APIs &amp; Architecture</strong><br />
+  <img src="https://img.shields.io/badge/Node.js-121218?style=flat-square&logo=node.js&logoColor=83CA16" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-121218?style=flat-square&logo=express&logoColor=83CA16" alt="Express" />
+  <img src="https://img.shields.io/badge/Spring_Boot-121218?style=flat-square&logo=spring-boot&logoColor=83CA16" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/REST_APIs-121218?style=flat-square&logo=fastapi&logoColor=83CA16" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Microservices-121218?style=flat-square&logo=diagram-next&logoColor=83CA16" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Prisma_ORM-121218?style=flat-square&logo=prisma&logoColor=83CA16" alt="Prisma" />
+  <img src="https://img.shields.io/badge/WebSockets-121218?style=flat-square&logo=socketdotio&logoColor=83CA16" alt="WebSockets" />
+</p>
+
+<p align="center">
+  <strong>Databases, Cloud &amp; DevOps</strong><br />
+  <img src="https://img.shields.io/badge/PostgreSQL-121218?style=flat-square&logo=postgresql&logoColor=83CA16" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-121218?style=flat-square&logo=mysql&logoColor=83CA16" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-121218?style=flat-square&logo=docker&logoColor=83CA16" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-121218?style=flat-square&logo=amazon-aws&logoColor=83CA16" alt="AWS" />
+  <img src="https://img.shields.io/badge/CI%2FCD-121218?style=flat-square&logo=github-actions&logoColor=83CA16" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Git_%26_GitHub-121218?style=flat-square&logo=git&logoColor=83CA16" alt="Git" />
+</p>
+
+---
+
+### GitHub Analytics &amp; Repository Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MudithaMethsara&show_icons=true&bg_color=F7F7F8&title_color=121218&text_color=555861&icon_color=83CA16&border_color=E0E2E6&hide_border=false&border_radius=8" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MudithaMethsara&background=F7F7F8&stroke=E0E2E6&ring=83CA16&fire=83CA16&currStreakNum=121218&currStreakLabel=555861&sideNums=121218&sideLabels=555861&dates=555861&border_radius=8" alt="GitHub Streak Stats" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MudithaMethsara&layout=compact&bg_color=F7F7F8&title_color=121218&text_color=555861&border_color=E0E2E6&hide_border=false&border_radius=8" alt="Top Languages" height="150" />
+</p>
+
+---
+
+### Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MudithaMethsara/MudithaMethsara/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MudithaMethsara/MudithaMethsara/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/MudithaMethsara/MudithaMethsara/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MudithaMethsara&bg_color=F7F7F8&color=121218&line=83CA16&point=10B981&area=true&area_color=D8F89D&hide_border=false&border=E0E2E6&radius=8" alt="Activity Graph" width="100%" />
+</p>
+
+---
+
+### Featured Engineering Projects
 
 <table>
-<tr>
-<td width="55%">
-
-### 💫 **Neural Link Established**
-
-**🚀 Greetings, Cyber-Traveller.** I am **Muditha Methsara | RedWolf**, an **Elite Full-Stack Architect & AI Specialist** operating out of **Birmingham City University, UK**.
-
-I don't just write code; I weave digital realities. My mission is to dismantle complex problems and reassemble them into elegant, scalable, and high-performance solutions. From the depths of backend infrastructure to the shimmering pixels of the frontend, I control the entire stack.
-
-**🔥 Core Directives:**
-- ⚡ **Hyper-Scale Architecture** — Building systems that withstand the digital tsunami
-- 🧠 **Sentient AI** — Crafting reliable machine learning pipelines & models
-- ☁️ **Cloud Sovereignty** — Dominating AWS, Azure, and GCP
-- 🎨 **Neon UI/UX** — Designing interfaces that feel like the future
-- 🔐 **Cyber Defense** — Writing secure, battle-tested code
-
-**🌟 Philosophy:** *"The code you write today is the legacy you leave tomorrow."*
-
-</td>
-<td width="45%">
-
-<div align="center">
-
-### 🏆 **Trophy Case**
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="svg/trophy.svg" width="100%" />
-</a>
-
-</div>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏛️ Civitech System</h4>
+      <p>A complete, production-ready construction management monorepo featuring an Express/Prisma backend API, an Electron desktop admin panel, and a responsive web resource monitor.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-121218?style=flat-square&logo=typescript&logoColor=83CA16" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Express-121218?style=flat-square&logo=express&logoColor=83CA16" alt="Express" />
+        <img src="https://img.shields.io/badge/Prisma-121218?style=flat-square&logo=prisma&logoColor=83CA16" alt="Prisma" />
+        <img src="https://img.shields.io/badge/Electron-121218?style=flat-square&logo=electron&logoColor=83CA16" alt="Electron" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏗️ Civitech Platform</h4>
+      <p>High-performance enterprise construction platform built with Next.js 16 Server Components, dynamic service catalogs, animated interactive showcases, and MySQL database integration.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_16-121218?style=flat-square&logo=next.js&logoColor=83CA16" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React_19-121218?style=flat-square&logo=react&logoColor=83CA16" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-121218?style=flat-square&logo=typescript&logoColor=83CA16" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-121218?style=flat-square&logo=tailwindcss&logoColor=83CA16" alt="Tailwind CSS" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📱 MediGo Mobile</h4>
+      <p>Cross-platform healthcare and medical appointment booking application built with React Native 0.81, Expo Router, and NativeWind styling for smooth mobile performance.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-121218?style=flat-square&logo=react&logoColor=83CA16" alt="React Native" />
+        <img src="https://img.shields.io/badge/Expo-121218?style=flat-square&logo=expo&logoColor=83CA16" alt="Expo" />
+        <img src="https://img.shields.io/badge/TypeScript-121218?style=flat-square&logo=typescript&logoColor=83CA16" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/NativeWind-121218?style=flat-square&logo=tailwindcss&logoColor=83CA16" alt="NativeWind" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Hexcore Engine</h4>
+      <p>High-throughput enterprise backend framework providing core system utilities, service bus communication, robust dependency injection, and clean architecture.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-121218?style=flat-square&logo=openjdk&logoColor=83CA16" alt="Java" />
+        <img src="https://img.shields.io/badge/Spring_Boot-121218?style=flat-square&logo=spring-boot&logoColor=83CA16" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/PostgreSQL-121218?style=flat-square&logo=postgresql&logoColor=83CA16" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Docker-121218?style=flat-square&logo=docker&logoColor=83CA16" alt="Docker" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 🎯 **QUICK INTEL**
+### Connect &amp; Collaborate
 
-<div align="center">
-
-```yaml
-name: Muditha Methsara | RedWolf
-location: Birmingham, UK 🇬🇧
-education: Birmingham City University
-role: Full-Stack Architect & AI Specialist
-currently_working_on: AI-powered web applications & cloud-native systems
-currently_learning: ["Rust", "Web3 / Blockchain", "Advanced System Design", "LLMs & Prompt Engineering"]
-looking_to_collaborate: Open-source projects, AI/ML research, innovative startups
-ask_me_about: React, Node.js, Python, Cloud Architecture, System Design, AI/ML
-fun_fact: "I debug code in my dreams and wake up with the fix"
-motto: "Ship fast, break nothing, scale everything"
-```
-
-</div>
+<p align="center">
+  <a href="https://methsara.dev"><img src="https://img.shields.io/badge/Website-methsara.dev-121218?style=for-the-badge&logo=google-chrome&logoColor=83CA16" alt="Website" /></a>
+  <a href="https://methsara.dev/contact"><img src="https://img.shields.io/badge/Email-Contact_Form-121218?style=for-the-badge&logo=gmail&logoColor=83CA16" alt="Email" /></a>
+  <a href="https://linkedin.com/in/muditha-methsara-189a07230"><img src="https://img.shields.io/badge/LinkedIn-Muditha_Methsara-121218?style=for-the-badge&logo=linkedin&logoColor=83CA16" alt="LinkedIn" /></a>
+  <a href="https://x.com/M_Methsara_RW"><img src="https://img.shields.io/badge/X-@M__Methsara__RW-121218?style=for-the-badge&logo=x&logoColor=83CA16" alt="X" /></a>
+  <a href="https://github.com/MudithaMethsara"><img src="https://img.shields.io/badge/GitHub-MudithaMethsara-121218?style=for-the-badge&logo=github&logoColor=83CA16" alt="GitHub" /></a>
+</p>
 
 ---
 
-## 🛠️ **ARSENAL: TECHNOLOGY MATRIX**
-
-<div align="center">
-
-### **🎨 FRONTEND: NEON INTERFACES**
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxtjs,angular,tailwind,sass,threejs,svelte,astro&theme=dark&perline=7" />
-</a>
-
-### **⚡ BACKEND: CORE RUNTIMES**
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,go,rust,cs,php,ruby,graphql,fastapi,flask,django,spring&theme=dark&perline=7" />
-</a>
-
-### **🗄️ STORAGE: DATA ARCHITECTURE**
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase,dynamodb,sqlite,cassandra,elasticsearch&theme=dark&perline=5" />
-</a>
-
-### **☁️ CLOUD: SYSTEM DEPLOYMENT**
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,githubactions,cloudflare,vercel,netlify,heroku,nginx&theme=dark&perline=7" />
-</a>
-
-### **🧠 AI: SENTIENT ALGORITHMS**
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=7" />
-</a>
-
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
-
-### **🔧 TOOLS: DEVELOPMENT RIG**
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,postman,linux,bash,vim,regex,markdown,gradle,maven,webpack,vite,rollup&theme=dark&perline=8" />
-</a>
-
-### **🧪 QUALITY: BATTLE-TESTED CODE**
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=FFFFFF&color=DC143C&labelColor=0D1117)
-
-</div>
-
-<!-- ═══════════════════ ANIMATED DIVIDER ═══════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## 📊 **SYSTEM ANALYTICS**
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### **🔥 Streak Status**
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=MudithaMethsara&theme=radical&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=DC143C" />
-</a>
-
-</td>
-<td width="50%" align="center">
-
-### **⚡ Code Frequency**
-<img src="svg/codefrequency.svg" width="100%" />
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### **💻 Language Dominance**
-<img src="svg/LanguageDominance.svg" width="100%" />
-
-</td>
-<td width="50%" align="center">
-
-### **📊 Profile Summary**
-<img src="https://github-readme-stats.vercel.app/api?username=MudithaMethsara&show_icons=true&theme=radical&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=ffffff&count_private=true" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MudithaMethsara&theme=radical" width="100%" />
-
-</td>
-</tr>
-</table>
-
-### **📈 Contribution Activity Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MudithaMethsara&bg_color=0D1117&color=DC143C&line=DC143C&point=FFFFFF&area=true&area_color=DC143C&hide_border=true&custom_title=MUDITHAMETHSARA's%20Contribution%20Timeline" width="95%" />
-
-### **🏔️ 3D Contribution Calendar**
-<img src="https://raw.githubusercontent.com/MudithaMethsara/MudithaMethsara/output/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
-
-</div>
-
----
-
-## 🚀 **FEATURED PROJECTS**
-
-> 💡 *Check out my latest builds and infrastructure patterns!*
-
----
-
-## 🎵 **NOW VIBING TO**
-
-<div align="center">
-
-<br/>
-
-[![Spotify](https://img.shields.io/badge/🎧_Connect_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/MudithaMethsara)
-[![Apple Music](https://img.shields.io/badge/🎵_Apple_Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/)
-
-</div>
-
----
-
-## 📡 **DYNAMIC DATA STREAMS**
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-### 📺 **Latest YouTube Transmissions**
-<!-- YOUTUBE:START -->
-- [Obstacle avoiding Robot](https://www.youtube.com/watch?v=eYGoyt9z1z8)
-- [Building a 2D sprites animation game using pure HTML, CSS, and JavaScriptLanguages](https://www.youtube.com/watch?v=jO4Bg3zOlVs)
-- [New Minecraft 2 playing](https://www.youtube.com/watch?v=fm57QLnm4TA)
-- [HOW TO ADD NEW CARS ON NFS MOST WANTED 2005](https://www.youtube.com/watch?v=maOHZsjQBAk)
-<!-- YOUTUBE:END -->
-
-</td>
-<td width="50%">
-
-### 📝 **Latest Neural Logs (Blog)**
-<!-- BLOG-POST-LIST:START -->
-- [Waiting for uplink...](https://dev.to/muditha_methsara)
-- [Waiting for uplink...](https://dev.to/muditha_methsara)
-- [Waiting for uplink...](https://dev.to/muditha_methsara)
-- [Waiting for uplink...](https://dev.to/muditha_methsara)
-- [Waiting for uplink...](https://dev.to/muditha_methsara)
-<!-- BLOG-POST-LIST:END -->
-
-</td>
-</tr>
-</table>
-
----
-
-## ⚡ **RECENT NETWORK ACTIVITY**
-
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#18](https://github.com/MudithaMethsara/MA-Optimizer/pull/18) in [MudithaMethsara/MA-Optimizer](https://github.com/MudithaMethsara/MA-Optimizer)
-2. ❌ Closed PR [#17](https://github.com/MudithaMethsara/MA-Optimizer/pull/17) in [MudithaMethsara/MA-Optimizer](https://github.com/MudithaMethsara/MA-Optimizer)
-<!--END_SECTION:activity-->
-
----
-
-## 📊 **WEEKLY CODING STATS**
-
-<!--START_SECTION:waka-->
-```text
-🕐 No WakaTime data yet — Set up WakaTime to track your coding stats!
-   → https://wakatime.com to get started
-   → Then add the waka-readme-stats workflow
-```
-<!--END_SECTION:waka-->
-
----
-
-## 💡 **RANDOM DEV WISDOM**
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=First%2C+solve+the+problem.+Then%2C+write+the+code.&author=John+Johnson)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-## 🏅 **CERTIFICATIONS & ACHIEVEMENTS**
-
-<div align="center">
-
-![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-Fundamentals_AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta-Front--End_Developer-0866FF?style=for-the-badge&logo=meta&logoColor=white)
-![FreeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
-
-</div>
-
----
-
-## 🧩 **CODING CHALLENGES**
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MudithaMethsara/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/MudithaMethsara)
-[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/MudithaMethsara)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/MudithaMethsara)
-
-</div>
-
----
-
-## 🃏 **DEV_HUMOR.EXE**
-
-<div align="center">
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&qColor=%23DC143C&aColor=%23DC143C&borderColor=%23DC143C&bgColor=%230D1117&textColor=%23ffffff)
-
-</div>
-
----
-
-## 🌍 **CONNECT TO THE GRID**
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=DC143C&labelColor=0D1117)](https://github.com/MudithaMethsara)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=DC143C&labelColor=0D1117)](https://www.linkedin.com/in/muditha-methsara-189a07230/)
-[![Twitter](https://img.shields.io/badge/𝕏_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white&color=DC143C&labelColor=0D1117)](https://x.com/M_Methsara_RW)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=DC143C&labelColor=0D1117)](https://instagram.com/muditha_methsara)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=DC143C&labelColor=0D1117)](https://discord.gg/QERP5JJM8k)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white&color=DC143C&labelColor=0D1117)](https://MudithaMethsara.dev)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=DC143C&labelColor=0D1117)](https://www.youtube.com/@RedWolf-GamingHub)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&color=DC143C&labelColor=0D1117)](https://dev.to/muditha_methsara)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=DC143C&labelColor=0D1117)](https://stackoverflow.com/users/MudithaMethsara)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=DC143C&labelColor=0D1117)](mailto:YOUR_EMAIL_HERE)
-
-</div>
-
----
-
-## 💖 **SUPPORT MY WORK**
-
-<div align="center">
-
-*If you enjoy my projects and want to fuel the mission, consider dropping some support! 🚀*
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/MudithaMethsara)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/MudithaMethsara)
-[![Sponsor](https://img.shields.io/badge/GitHub_Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/MudithaMethsara)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MudithaMethsara)
-
-</div>
-
----
-
-<!-- ═══════════════════ ANIMATED DIVIDER ═══════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-### **🐍 Snake Protocol — Contribution Grid**
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MudithaMethsara/MudithaMethsara/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MudithaMethsara/MudithaMethsara/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MudithaMethsara/MudithaMethsara/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 🕐 **Last Updated**
-<img src="https://img.shields.io/badge/Last_Updated-May_2026-DC143C?style=flat-square&labelColor=0D1117" />
-
-### **`> END_TRANSMISSION_`**
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,DC143C,DC143C&height=150&section=footer&animation=fadeIn&fontColor=DC143C" />
-</div>
-
-</div>
+<p align="center">
+  <sub>Built with precision, clarity, and solid architecture &bull; &copy; 2026 Muditha Methsara Kosgollawaththa &bull; <a href="https://methsara.dev">methsara.dev</a></sub>
+</p>
