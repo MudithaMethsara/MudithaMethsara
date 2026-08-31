@@ -74,12 +74,12 @@ In addition to engineering engagements, I hold executive and leadership position
 ### GitHub Analytics &amp; Repository Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MudithaMethsara&show_icons=true&bg_color=F7F7F8&title_color=121218&text_color=555861&icon_color=83CA16&border_color=E0E2E6&hide_border=false&border_radius=8" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MudithaMethsara&background=F7F7F8&stroke=E0E2E6&ring=83CA16&fire=83CA16&currStreakNum=121218&currStreakLabel=555861&sideNums=121218&sideLabels=555861&dates=555861&border_radius=8" alt="GitHub Streak Stats" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MudithaMethsara&show_icons=true&bg_color=F7F7F8&title_color=121218&text_color=555861&icon_color=83CA16&border_color=E0E2E6&hide_border=false&border_radius=8" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=MudithaMethsara&background=F7F7F8&stroke=E0E2E6&ring=83CA16&fire=83CA16&currStreakNum=121218&currStreakLabel=555861&sideNums=121218&sideLabels=555861&dates=555861&border_radius=8" alt="GitHub Streak Stats" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MudithaMethsara&layout=compact&bg_color=F7F7F8&title_color=121218&text_color=555861&border_color=E0E2E6&hide_border=false&border_radius=8" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MudithaMethsara&layout=compact&bg_color=F7F7F8&title_color=121218&text_color=555861&border_color=E0E2E6&hide_border=false&border_radius=8" alt="Top Languages" height="150" />
 </p>
 
 ---
@@ -92,10 +92,6 @@ In addition to engineering engagements, I hold executive and leadership position
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MudithaMethsara/MudithaMethsara/output/github-contribution-grid-snake.svg" />
     <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/MudithaMethsara/MudithaMethsara/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MudithaMethsara&bg_color=F7F7F8&color=121218&line=83CA16&point=10B981&area=true&area_color=D8F89D&hide_border=false&border=E0E2E6&radius=8" alt="Activity Graph" width="100%" />
 </p>
 
 ---
