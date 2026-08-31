@@ -23,7 +23,11 @@ BASELINE_REPOS = 5  # Baseline public repos at project setup
 project_count = BASELINE_PROJECTS
 try:
     url = "https://api.github.com/users/MudithaMethsara"
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Python)"})
+    token = os.environ.get("GITHUB_TOKEN")
+    headers = {"User-Agent": "Mozilla/5.0 (Python)"}
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+    req = urllib.request.Request(url, headers=headers)
     with urllib.request.urlopen(req, timeout=5) as response:
         user_data = json.loads(response.read().decode("utf-8"))
         current_repos = user_data.get("public_repos", BASELINE_REPOS)

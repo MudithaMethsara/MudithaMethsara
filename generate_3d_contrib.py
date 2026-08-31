@@ -1,35 +1,106 @@
 import json
 import os
+import re
 import urllib.request
 from datetime import datetime
 
-def generate_isometric_svg():
-    # 1. Fetch contribution calendar data
-    url = "https://github-contributions-api.jogruber.de/v4/MudithaMethsara?y=last"
+USERNAME = "MudithaMethsara"
+
+def fetch_github_contributions_graphql(username, token):
+    """Fetches official contribution calendar from GitHub GraphQL API."""
+    query = """
+    query($login: String!) {
+      user(login: $login) {
+        contributionsCollection {
+          contributionCalendar {
+            totalContributions
+            weeks {
+              contributionDays {
+                contributionCount
+                date
+                contributionLevel
+              }
+            }
+          }
+        }
+      }
+    }
+    """
+    payload = json.dumps({"query": query, "variables": {"login": username}}).encode("utf-8")
+    req = urllib.request.Request(
+        "https://api.github.com/graphql",
+        data=payload,
+        headers={
+            "Authorization": f"Bearer {token}",
+            "User-Agent": "Mozilla/5.0 (Python)",
+            "Content-Type": "application/json"
+        }
+    )
+    with urllib.request.urlopen(req, timeout=10) as resp:
+        data = json.loads(resp.read().decode("utf-8"))
+        cal = data.get("data", {}).get("user", {}).get("contributionsCollection", {}).get("contributionCalendar", {})
+        total = cal.get("totalContributions", 0)
+        contribs = []
+        level_map = {
+            "NONE": 0,
+            "FIRST_QUARTILE": 1,
+            "SECOND_QUARTILE": 2,
+            "THIRD_QUARTILE": 3,
+            "FOURTH_QUARTILE": 4
+        }
+        for w in cal.get("weeks", []):
+            for d in w.get("contributionDays", []):
+                contribs.append({
+                    "date": d.get("date"),
+                    "count": d.get("contributionCount", 0),
+                    "level": level_map.get(d.get("contributionLevel", "NONE"), 0)
+                })
+        return total, contribs
+
+def fetch_github_contributions_rest(username):
+    """Fetches contributions from public high-availability endpoint."""
+    url = f"https://github-contributions-api.jogruber.de/v4/{username}?y=last"
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Python)"})
+    with urllib.request.urlopen(req, timeout=10) as resp:
+        data = json.loads(resp.read().decode("utf-8"))
+        contribs = data.get("contributions", [])
+        total = data.get("total", {}).get("lastYear", sum(c.get("count", 0) for c in contribs))
+        return total, contribs
+
+def fetch_contributions():
+    token = os.environ.get("GITHUB_TOKEN")
+    if token:
+        try:
+            print("Fetching live data via GitHub GraphQL API...")
+            return fetch_github_contributions_graphql(USERNAME, token)
+        except Exception as e:
+            print("GraphQL error, falling back to REST API:", e)
     
     try:
-        with urllib.request.urlopen(req, timeout=8) as resp:
-            data = json.loads(resp.read().decode("utf-8"))
-            contribs = data.get("contributions", [])
-            total_contributions = data.get("total", {}).get("lastYear", sum(c.get("count", 0) for c in contribs))
+        print("Fetching live data via Contributions API...")
+        return fetch_github_contributions_rest(USERNAME)
     except Exception as e:
-        print("API fallback:", e)
-        contribs = [{"date": f"2026-{m:02d}-{d:02d}", "count": 0, "level": 0} for m in range(1, 13) for d in range(1, 29)]
-        total_contributions = 66
+        print("REST error:", e)
+        return 0, []
+
+def generate_isometric_svg():
+    # 1. Fetch live automated GitHub contributions
+    total_contributions, contribs = fetch_contributions()
 
     if not contribs:
+        print("Warning: No contributions fetched. Creating empty year placeholder.")
         contribs = [{"date": "2026-01-01", "count": 0, "level": 0} for _ in range(365)]
+        total_contributions = 0
 
-    # 2. Compute statistics
-    busiest_item = max(contribs, key=lambda x: x.get("count", 0)) if contribs else {"count": 0, "date": "2026-05-28"}
+    # 2. Compute dynamic statistics automatically from GitHub data
+    busiest_item = max(contribs, key=lambda x: x.get("count", 0)) if contribs else {"count": 0, "date": ""}
     busiest_count = busiest_item.get("count", 0)
     busiest_date_str = busiest_item.get("date", "")
     try:
         b_dt = datetime.strptime(busiest_date_str, "%Y-%m-%d")
         busiest_formatted = b_dt.strftime("%b %d")
     except Exception:
-        busiest_formatted = busiest_date_str
+        busiest_formatted = busiest_date_str or "None"
 
     try:
         start_dt = datetime.strptime(contribs[0]["date"], "%Y-%m-%d").strftime("%b %d, %Y")
@@ -38,7 +109,7 @@ def generate_isometric_svg():
     except Exception:
         range_str = "Last 12 Months"
 
-    # Streaks
+    # Automated streak calculations
     longest_streak = 0
     curr_streak = 0
     temp_streak = 0
@@ -90,9 +161,8 @@ def generate_isometric_svg():
     tile_w = 7.2
     tile_d = 4.0
 
-    # Color palette tailored for transparent background on GitHub
     color_palette = {
-        0: { # Subtle floor tile base
+        0: { # Subtle floor tile base on transparent background
             "top": "#1E222A",
             "left": "#161920",
             "right": "#11141A",
@@ -315,7 +385,7 @@ def generate_isometric_svg():
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(svg_content)
 
-    print(f"Successfully generated {output_path} with 100% transparent card-free layout!")
+    print(f"Successfully generated {output_path} with 100% automated live GitHub data!")
 
 if __name__ == "__main__":
     generate_isometric_svg()

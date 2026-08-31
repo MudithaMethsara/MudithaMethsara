@@ -48,6 +48,8 @@ jobs:
         run: |
           python generate_svg.py
           python generate_3d_contrib.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # Step 4: Commit updated SVGs if changed
       - name: Commit Updated SVGs
