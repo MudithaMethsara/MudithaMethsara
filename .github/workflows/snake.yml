@@ -1,13 +1,14 @@
 # ==============================================================================
 # GitHub Actions Workflow: Profile Automated Updater & Snake Generator
-# 1. Updates header.svg with automated project count & experience calculations
-# 2. Generates animated contribution snake SVGs in methsara.dev brand palette
+# 1. Updates header.svg (dynamic project count, experience, happy clients)
+# 2. Updates isometric-contributions.svg (3D contribution calendar & streaks)
+# 3. Generates animated contribution snake SVGs in methsara.dev brand palette
 # ==============================================================================
 
-name: Update Profile Metrics & Snake Animation
+name: Update Profile Metrics, 3D Graph & Snake
 
 on:
-  # Run automatically every 12 hours to update stats and snake
+  # Run automatically every 12 hours to update stats, 3D graph, and snake
   schedule:
     - cron: "0 */12 * * *"
 
@@ -25,7 +26,7 @@ permissions:
 
 jobs:
   build:
-    name: Update Dynamic Metrics and Generate Snake
+    name: Update Dynamic Metrics, 3D Calendar and Snake
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
@@ -42,18 +43,19 @@ jobs:
         with:
           python-version: '3.x'
 
-      # Step 3: Regenerate header.svg with dynamic project count and experience
-      - name: Update Header Banner Dynamic Metrics
+      # Step 3: Regenerate header.svg and isometric-contributions.svg
+      - name: Update Dynamic SVGs
         run: |
           python generate_svg.py
+          python generate_3d_contrib.py
 
-      # Step 4: Commit updated header.svg if metrics changed
-      - name: Commit Updated Header SVG
+      # Step 4: Commit updated SVGs if changed
+      - name: Commit Updated SVGs
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add assets/header.svg
-          git diff-index --quiet HEAD || git commit -m "chore(auto): update dynamic project & experience metrics [skip ci]"
+          git add assets/header.svg assets/isometric-contributions.svg
+          git diff-index --quiet HEAD || git commit -m "chore(auto): update dynamic banner metrics & 3D contribution graph [skip ci]"
           git push origin main || echo "No updates to push"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

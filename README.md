@@ -71,20 +71,11 @@ In addition to engineering engagements, I hold executive and leadership position
 
 ---
 
-### GitHub Analytics &amp; Repository Stats
+### Contribution Activity &amp; 3D Isometric Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MudithaMethsara&show_icons=true&bg_color=F7F7F8&title_color=121218&text_color=555861&icon_color=83CA16&border_color=E0E2E6&hide_border=false&border_radius=8" alt="GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=MudithaMethsara&background=F7F7F8&stroke=E0E2E6&ring=83CA16&fire=83CA16&currStreakNum=121218&currStreakLabel=555861&sideNums=121218&sideLabels=555861&dates=555861&border_radius=8" alt="GitHub Streak Stats" height="165" />
+  <img src="./assets/isometric-contributions.svg" alt="Muditha Methsara — 3D Isometric Contributions" width="100%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MudithaMethsara&layout=compact&bg_color=F7F7F8&title_color=121218&text_color=555861&border_color=E0E2E6&hide_border=false&border_radius=8" alt="Top Languages" height="150" />
-</p>
-
----
-
-### Contribution Activity
 
 <p align="center">
   <picture>
