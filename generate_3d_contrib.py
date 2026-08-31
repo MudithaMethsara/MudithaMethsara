@@ -90,13 +90,13 @@ def generate_isometric_svg():
     tile_w = 7.2
     tile_d = 4.0
 
-    # Exact GitHub Dark Theme Palette (#0D1117 / #161B22) + Brand Accent Colors
+    # Custom Palette on #2596be Ocean Cyan Background
     color_palette = {
-        0: { # Base floor tile matching GitHub Dark elevation
-            "top": "#21262D",
-            "left": "#1A1F26",
-            "right": "#13161C",
-            "stroke": "#30363D",
+        0: { # Base floor tile on #2596be
+            "top": "#1F82A6",
+            "left": "#1A6F8E",
+            "right": "#145973",
+            "stroke": "#2CA8D4",
             "base_height": 2.5
         },
         1: { # Level 1 - Light Lime Accent
@@ -120,11 +120,11 @@ def generate_isometric_svg():
             "stroke": "#047857",
             "base_height": 34
         },
-        4: { # Level 4 - Vibrant Emerald
-            "top": "#10B981",
-            "left": "#059669",
-            "right": "#047857",
-            "stroke": "#065F46",
+        4: { # Level 4 - Crisp White / Mint Highlight
+            "top": "#FFFFFF",
+            "left": "#E0F2FE",
+            "right": "#BAE6FD",
+            "stroke": "#7DD3FC",
             "base_height": 46
         }
     }
@@ -218,48 +218,48 @@ def generate_isometric_svg():
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&amp;display=swap');
       
-      .canvas-bg {{ fill: #0D1117; }}
-      .card-bg {{ fill: #161B22; stroke: #30363D; stroke-width: 1; rx: 16px; }}
+      .canvas-bg {{ fill: #2596be; }}
+      .card-bg {{ fill: #2596be; stroke: rgba(255, 255, 255, 0.25); stroke-width: 1; rx: 16px; }}
       .font-sans {{ font-family: 'Instrument Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }}
       
-      .header-title {{ font-family: 'Instrument Sans', sans-serif; font-size: 15px; font-weight: 700; fill: #F0F6FC; letter-spacing: -0.2px; }}
-      .header-sub {{ font-family: 'Instrument Sans', sans-serif; font-size: 12px; font-weight: 400; fill: #8B949E; }}
+      .header-title {{ font-family: 'Instrument Sans', sans-serif; font-size: 15px; font-weight: 700; fill: #FFFFFF; letter-spacing: -0.2px; }}
+      .header-sub {{ font-family: 'Instrument Sans', sans-serif; font-size: 12px; font-weight: 500; fill: #E0F2FE; }}
       
-      .stat-big-lime {{ font-family: 'Instrument Sans', sans-serif; font-size: 34px; font-weight: 700; fill: #83CA16; letter-spacing: -0.5px; line-height: 1; }}
-      .stat-big-green {{ font-family: 'Instrument Sans', sans-serif; font-size: 34px; font-weight: 700; fill: #34D399; letter-spacing: -0.5px; line-height: 1; }}
+      .stat-big-lime {{ font-family: 'Instrument Sans', sans-serif; font-size: 34px; font-weight: 700; fill: #D8F89D; letter-spacing: -0.5px; line-height: 1; }}
+      .stat-big-white {{ font-family: 'Instrument Sans', sans-serif; font-size: 34px; font-weight: 700; fill: #FFFFFF; letter-spacing: -0.5px; line-height: 1; }}
       
-      .stat-title {{ font-family: 'Instrument Sans', sans-serif; font-size: 13.5px; font-weight: 600; fill: #F0F6FC; letter-spacing: -0.1px; }}
-      .stat-muted {{ font-family: 'Instrument Sans', sans-serif; font-size: 11.5px; font-weight: 400; fill: #8B949E; }}
-      .stat-label {{ font-family: 'Instrument Sans', sans-serif; font-size: 11px; font-weight: 600; fill: #8B949E; text-transform: uppercase; letter-spacing: 0.5px; }}
+      .stat-title {{ font-family: 'Instrument Sans', sans-serif; font-size: 13.5px; font-weight: 600; fill: #FFFFFF; letter-spacing: -0.1px; }}
+      .stat-muted {{ font-family: 'Instrument Sans', sans-serif; font-size: 11.5px; font-weight: 400; fill: #E0F2FE; }}
+      .stat-label {{ font-family: 'Instrument Sans', sans-serif; font-size: 11px; font-weight: 600; fill: #E0F2FE; text-transform: uppercase; letter-spacing: 0.5px; opacity: 0.9; }}
 
-      .legend-text {{ font-family: 'Instrument Sans', sans-serif; font-size: 11px; font-weight: 500; fill: #8B949E; }}
+      .legend-text {{ font-family: 'Instrument Sans', sans-serif; font-size: 11px; font-weight: 500; fill: #E0F2FE; }}
 
       .iso-active {{
-        filter: drop-shadow(0 2px 6px rgba(131, 202, 22, 0.4));
+        filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.25));
       }}
 
       .iso-active:hover {{
-        filter: brightness(1.25) drop-shadow(0 0 10px rgba(131, 202, 22, 0.7));
+        filter: brightness(1.25) drop-shadow(0 0 10px rgba(255, 255, 255, 0.6));
         cursor: pointer;
       }}
     </style>
 
-    <pattern id="isoBgHatchDark" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
-      <line x1="0" y1="0" x2="0" y2="12" stroke="#21262D" stroke-width="0.8" opacity="0.85" />
+    <pattern id="isoBgHatchBlue" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="12" stroke="#31A8D4" stroke-width="0.8" opacity="0.4" />
     </pattern>
 
-    <filter id="cardShadowDark" x="-2%" y="-2%" width="104%" height="106%" filterUnits="userSpaceOnUse">
-      <feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#010409" flood-opacity="0.6" />
+    <filter id="cardShadowBlue" x="-2%" y="-2%" width="104%" height="106%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#145973" flood-opacity="0.35" />
     </filter>
   </defs>
 
-  <!-- Base Outer Background (#0D1117 Matching GitHub Dark) -->
-  <rect width="960" height="460" fill="#0D1117" rx="16" />
+  <!-- Base Outer Background (#2596be) -->
+  <rect width="960" height="460" fill="#2596be" rx="16" />
 
-  <!-- Outer Card Frame (#161B22 Surface) -->
-  <g filter="url(#cardShadowDark)">
+  <!-- Outer Card Frame (#2596be with subtle pattern) -->
+  <g filter="url(#cardShadowBlue)">
     <rect x="15" y="15" width="930" height="430" class="card-bg" />
-    <rect x="15" y="15" width="930" height="430" fill="url(#isoBgHatchDark)" rx="16" />
+    <rect x="15" y="15" width="930" height="430" fill="url(#isoBgHatchBlue)" rx="16" />
   </g>
 
   <!-- Header Section -->
@@ -269,11 +269,11 @@ def generate_isometric_svg():
     
     <!-- Top Right 3D Isometric Mode Badge -->
     <g transform="translate(748, -8)">
-      <rect x="0" y="0" width="126" height="28" rx="7" fill="#21262D" stroke="#30363D" stroke-width="1" />
-      <circle cx="15" cy="14" r="3.5" fill="#83CA16">
+      <rect x="0" y="0" width="126" height="28" rx="7" fill="rgba(19, 78, 99, 0.5)" stroke="rgba(255, 255, 255, 0.3)" stroke-width="1" />
+      <circle cx="15" cy="14" r="3.5" fill="#D8F89D">
         <animate attributeName="opacity" values="1;0.35;1" dur="2.2s" repeatCount="indefinite" />
       </circle>
-      <text x="26" y="18" font-family="'Instrument Sans', sans-serif" font-size="11" font-weight="600" fill="#F0F6FC">3D Isometric</text>
+      <text x="26" y="18" font-family="'Instrument Sans', sans-serif" font-size="11" font-weight="600" fill="#FFFFFF">3D Isometric</text>
     </g>
   </g>
 
@@ -281,7 +281,7 @@ def generate_isometric_svg():
   <!-- Metric 1: 1 Year Total -->
   <g transform="translate(580, 85)">
     <text x="0" y="0" class="stat-label">1 YEAR TOTAL</text>
-    <text x="0" y="32" class="stat-big-green">{total_contributions}</text>
+    <text x="0" y="32" class="stat-big-white">{total_contributions}</text>
     <text x="65" y="22" class="stat-title">contributions</text>
     <text x="65" y="36" class="stat-muted">{range_str}</text>
   </g>
@@ -298,7 +298,7 @@ def generate_isometric_svg():
   <!-- Longest Streak -->
   <g transform="translate(42, 335)">
     <text x="0" y="0" class="stat-label">LONGEST STREAK</text>
-    <text x="0" y="32" class="stat-big-green">{longest_streak}</text>
+    <text x="0" y="32" class="stat-big-white">{longest_streak}</text>
     <text x="32" y="22" class="stat-title">days</text>
     <text x="32" y="36" class="stat-muted">Peak consistency</text>
   </g>
@@ -319,11 +319,11 @@ def generate_isometric_svg():
   <!-- Legend (Bottom Right) -->
   <g transform="translate(725, 415)">
     <text x="-40" y="10" class="legend-text">Less</text>
-    <rect x="-8" y="0" width="10" height="10" rx="2" fill="#21262D" stroke="#30363D" stroke-width="0.6" />
+    <rect x="-8" y="0" width="10" height="10" rx="2" fill="#1F82A6" stroke="#2CA8D4" stroke-width="0.6" />
     <rect x="8" y="0" width="10" height="10" rx="2" fill="#D8F89D" stroke="#BEE674" stroke-width="0.6" />
     <rect x="24" y="0" width="10" height="10" rx="2" fill="#83CA16" stroke="#6EAD0E" stroke-width="0.6" />
     <rect x="40" y="0" width="10" height="10" rx="2" fill="#34D399" stroke="#10B981" stroke-width="0.6" />
-    <rect x="56" y="0" width="10" height="10" rx="2" fill="#10B981" stroke="#059669" stroke-width="0.6" />
+    <rect x="56" y="0" width="10" height="10" rx="2" fill="#FFFFFF" stroke="#BAE6FD" stroke-width="0.6" />
     <text x="74" y="10" class="legend-text">More</text>
   </g>
 </svg>'''
@@ -332,7 +332,7 @@ def generate_isometric_svg():
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(svg_content)
 
-    print(f"Successfully generated {output_path} matching exact #{'0D1117'} GitHub dark background!")
+    print(f"Successfully generated {output_path} with #2596be background!")
 
 if __name__ == "__main__":
     generate_isometric_svg()
