@@ -1,7 +1,54 @@
 import base64
+import os
+import json
+import urllib.request
+from datetime import datetime
 
-with open('assets/profile.webp', 'rb') as f:
-    b64_img = base64.b64encode(f.read()).decode('utf-8')
+# ==============================================================================
+# 1. Dynamic Calculations: Experience & Project Completion Count
+# ==============================================================================
+
+# Experience: starts from 2022, automatically calculates based on current year
+START_YEAR = 2022
+current_year = datetime.now().year
+experience_years = max(1, current_year - START_YEAR)
+experience_str = f"{experience_years}"
+
+# Projects Completed: starts from 30, automatically increments (+1) per new repository
+BASELINE_PROJECTS = 30
+BASELINE_REPOS = 5  # Baseline public repos at project setup
+
+project_count = BASELINE_PROJECTS
+try:
+    url = "https://api.github.com/users/MudithaMethsara"
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Python)"})
+    with urllib.request.urlopen(req, timeout=5) as response:
+        user_data = json.loads(response.read().decode("utf-8"))
+        current_repos = user_data.get("public_repos", BASELINE_REPOS)
+        # Add 1 to baseline for each new repo created beyond baseline
+        new_repos = max(0, current_repos - BASELINE_REPOS)
+        project_count = BASELINE_PROJECTS + new_repos
+except Exception as e:
+    print(f"Note: Using baseline project count ({BASELINE_PROJECTS}) due to: {e}")
+
+project_str = f"{project_count}+"
+
+print(f"Calculated Metrics -> Experience: {experience_str} yr | Projects Completed: {project_str}")
+
+# ==============================================================================
+# 2. Base64 Encode Profile Image
+# ==============================================================================
+
+img_path = "assets/profile.webp"
+if not os.path.exists(img_path):
+    img_path = os.path.join(os.path.dirname(__file__), "assets/profile.webp")
+
+with open(img_path, "rb") as f:
+    b64_img = base64.b64encode(f.read()).decode("utf-8")
+
+# ==============================================================================
+# 3. Construct SVG Banner Content
+# ==============================================================================
 
 svg_content = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" width="100%" height="100%">
   <defs>
@@ -13,8 +60,8 @@ svg_content = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" 
       .font-sans {{ font-family: 'Instrument Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }}
       .font-serif {{ font-family: 'Lora', Georgia, 'Times New Roman', serif; }}
       
-      .hero-title {{ font-family: 'Lora', Georgia, serif; font-size: 50px; font-weight: 500; fill: #121218; letter-spacing: -1.2px; line-height: 1.12; }}
-      .hero-title-muted {{ fill: #94979E; font-style: italic; font-weight: 400; }}
+      .hero-title {{ font-family: 'Lora', Georgia, 'Times New Roman', serif; font-size: 50px; font-weight: 500; font-style: normal; fill: #121218; letter-spacing: -1.2px; line-height: 1.12; }}
+      .hero-title-muted {{ font-family: 'Lora', Georgia, 'Times New Roman', serif; font-weight: 500; font-style: normal; fill: #94979E; }}
       .hero-sub {{ font-family: 'Instrument Sans', sans-serif; font-size: 15px; font-weight: 400; fill: #61646B; }}
       
       .stat-val {{ font-family: 'Instrument Sans', sans-serif; font-size: 28px; font-weight: 700; fill: #121218; letter-spacing: -0.5px; }}
@@ -81,28 +128,28 @@ svg_content = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" 
     <g transform="translate(60, 60)">
       <!-- Main Heading Line 1 -->
       <text x="0" y="52" class="hero-title">Build better</text>
-      <!-- Main Heading Line 2 -->
+      <!-- Main Heading Line 2: Serif 'Lora' font with normal upright style -->
       <text x="0" y="110" class="hero-title">software, <tspan class="hero-title-muted">faster</tspan></text>
 
       <!-- Subtitle -->
       <text x="0" y="166" class="hero-sub">I build scalable web applications, APIs, and full-stack</text>
       <text x="0" y="188" class="hero-sub">solutions for startups and enterprise teams.</text>
 
-      <!-- Metrics Row (All '+' marks in solid black matching the numbers) -->
+      <!-- Dynamic Metrics Row -->
       <g transform="translate(0, 305)">
-        <!-- Metric 1: 30+ -->
+        <!-- Metric 1: Automated Projects Completed -->
         <g transform="translate(0, 0)">
-          <text x="0" y="0" class="stat-val">30+</text>
+          <text x="0" y="0" class="stat-val">{project_str}</text>
           <text x="0" y="22" class="stat-lbl">Projects completed</text>
         </g>
 
-        <!-- Metric 2: 4 yr -->
+        <!-- Metric 2: Automated Experience Years -->
         <g transform="translate(140, 0)">
-          <text x="0" y="0" class="stat-val">4 <tspan font-size="18" font-weight="500" fill="#555861">yr</tspan></text>
+          <text x="0" y="0" class="stat-val">{experience_str} <tspan font-size="18" font-weight="500" fill="#555861">yr</tspan></text>
           <text x="0" y="22" class="stat-lbl">Experience</text>
         </g>
 
-        <!-- Metric 3: 40+ -->
+        <!-- Metric 3: Happy clients -->
         <g transform="translate(250, 0)">
           <text x="0" y="0" class="stat-val">40+</text>
           <text x="0" y="22" class="stat-lbl">Happy clients</text>
@@ -215,7 +262,11 @@ svg_content = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" 
   </g>
 </svg>'''
 
-with open('assets/header.svg', 'w', encoding='utf-8') as f:
+output_path = "assets/header.svg"
+if not os.path.exists("assets"):
+    os.makedirs("assets", exist_ok=True)
+
+with open(output_path, "w", encoding="utf-8") as f:
     f.write(svg_content)
 
-print('Successfully regenerated assets/header.svg with balanced spacing, total length:', len(svg_content))
+print(f"Successfully generated {output_path} with automated dynamic metrics and normal upright Lora serif typography!")
