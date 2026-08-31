@@ -1,18 +1,21 @@
 # ==============================================================================
-# GitHub Actions Workflow: Profile Automated Updater & Snake Generator
-# 1. Updates header.svg (dynamic project count, experience, happy clients)
-# 2. Updates isometric-contributions.svg (3D contribution calendar & streaks)
-# 3. Generates animated contribution snake SVGs in methsara.dev brand palette
+# GitHub Actions Workflow: Automated Profile Updater & Contribution Snake
+# Runs twice daily at 6:00 AM and 6:00 PM Sri Lanka Time (00:30 & 12:30 UTC)
+#
+# Pipeline Components:
+# 1. Dynamic Banner Metrics (generate_svg.py)
+# 2. 3D Isometric Contribution Calendar & Streaks (generate_3d_contrib.py)
+# 3. Animated Contribution Snake (Platane/snk)
 # ==============================================================================
 
 name: Update Profile Metrics, 3D Graph & Snake
 
 on:
-  # Run automatically at 6:00 AM and 6:00 PM Sri Lanka Time (UTC+5:30 -> 00:30 & 12:30 UTC)
+  # Run automatically at 6:00 AM and 6:00 PM Sri Lanka Time (Asia/Colombo UTC+5:30 -> 00:30 & 12:30 UTC)
   schedule:
     - cron: "30 0,12 * * *"
 
-  # Allows manual execution from the Actions tab
+  # Allows manual execution from the Actions tab anytime
   workflow_dispatch:
 
   # Runs on every push to the default branch
@@ -63,28 +66,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 5: Generate the snake SVGs using Platane/snk
-      # Color palette configuration:
-      # - Light mode palette:
-      #     Background: #F7F7F8 (Site background)
-      #     Level 1:    #D8F89D (Light lime accent)
-      #     Level 2:    #83CA16 (Brand primary lime)
-      #     Level 3:    #10B981 (Emerald green)
-      #     Level 4:    #121218 (Dark charcoal obsidian)
-      # - Dark mode palette:
-      #     Background: #0D1117 (GitHub dark page background)
-      #     Level 1:    #1E293B (Deep slate)
-      #     Level 2:    #83CA16 (Brand primary lime)
-      #     Level 3:    #34D399 (Bright mint emerald)
-      #     Level 4:    #D8F89D (Vibrant light lime)
+      # Step 5: Generate the snake SVGs using Platane/snk matching brand palette
       - name: Generate Contribution Grid Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#83CA16&color_dots=#F7F7F8,#D8F89D,#83CA16,#10B981,#121218
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#83CA16&color_dots=#0D1117,#1E293B,#83CA16,#34D399,#D8F89D
-            dist/github-contribution-grid-snake.gif?color_snake=#83CA16&color_dots=#F7F7F8,#D8F89D,#83CA16,#10B981,#121218
+            dist/github-contribution-grid-snake.svg?color_snake=#83CA16&color_dots=#EBEDF0,#D8F89D,#83CA16,#10B981,#165E3E
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#83CA16&color_dots=#161B22,#D8F89D,#83CA16,#34D399,#10B981
+            dist/github-contribution-grid-snake.gif?color_snake=#83CA16&color_dots=#161B22,#D8F89D,#83CA16,#34D399,#10B981
 
       # Step 6: Deploy the generated SVGs to the 'output' branch
       - name: Deploy to Output Branch
