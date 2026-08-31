@@ -80,7 +80,7 @@ with open(img_path, "rb") as f:
     b64_img = base64.b64encode(f.read()).decode("utf-8")
 
 # ==============================================================================
-# 3. Construct SVG Banner Content
+# 3. Construct SVG Banner Content with Exact 12px Radius on All Corners
 # ==============================================================================
 
 svg_content = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" width="100%" height="100%">
@@ -107,6 +107,11 @@ svg_content = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" 
       
       .tech-item {{ font-family: 'Instrument Sans', sans-serif; font-size: 13.5px; font-weight: 600; fill: #121218; letter-spacing: -0.2px; }}
     </style>
+
+    <!-- Outer 12px Corner Clip to Guarantee Clean Rounded Corners Everywhere -->
+    <clipPath id="outerBannerClip">
+      <rect width="960" height="560" rx="12" />
+    </clipPath>
 
     <clipPath id="cardClip">
       <rect x="20" y="24" width="920" height="455" rx="12" />
@@ -139,158 +144,160 @@ svg_content = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" 
     </linearGradient>
   </defs>
 
-  <!-- Outer Canvas Pattern -->
-  <rect width="960" height="560" fill="#F7F7F8" />
-  <rect width="960" height="560" fill="url(#bgHatch)" />
+  <g clip-path="url(#outerBannerClip)">
+    <!-- Outer Canvas Pattern with 12px Radius -->
+    <rect width="960" height="560" rx="12" fill="#F7F7F8" />
+    <rect width="960" height="560" rx="12" fill="url(#bgHatch)" />
 
-  <!-- ==================== MAIN HERO CARD ==================== -->
-  <!-- Background Card -->
-  <g filter="url(#cardShadow)">
-    <rect x="20" y="24" width="920" height="455" rx="12" class="card-bg" />
-  </g>
-
-  <!-- Clipped Content Group -->
-  <g clip-path="url(#cardClip)">
-    <!-- Portrait Photo -->
-    <image href="data:image/webp;base64,{b64_img}" x="450" y="24" width="490" height="455" preserveAspectRatio="xMidYMin slice" filter="url(#photoGrayscale)" />
-    
-    <!-- Soft Gradient Fade from Card Left to Portrait -->
-    <rect x="390" y="24" width="170" height="455" fill="url(#fadeGradient)" opacity="0.95" />
-
-    <!-- Left Hero Content -->
-    <g transform="translate(60, 60)">
-      <!-- Main Heading Line 1 -->
-      <text x="0" y="52" class="hero-title">Build better</text>
-      <!-- Main Heading Line 2: Serif 'Lora' font with normal upright style -->
-      <text x="0" y="110" class="hero-title">software, <tspan class="hero-title-muted">faster</tspan></text>
-
-      <!-- Subtitle -->
-      <text x="0" y="166" class="hero-sub">I build scalable web applications, APIs, and full-stack</text>
-      <text x="0" y="188" class="hero-sub">solutions for startups and enterprise teams.</text>
-
-      <!-- Dynamic Metrics Row -->
-      <g transform="translate(0, 305)">
-        <!-- Metric 1: Automated Projects Completed -->
-        <g transform="translate(0, 0)">
-          <text x="0" y="0" class="stat-val">{project_str}</text>
-          <text x="0" y="22" class="stat-lbl">Projects completed</text>
-        </g>
-
-        <!-- Metric 2: Automated Experience Years -->
-        <g transform="translate(140, 0)">
-          <text x="0" y="0" class="stat-val">{experience_str} <tspan font-size="18" font-weight="500" fill="#555861">yr</tspan></text>
-          <text x="0" y="22" class="stat-lbl">Experience</text>
-        </g>
-
-        <!-- Metric 3: Automated Happy Clients -->
-        <g transform="translate(250, 0)">
-          <text x="0" y="0" class="stat-val">{happy_clients_str}</text>
-          <text x="0" y="22" class="stat-lbl">Happy clients</text>
-        </g>
-      </g>
+    <!-- ==================== MAIN HERO CARD ==================== -->
+    <!-- Background Card -->
+    <g filter="url(#cardShadow)">
+      <rect x="20" y="24" width="920" height="455" rx="12" class="card-bg" />
     </g>
 
-    <!-- Floating Dark Card (Lower Right over Portrait) -->
-    <g transform="translate(590, 325)" filter="url(#floatShadow)">
-      <rect width="285" height="125" rx="12" class="float-card" />
+    <!-- Clipped Content Group -->
+    <g clip-path="url(#cardClip)">
+      <!-- Portrait Photo -->
+      <image href="data:image/webp;base64,{b64_img}" x="450" y="24" width="490" height="455" preserveAspectRatio="xMidYMin slice" filter="url(#photoGrayscale)" />
       
-      <!-- Sub-label -->
-      <text x="22" y="30" class="float-sub">Select project</text>
-      
-      <!-- Title with pulsing green status dot -->
-      <g transform="translate(22, 54)">
-        <circle cx="4" cy="-4" r="4" fill="#83CA16">
-          <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite" />
-        </circle>
-        <text x="16" y="0" class="float-title">Available for projects</text>
-      </g>
-      
-      <!-- Description -->
-      <text x="22" y="80" class="float-desc">Share a few details, and I'll get back</text>
-      <text x="22" y="96" class="float-desc">with a clear direction.</text>
+      <!-- Soft Gradient Fade from Card Left to Portrait -->
+      <rect x="390" y="24" width="170" height="455" fill="url(#fadeGradient)" opacity="0.95" />
 
-      <!-- Circular Arrow Button -->
-      <g transform="translate(242, 85)">
-        <circle cx="0" cy="0" r="15" fill="#FFFFFF" />
-        <path d="M-4 4 L4 -4 M4 -4 H-1 M4 -4 V1" stroke="#121218" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+      <!-- Left Hero Content -->
+      <g transform="translate(60, 60)">
+        <!-- Main Heading Line 1 -->
+        <text x="0" y="52" class="hero-title">Build better</text>
+        <!-- Main Heading Line 2: Serif 'Lora' font with normal upright style -->
+        <text x="0" y="110" class="hero-title">software, <tspan class="hero-title-muted">faster</tspan></text>
+
+        <!-- Subtitle -->
+        <text x="0" y="166" class="hero-sub">I build scalable web applications, APIs, and full-stack</text>
+        <text x="0" y="188" class="hero-sub">solutions for startups and enterprise teams.</text>
+
+        <!-- Dynamic Metrics Row -->
+        <g transform="translate(0, 305)">
+          <!-- Metric 1: Automated Projects Completed -->
+          <g transform="translate(0, 0)">
+            <text x="0" y="0" class="stat-val">{project_str}</text>
+            <text x="0" y="22" class="stat-lbl">Projects completed</text>
+          </g>
+
+          <!-- Metric 2: Automated Experience Years -->
+          <g transform="translate(140, 0)">
+            <text x="0" y="0" class="stat-val">{experience_str} <tspan font-size="18" font-weight="500" fill="#555861">yr</tspan></text>
+            <text x="0" y="22" class="stat-lbl">Experience</text>
+          </g>
+
+          <!-- Metric 3: Automated Happy Clients -->
+          <g transform="translate(250, 0)">
+            <text x="0" y="0" class="stat-val">{happy_clients_str}</text>
+            <text x="0" y="22" class="stat-lbl">Happy clients</text>
+          </g>
+        </g>
+      </g>
+
+      <!-- Floating Dark Card (Lower Right over Portrait) -->
+      <g transform="translate(590, 325)" filter="url(#floatShadow)">
+        <rect width="285" height="125" rx="12" class="float-card" />
+        
+        <!-- Sub-label -->
+        <text x="22" y="30" class="float-sub">Select project</text>
+        
+        <!-- Title with pulsing green status dot -->
+        <g transform="translate(22, 54)">
+          <circle cx="4" cy="-4" r="4" fill="#83CA16">
+            <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite" />
+          </circle>
+          <text x="16" y="0" class="float-title">Available for projects</text>
+        </g>
+        
+        <!-- Description -->
+        <text x="22" y="80" class="float-desc">Share a few details, and I'll get back</text>
+        <text x="22" y="96" class="float-desc">with a clear direction.</text>
+
+        <!-- Circular Arrow Button -->
+        <g transform="translate(242, 85)">
+          <circle cx="0" cy="0" r="15" fill="#FFFFFF" />
+          <path d="M-4 4 L4 -4 M4 -4 H-1 M4 -4 V1" stroke="#121218" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        </g>
       </g>
     </g>
-  </g>
 
-  <!-- ==================== BOTTOM TECH LOGO STRIP ==================== -->
-  <g transform="translate(480, 520)">
-    <!-- 1. Java -->
-    <g transform="translate(-410, 0)">
-      <g transform="translate(-10, -9) scale(0.85)">
-        <path d="M18 8h1a4 4 0 0 1 0 8h-1" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
-        <path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
-        <path d="M6 1v3 M10 1v3 M14 1v3" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+    <!-- ==================== BOTTOM TECH LOGO STRIP ==================== -->
+    <g transform="translate(480, 520)">
+      <!-- 1. Java -->
+      <g transform="translate(-410, 0)">
+        <g transform="translate(-10, -9) scale(0.85)">
+          <path d="M18 8h1a4 4 0 0 1 0 8h-1" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+          <path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+          <path d="M6 1v3 M10 1v3 M14 1v3" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        </g>
+        <text x="16" y="5" class="tech-item">Java</text>
       </g>
-      <text x="16" y="5" class="tech-item">Java</text>
-    </g>
 
-    <!-- 2. Python -->
-    <g transform="translate(-310, 0)">
-      <g transform="translate(-10, -9) scale(0.85)">
-        <path d="M12 2H8a4 4 0 0 0-4 4v3a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2H6" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
-        <path d="M12 22h4a4 4 0 0 0 4-4v-3a2 2 0 0 0-2-2h-6a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h6" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
-        <circle cx="8" cy="6" r="1.2" fill="#121218" />
-        <circle cx="16" cy="18" r="1.2" fill="#121218" />
+      <!-- 2. Python -->
+      <g transform="translate(-310, 0)">
+        <g transform="translate(-10, -9) scale(0.85)">
+          <path d="M12 2H8a4 4 0 0 0-4 4v3a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2H6" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+          <path d="M12 22h4a4 4 0 0 0 4-4v-3a2 2 0 0 0-2-2h-6a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h6" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+          <circle cx="8" cy="6" r="1.2" fill="#121218" />
+          <circle cx="16" cy="18" r="1.2" fill="#121218" />
+        </g>
+        <text x="16" y="5" class="tech-item">Python</text>
       </g>
-      <text x="16" y="5" class="tech-item">Python</text>
-    </g>
 
-    <!-- 3. Spring Boot -->
-    <g transform="translate(-185, 0)">
-      <g transform="translate(-10, -9) scale(0.85)">
-        <circle cx="12" cy="12" r="9.5" stroke="#121218" stroke-width="1.8" fill="none" />
-        <path d="M8 14c2-4 6-6 8-6-1 4-3 8-8 8z" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
-        <path d="M9 13l4-2" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+      <!-- 3. Spring Boot -->
+      <g transform="translate(-185, 0)">
+        <g transform="translate(-10, -9) scale(0.85)">
+          <circle cx="12" cy="12" r="9.5" stroke="#121218" stroke-width="1.8" fill="none" />
+          <path d="M8 14c2-4 6-6 8-6-1 4-3 8-8 8z" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+          <path d="M9 13l4-2" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        </g>
+        <text x="16" y="5" class="tech-item">Spring Boot</text>
       </g>
-      <text x="16" y="5" class="tech-item">Spring Boot</text>
-    </g>
 
-    <!-- 4. PostgreSQL -->
-    <g transform="translate(-30, 0)">
-      <g transform="translate(-10, -9) scale(0.85)">
-        <ellipse cx="12" cy="5" rx="9" ry="3" stroke="#121218" stroke-width="1.8" fill="none" />
-        <path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
-        <path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+      <!-- 4. PostgreSQL -->
+      <g transform="translate(-30, 0)">
+        <g transform="translate(-10, -9) scale(0.85)">
+          <ellipse cx="12" cy="5" rx="9" ry="3" stroke="#121218" stroke-width="1.8" fill="none" />
+          <path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+          <path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        </g>
+        <text x="16" y="5" class="tech-item">PostgreSQL</text>
       </g>
-      <text x="16" y="5" class="tech-item">PostgreSQL</text>
-    </g>
 
-    <!-- 5. Tailwind CSS -->
-    <g transform="translate(125, 0)">
-      <g transform="translate(-10, -9) scale(0.85)">
-        <path d="M6 10c1.5-3 3.5-4 6-3 1.5.6 2.5 1.8 3.5 3 1.5 1.8 3 3 6.5 2 0 0-2 5-6 4-1.5-.4-2.5-1.6-3.5-2.8C10.5 11.4 9 10.2 6 10z" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
-        <path d="M2 17c1.5-3 3.5-4 6-3 1.5.6 2.5 1.8 3.5 3 1.5 1.8 3 3 6.5 2" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+      <!-- 5. Tailwind CSS -->
+      <g transform="translate(125, 0)">
+        <g transform="translate(-10, -9) scale(0.85)">
+          <path d="M6 10c1.5-3 3.5-4 6-3 1.5.6 2.5 1.8 3.5 3 1.5 1.8 3 3 6.5 2 0 0-2 5-6 4-1.5-.4-2.5-1.6-3.5-2.8C10.5 11.4 9 10.2 6 10z" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+          <path d="M2 17c1.5-3 3.5-4 6-3 1.5.6 2.5 1.8 3.5 3 1.5 1.8 3 3 6.5 2" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        </g>
+        <text x="16" y="5" class="tech-item">Tailwind CSS</text>
       </g>
-      <text x="16" y="5" class="tech-item">Tailwind CSS</text>
-    </g>
 
-    <!-- 6. Docker -->
-    <g transform="translate(270, 0)">
-      <g transform="translate(-10, -9) scale(0.85)">
-        <rect x="4.5" y="8.5" width="3" height="3" rx="0.5" stroke="#121218" stroke-width="1.8" fill="none" />
-        <rect x="8.5" y="8.5" width="3" height="3" rx="0.5" stroke="#121218" stroke-width="1.8" fill="none" />
-        <rect x="12.5" y="8.5" width="3" height="3" rx="0.5" stroke="#121218" stroke-width="1.8" fill="none" />
-        <rect x="8.5" y="4.5" width="3" height="3" rx="0.5" stroke="#121218" stroke-width="1.8" fill="none" />
-        <path d="M2 12.5h17a4 4 0 0 1 3 3.5c-.8 2.5-3.5 4.5-8 4.5-6.5 0-9.5-3-12-8z" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+      <!-- 6. Docker -->
+      <g transform="translate(270, 0)">
+        <g transform="translate(-10, -9) scale(0.85)">
+          <rect x="4.5" y="8.5" width="3" height="3" rx="0.5" stroke="#121218" stroke-width="1.8" fill="none" />
+          <rect x="8.5" y="8.5" width="3" height="3" rx="0.5" stroke="#121218" stroke-width="1.8" fill="none" />
+          <rect x="12.5" y="8.5" width="3" height="3" rx="0.5" stroke="#121218" stroke-width="1.8" fill="none" />
+          <rect x="8.5" y="4.5" width="3" height="3" rx="0.5" stroke="#121218" stroke-width="1.8" fill="none" />
+          <path d="M2 12.5h17a4 4 0 0 1 3 3.5c-.8 2.5-3.5 4.5-8 4.5-6.5 0-9.5-3-12-8z" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        </g>
+        <text x="16" y="5" class="tech-item">Docker</text>
       </g>
-      <text x="16" y="5" class="tech-item">Docker</text>
-    </g>
 
-    <!-- 7. Git & GitHub -->
-    <g transform="translate(375, 0)">
-      <g transform="translate(-10, -9) scale(0.85)">
-        <circle cx="6" cy="6" r="2.5" stroke="#121218" stroke-width="1.8" fill="none" />
-        <circle cx="6" cy="18" r="2.5" stroke="#121218" stroke-width="1.8" fill="none" />
-        <circle cx="18" cy="9" r="2.5" stroke="#121218" stroke-width="1.8" fill="none" />
-        <path d="M6 8.5v7" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
-        <path d="M6 12a4 4 0 0 0 4 4h2a4 4 0 0 0 4-4V11.5" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+      <!-- 7. Git & GitHub -->
+      <g transform="translate(375, 0)">
+        <g transform="translate(-10, -9) scale(0.85)">
+          <circle cx="6" cy="6" r="2.5" stroke="#121218" stroke-width="1.8" fill="none" />
+          <circle cx="6" cy="18" r="2.5" stroke="#121218" stroke-width="1.8" fill="none" />
+          <circle cx="18" cy="9" r="2.5" stroke="#121218" stroke-width="1.8" fill="none" />
+          <path d="M6 8.5v7" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+          <path d="M6 12a4 4 0 0 0 4 4h2a4 4 0 0 0 4-4V11.5" stroke="#121218" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        </g>
+        <text x="16" y="5" class="tech-item">Git &amp; GitHub</text>
       </g>
-      <text x="16" y="5" class="tech-item">Git &amp; GitHub</text>
     </g>
   </g>
 </svg>'''
@@ -302,4 +309,4 @@ if not os.path.exists("assets"):
 with open(output_path, "w", encoding="utf-8") as f:
     f.write(svg_content)
 
-print(f"Successfully generated {output_path} with automated dynamic metrics: Projects={project_str}, Experience={experience_str} yr, Happy Clients={happy_clients_str}")
+print(f"Successfully generated {output_path} with 100% clean outer and inner 12px rounded corners!")
