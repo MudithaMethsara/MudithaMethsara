@@ -90,12 +90,13 @@ def generate_isometric_svg():
     tile_w = 7.2
     tile_d = 4.0
 
+    # Dark Theme Color Palette Matching methsara.dev & GitHub Dark
     color_palette = {
-        0: { # Empty base tile
-            "top": "#ECEEF0",
-            "left": "#DDE1E6",
-            "right": "#CCD1D9",
-            "stroke": "#BFC5CE",
+        0: { # Base dark floor tile
+            "top": "#1E212B",
+            "left": "#181A22",
+            "right": "#12141B",
+            "stroke": "#2D313F",
             "base_height": 2.5
         },
         1: { # Level 1 - Light Lime Accent
@@ -112,18 +113,18 @@ def generate_isometric_svg():
             "stroke": "#4C7D04",
             "base_height": 22
         },
-        3: { # Level 3 - Emerald Green
-            "top": "#10B981",
-            "left": "#0B9B6A",
-            "right": "#067D55",
-            "stroke": "#046644",
+        3: { # Level 3 - Bright Mint Emerald
+            "top": "#34D399",
+            "left": "#10B981",
+            "right": "#059669",
+            "stroke": "#047857",
             "base_height": 34
         },
-        4: { # Level 4 - Deep Forest
-            "top": "#165E3E",
-            "left": "#10472E",
-            "right": "#0B3320",
-            "stroke": "#082819",
+        4: { # Level 4 - Vibrant Emerald
+            "top": "#10B981",
+            "left": "#059669",
+            "right": "#047857",
+            "stroke": "#065F46",
             "base_height": 46
         }
     }
@@ -217,41 +218,45 @@ def generate_isometric_svg():
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&amp;display=swap');
       
-      .canvas-bg {{ fill: #F7F7F8; }}
-      .card-bg {{ fill: #ECEEF0; stroke: #E0E2E6; stroke-width: 1; rx: 16px; }}
+      .canvas-bg {{ fill: #0D0E12; }}
+      .card-bg {{ fill: #14151B; stroke: rgba(255, 255, 255, 0.12); stroke-width: 1; rx: 16px; }}
       .font-sans {{ font-family: 'Instrument Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }}
       
-      .header-title {{ font-family: 'Instrument Sans', sans-serif; font-size: 15px; font-weight: 700; fill: #121218; letter-spacing: -0.2px; }}
-      .header-sub {{ font-family: 'Instrument Sans', sans-serif; font-size: 12px; font-weight: 400; fill: #61646B; }}
+      .header-title {{ font-family: 'Instrument Sans', sans-serif; font-size: 15px; font-weight: 700; fill: #FFFFFF; letter-spacing: -0.2px; }}
+      .header-sub {{ font-family: 'Instrument Sans', sans-serif; font-size: 12px; font-weight: 400; fill: #8A8E9B; }}
       
       .stat-big-lime {{ font-family: 'Instrument Sans', sans-serif; font-size: 34px; font-weight: 700; fill: #83CA16; letter-spacing: -0.5px; line-height: 1; }}
-      .stat-big-green {{ font-family: 'Instrument Sans', sans-serif; font-size: 34px; font-weight: 700; fill: #165E3E; letter-spacing: -0.5px; line-height: 1; }}
+      .stat-big-green {{ font-family: 'Instrument Sans', sans-serif; font-size: 34px; font-weight: 700; fill: #34D399; letter-spacing: -0.5px; line-height: 1; }}
       
-      .stat-title {{ font-family: 'Instrument Sans', sans-serif; font-size: 13.5px; font-weight: 600; fill: #121218; letter-spacing: -0.1px; }}
-      .stat-muted {{ font-family: 'Instrument Sans', sans-serif; font-size: 11.5px; font-weight: 400; fill: #61646B; }}
-      .stat-label {{ font-family: 'Instrument Sans', sans-serif; font-size: 11px; font-weight: 600; fill: #555861; text-transform: uppercase; letter-spacing: 0.5px; }}
+      .stat-title {{ font-family: 'Instrument Sans', sans-serif; font-size: 13.5px; font-weight: 600; fill: #FFFFFF; letter-spacing: -0.1px; }}
+      .stat-muted {{ font-family: 'Instrument Sans', sans-serif; font-size: 11.5px; font-weight: 400; fill: #8A8E9B; }}
+      .stat-label {{ font-family: 'Instrument Sans', sans-serif; font-size: 11px; font-weight: 600; fill: #8A8E9B; text-transform: uppercase; letter-spacing: 0.5px; }}
 
-      .legend-text {{ font-family: 'Instrument Sans', sans-serif; font-size: 11px; font-weight: 500; fill: #61646B; }}
+      .legend-text {{ font-family: 'Instrument Sans', sans-serif; font-size: 11px; font-weight: 500; fill: #8A8E9B; }}
+
+      .iso-active {{
+        filter: drop-shadow(0 2px 5px rgba(131, 202, 22, 0.35));
+      }}
 
       .iso-active:hover {{
-        filter: brightness(1.15) drop-shadow(0 4px 8px rgba(0,0,0,0.2));
+        filter: brightness(1.25) drop-shadow(0 0 10px rgba(131, 202, 22, 0.6));
         cursor: pointer;
       }}
     </style>
 
-    <pattern id="isoBgHatch" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
-      <line x1="0" y1="0" x2="0" y2="12" stroke="#E5E7EB" stroke-width="0.8" opacity="0.6" />
+    <pattern id="isoBgHatchDark" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="12" stroke="#222530" stroke-width="0.8" opacity="0.75" />
     </pattern>
 
-    <filter id="cardShadow" x="-2%" y="-2%" width="104%" height="106%" filterUnits="userSpaceOnUse">
-      <feDropShadow dx="0" dy="4" stdDeviation="12" flood-color="#000000" flood-opacity="0.035" />
+    <filter id="cardShadowDark" x="-2%" y="-2%" width="104%" height="106%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#000000" flood-opacity="0.4" />
     </filter>
   </defs>
 
-  <!-- Outer Card Frame -->
-  <g filter="url(#cardShadow)">
+  <!-- Outer Card Frame (Dark Obsidian Surface) -->
+  <g filter="url(#cardShadowDark)">
     <rect x="15" y="15" width="930" height="430" class="card-bg" />
-    <rect x="15" y="15" width="930" height="430" fill="url(#isoBgHatch)" rx="16" />
+    <rect x="15" y="15" width="930" height="430" fill="url(#isoBgHatchDark)" rx="16" />
   </g>
 
   <!-- Header Section -->
@@ -261,7 +266,7 @@ def generate_isometric_svg():
     
     <!-- Top Right 3D Isometric Mode Badge -->
     <g transform="translate(748, -8)">
-      <rect x="0" y="0" width="126" height="28" rx="7" fill="#121218" />
+      <rect x="0" y="0" width="126" height="28" rx="7" fill="#1C1F28" stroke="rgba(255, 255, 255, 0.15)" stroke-width="1" />
       <circle cx="15" cy="14" r="3.5" fill="#83CA16">
         <animate attributeName="opacity" values="1;0.35;1" dur="2.2s" repeatCount="indefinite" />
       </circle>
@@ -311,11 +316,11 @@ def generate_isometric_svg():
   <!-- Legend (Bottom Right) -->
   <g transform="translate(725, 415)">
     <text x="-40" y="10" class="legend-text">Less</text>
-    <rect x="-8" y="0" width="10" height="10" rx="2" fill="#ECEEF0" stroke="#CCD1D9" stroke-width="0.6" />
+    <rect x="-8" y="0" width="10" height="10" rx="2" fill="#1E212B" stroke="#2D313F" stroke-width="0.6" />
     <rect x="8" y="0" width="10" height="10" rx="2" fill="#D8F89D" stroke="#BEE674" stroke-width="0.6" />
     <rect x="24" y="0" width="10" height="10" rx="2" fill="#83CA16" stroke="#6EAD0E" stroke-width="0.6" />
-    <rect x="40" y="0" width="10" height="10" rx="2" fill="#10B981" stroke="#0B9B6A" stroke-width="0.6" />
-    <rect x="56" y="0" width="10" height="10" rx="2" fill="#165E3E" stroke="#10472E" stroke-width="0.6" />
+    <rect x="40" y="0" width="10" height="10" rx="2" fill="#34D399" stroke="#10B981" stroke-width="0.6" />
+    <rect x="56" y="0" width="10" height="10" rx="2" fill="#10B981" stroke="#059669" stroke-width="0.6" />
     <text x="74" y="10" class="legend-text">More</text>
   </g>
 </svg>'''
@@ -324,7 +329,7 @@ def generate_isometric_svg():
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(svg_content)
 
-    print(f"Successfully generated {output_path} with smooth SVG animations and clean rendering!")
+    print(f"Successfully generated dark-themed {output_path} matching GitHub README dark background!")
 
 if __name__ == "__main__":
     generate_isometric_svg()
