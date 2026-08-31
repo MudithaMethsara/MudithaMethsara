@@ -1,20 +1,22 @@
 import base64
 import os
 import json
+import hashlib
 import urllib.request
 from datetime import datetime
 
 # ==============================================================================
-# 1. Dynamic Calculations: Experience & Project Completion Count
+# 1. Dynamic Calculations: Experience, Projects, & Happy Clients
 # ==============================================================================
 
-# Experience: starts from 2022, automatically calculates based on current year
-START_YEAR = 2022
+# A. Experience: Starts from 2022, automatically calculates based on current year
+EXPERIENCE_START_YEAR = 2022
 current_year = datetime.now().year
-experience_years = max(1, current_year - START_YEAR)
+current_month = datetime.now().month
+experience_years = max(1, current_year - EXPERIENCE_START_YEAR)
 experience_str = f"{experience_years}"
 
-# Projects Completed: starts from 30, automatically increments (+1) per new repository
+# B. Projects Completed: Starts from 30, automatically increments (+1) per new repository
 BASELINE_PROJECTS = 30
 BASELINE_REPOS = 5  # Baseline public repos at project setup
 
@@ -33,7 +35,34 @@ except Exception as e:
 
 project_str = f"{project_count}+"
 
-print(f"Calculated Metrics -> Experience: {experience_str} yr | Projects Completed: {project_str}")
+# C. Happy Clients: Starts from 40, automatically & deterministically adds +1 or +2 each month
+CLIENTS_BASELINE = 40
+CLIENTS_START_YEAR = 2026
+CLIENTS_START_MONTH = 9  # Baseline month: September 2026
+
+def calculate_happy_clients(cur_year, cur_month):
+    total_months_elapsed = (cur_year - CLIENTS_START_YEAR) * 12 + (cur_month - CLIENTS_START_MONTH)
+    if total_months_elapsed <= 0:
+        return CLIENTS_BASELINE
+    
+    added = 0
+    y = CLIENTS_START_YEAR
+    m = CLIENTS_START_MONTH
+    for _ in range(total_months_elapsed):
+        m += 1
+        if m > 12:
+            m = 1
+            y += 1
+        # Deterministic pseudo-random seed per month (generates +1 or +2 consistently)
+        seed = int(hashlib.md5(f"happy_clients_{y}_{m}".encode()).hexdigest(), 16)
+        increment = 1 + (seed % 2)  # Either +1 or +2
+        added += increment
+    return CLIENTS_BASELINE + added
+
+happy_clients_count = calculate_happy_clients(current_year, current_month)
+happy_clients_str = f"{happy_clients_count}+"
+
+print(f"Calculated Metrics -> Experience: {experience_str} yr | Projects: {project_str} | Happy Clients: {happy_clients_str}")
 
 # ==============================================================================
 # 2. Base64 Encode Profile Image
@@ -149,9 +178,9 @@ svg_content = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" 
           <text x="0" y="22" class="stat-lbl">Experience</text>
         </g>
 
-        <!-- Metric 3: Happy clients -->
+        <!-- Metric 3: Automated Happy Clients -->
         <g transform="translate(250, 0)">
-          <text x="0" y="0" class="stat-val">40+</text>
+          <text x="0" y="0" class="stat-val">{happy_clients_str}</text>
           <text x="0" y="22" class="stat-lbl">Happy clients</text>
         </g>
       </g>
@@ -269,4 +298,4 @@ if not os.path.exists("assets"):
 with open(output_path, "w", encoding="utf-8") as f:
     f.write(svg_content)
 
-print(f"Successfully generated {output_path} with automated dynamic metrics and normal upright Lora serif typography!")
+print(f"Successfully generated {output_path} with automated dynamic metrics: Projects={project_str}, Experience={experience_str} yr, Happy Clients={happy_clients_str}")

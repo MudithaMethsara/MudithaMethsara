@@ -97,7 +97,7 @@
           <text x="0" y="22" class="stat-lbl">Experience</text>
         </g>
 
-        <!-- Metric 3: Happy clients -->
+        <!-- Metric 3: Automated Happy Clients -->
         <g transform="translate(250, 0)">
           <text x="0" y="0" class="stat-val">40+</text>
           <text x="0" y="22" class="stat-lbl">Happy clients</text>
