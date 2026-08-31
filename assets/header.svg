@@ -4,7 +4,7 @@
       @import url('https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&amp;family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&amp;display=swap');
       
       .body-bg { fill: #F7F7F8; }
-      .card-bg { fill: #ECEEF0; stroke: #E0E2E6; stroke-width: 1; rx: 16px; }
+      .card-bg { fill: #ECEEF0; stroke: #E0E2E6; stroke-width: 1; rx: 12px; }
       .font-sans { font-family: 'Instrument Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
       .font-serif { font-family: 'Lora', Georgia, 'Times New Roman', serif; }
       
@@ -15,7 +15,7 @@
       .stat-val { font-family: 'Instrument Sans', sans-serif; font-size: 28px; font-weight: 700; fill: #121218; letter-spacing: -0.5px; }
       .stat-lbl { font-family: 'Instrument Sans', sans-serif; font-size: 12px; font-weight: 400; fill: #555861; }
       
-      .float-card { fill: #14151B; stroke: rgba(255, 255, 255, 0.12); stroke-width: 1; rx: 14px; }
+      .float-card { fill: #14151B; stroke: rgba(255, 255, 255, 0.12); stroke-width: 1; rx: 12px; }
       .float-sub { font-family: 'Instrument Sans', sans-serif; font-size: 10.5px; font-weight: 500; fill: #8A8E9B; text-transform: uppercase; letter-spacing: 0.5px; }
       .float-title { font-family: 'Instrument Sans', sans-serif; font-size: 13.5px; font-weight: 600; fill: #FFFFFF; }
       .float-desc { font-family: 'Instrument Sans', sans-serif; font-size: 11px; font-weight: 400; fill: #94979E; }
@@ -24,7 +24,7 @@
     </style>
 
     <clipPath id="cardClip">
-      <rect x="20" y="24" width="920" height="455" rx="16" />
+      <rect x="20" y="24" width="920" height="455" rx="12" />
     </clipPath>
 
     <filter id="photoGrayscale">
@@ -61,7 +61,7 @@
   <!-- ==================== MAIN HERO CARD ==================== -->
   <!-- Background Card -->
   <g filter="url(#cardShadow)">
-    <rect x="20" y="24" width="920" height="455" class="card-bg" />
+    <rect x="20" y="24" width="920" height="455" rx="12" class="card-bg" />
   </g>
 
   <!-- Clipped Content Group -->
@@ -107,7 +107,7 @@
 
     <!-- Floating Dark Card (Lower Right over Portrait) -->
     <g transform="translate(590, 325)" filter="url(#floatShadow)">
-      <rect width="285" height="125" class="float-card" />
+      <rect width="285" height="125" rx="12" class="float-card" />
       
       <!-- Sub-label -->
       <text x="22" y="30" class="float-sub">Select project</text>
