@@ -90,13 +90,13 @@ def generate_isometric_svg():
     tile_w = 7.2
     tile_d = 4.0
 
-    # Color palette tailored for pure #0D1117 background
+    # Color palette tailored for transparent background on GitHub
     color_palette = {
-        0: { # Floor tile base on #0D1117
-            "top": "#161B22",
-            "left": "#12151B",
-            "right": "#0E1015",
-            "stroke": "#21262D",
+        0: { # Subtle floor tile base
+            "top": "#1E222A",
+            "left": "#161920",
+            "right": "#11141A",
+            "stroke": "#2D333F",
             "base_height": 2.5
         },
         1: { # Level 1 - Light Lime Accent
@@ -218,8 +218,6 @@ def generate_isometric_svg():
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&amp;display=swap');
       
-      .canvas-bg {{ fill: #0D1117; }}
-      .card-bg {{ fill: #0D1117; stroke: #30363D; stroke-width: 1; rx: 16px; }}
       .font-sans {{ font-family: 'Instrument Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }}
       
       .header-title {{ font-family: 'Instrument Sans', sans-serif; font-size: 15px; font-weight: 700; fill: #F0F6FC; letter-spacing: -0.2px; }}
@@ -243,28 +241,18 @@ def generate_isometric_svg():
         cursor: pointer;
       }}
     </style>
-
-    <filter id="cardShadowDark" x="-2%" y="-2%" width="104%" height="106%" filterUnits="userSpaceOnUse">
-      <feDropShadow dx="0" dy="6" stdDeviation="12" flood-color="#010409" flood-opacity="0.5" />
-    </filter>
   </defs>
 
-  <!-- Seamless #0D1117 Full Background Canvas -->
-  <rect width="960" height="460" fill="#0D1117" />
-
-  <!-- Card Border Container (Both fill and canvas are exact #0D1117) -->
-  <g filter="url(#cardShadowDark)">
-    <rect x="15" y="15" width="930" height="430" class="card-bg" />
-  </g>
+  <!-- 100% Transparent Background with No Enclosing Card Container -->
 
   <!-- Header Section -->
-  <g transform="translate(42, 45)">
+  <g transform="translate(30, 40)">
     <text x="0" y="0" class="header-title">{total_contributions} contributions in the last year</text>
     <text x="0" y="18" class="header-sub">{range_str}</text>
     
     <!-- Top Right 3D Isometric Mode Badge -->
-    <g transform="translate(748, -8)">
-      <rect x="0" y="0" width="126" height="28" rx="7" fill="#161B22" stroke="#30363D" stroke-width="1" />
+    <g transform="translate(765, -10)">
+      <rect x="0" y="0" width="124" height="28" rx="7" fill="#161B22" stroke="#30363D" stroke-width="1" />
       <circle cx="15" cy="14" r="3.5" fill="#83CA16">
         <animate attributeName="opacity" values="1;0.35;1" dur="2.2s" repeatCount="indefinite" />
       </circle>
@@ -291,7 +279,7 @@ def generate_isometric_svg():
 
   <!-- ==================== BOTTOM LEFT STATS ==================== -->
   <!-- Longest Streak -->
-  <g transform="translate(42, 335)">
+  <g transform="translate(30, 335)">
     <text x="0" y="0" class="stat-label">LONGEST STREAK</text>
     <text x="0" y="32" class="stat-big-green">{longest_streak}</text>
     <text x="32" y="22" class="stat-title">days</text>
@@ -299,7 +287,7 @@ def generate_isometric_svg():
   </g>
 
   <!-- Current Streak -->
-  <g transform="translate(42, 395)">
+  <g transform="translate(30, 395)">
     <text x="0" y="0" class="stat-label">CURRENT STREAK</text>
     <text x="0" y="28" class="stat-big-lime">{curr_streak}</text>
     <text x="30" y="18" class="stat-title">days</text>
@@ -312,9 +300,9 @@ def generate_isometric_svg():
   </g>
 
   <!-- Legend (Bottom Right) -->
-  <g transform="translate(725, 415)">
+  <g transform="translate(735, 415)">
     <text x="-40" y="10" class="legend-text">Less</text>
-    <rect x="-8" y="0" width="10" height="10" rx="2" fill="#161B22" stroke="#30363D" stroke-width="0.6" />
+    <rect x="-8" y="0" width="10" height="10" rx="2" fill="#1E222A" stroke="#2D333F" stroke-width="0.6" />
     <rect x="8" y="0" width="10" height="10" rx="2" fill="#D8F89D" stroke="#BEE674" stroke-width="0.6" />
     <rect x="24" y="0" width="10" height="10" rx="2" fill="#83CA16" stroke="#6EAD0E" stroke-width="0.6" />
     <rect x="40" y="0" width="10" height="10" rx="2" fill="#34D399" stroke="#10B981" stroke-width="0.6" />
@@ -327,7 +315,7 @@ def generate_isometric_svg():
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(svg_content)
 
-    print(f"Successfully generated {output_path} with 100% solid #{'0d1117'} background!")
+    print(f"Successfully generated {output_path} with 100% transparent card-free layout!")
 
 if __name__ == "__main__":
     generate_isometric_svg()
