@@ -58,7 +58,7 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add assets/header.svg assets/isometric-contributions.svg
           git diff-index --quiet HEAD || git commit -m "chore(auto): update dynamic banner metrics & 3D contribution graph [skip ci]"
-          git push origin main || echo "No updates to push"
+          git push origin HEAD:main || git push origin HEAD:master || echo "No updates to push"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -71,7 +71,7 @@ jobs:
       #     Level 3:    #10B981 (Emerald green)
       #     Level 4:    #121218 (Dark charcoal obsidian)
       # - Dark mode palette:
-      #     Background: #121218 (Dark charcoal)
+      #     Background: #0D1117 (GitHub dark page background)
       #     Level 1:    #1E293B (Deep slate)
       #     Level 2:    #83CA16 (Brand primary lime)
       #     Level 3:    #34D399 (Bright mint emerald)
@@ -82,7 +82,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#83CA16&color_dots=#F7F7F8,#D8F89D,#83CA16,#10B981,#121218
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#83CA16&color_dots=#121218,#1E293B,#83CA16,#34D399,#D8F89D
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#83CA16&color_dots=#0D1117,#1E293B,#83CA16,#34D399,#D8F89D
             dist/github-contribution-grid-snake.gif?color_snake=#83CA16&color_dots=#F7F7F8,#D8F89D,#83CA16,#10B981,#121218
 
       # Step 6: Deploy the generated SVGs to the 'output' branch
