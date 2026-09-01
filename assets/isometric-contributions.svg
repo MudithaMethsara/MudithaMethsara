@@ -30,11 +30,7 @@
 
   <!-- Header Section -->
   <g transform="translate(30, 40)">
-<<<<<<< HEAD
     <text x="0" y="0" class="header-title">377 contributions in the last year</text>
-=======
-    <text x="0" y="0" class="header-title">89 contributions in the last year</text>
->>>>>>> e1f2c4b7436efee3f712f85b6f2dbc38f823a26d
     <text x="0" y="18" class="header-sub">Aug 31, 2025 – Sep 01, 2026</text>
     
     <!-- Top Right 3D Isometric Mode Badge -->
@@ -51,11 +47,7 @@
   <!-- Metric 1: 1 Year Total -->
   <g transform="translate(580, 85)">
     <text x="0" y="0" class="stat-label">1 YEAR TOTAL</text>
-<<<<<<< HEAD
     <text x="0" y="32" class="stat-big-green">377</text>
-=======
-    <text x="0" y="32" class="stat-big-green">89</text>
->>>>>>> e1f2c4b7436efee3f712f85b6f2dbc38f823a26d
     <text x="65" y="22" class="stat-title">contributions</text>
     <text x="65" y="36" class="stat-muted">Aug 31, 2025 – Sep 01, 2026</text>
   </g>
