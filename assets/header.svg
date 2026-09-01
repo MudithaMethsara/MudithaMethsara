@@ -14,10 +14,10 @@
       .stat-val { font-family: 'Instrument Sans', sans-serif; font-size: 26px; font-weight: 700; fill: #121218; letter-spacing: -0.5px; }
       .stat-lbl { font-family: 'Instrument Sans', sans-serif; font-size: 11.5px; font-weight: 400; fill: #555861; }
       
-      .float-card { fill: #14151B; stroke: rgba(255, 255, 255, 0.12); stroke-width: 1; rx: 12px; }
-      .float-sub { font-family: 'Instrument Sans', sans-serif; font-size: 10px; font-weight: 500; fill: #8A8E9B; text-transform: uppercase; letter-spacing: 0.5px; }
-      .float-title { font-family: 'Instrument Sans', sans-serif; font-size: 13px; font-weight: 600; fill: #FFFFFF; }
-      .float-desc { font-family: 'Instrument Sans', sans-serif; font-size: 10.5px; font-weight: 400; fill: #94979E; }
+      .float-card { fill: #14151B; stroke: rgba(255, 255, 255, 0.12); stroke-width: 1; rx: 10px; }
+      .float-sub { font-family: 'Instrument Sans', sans-serif; font-size: 9.5px; font-weight: 500; fill: #8A8E9B; text-transform: uppercase; letter-spacing: 0.5px; }
+      .float-title { font-family: 'Instrument Sans', sans-serif; font-size: 12.5px; font-weight: 600; fill: #FFFFFF; }
+      .float-desc { font-family: 'Instrument Sans', sans-serif; font-size: 10px; font-weight: 400; fill: #94979E; }
       
       .tech-item { font-family: 'Instrument Sans', sans-serif; font-size: 13px; font-weight: 600; fill: #121218; letter-spacing: -0.2px; }
     </style>
@@ -96,29 +96,23 @@
     </g>
 
     <!-- Floating Dark Card (Lower Right over Portrait) -->
-    <g transform="translate(600, 290)" filter="url(#floatShadow)">
-      <rect width="280" height="120" rx="12" class="float-card" />
+    <g transform="translate(630, 310)" filter="url(#floatShadow)">
+      <rect width="230" height="96" rx="10" class="float-card" />
       
       <!-- Sub-label -->
-      <text x="20" y="28" class="float-sub">Select project</text>
+      <text x="16" y="24" class="float-sub">Select project</text>
       
       <!-- Title with pulsing green status dot -->
-      <g transform="translate(20, 50)">
-        <circle cx="4" cy="-4" r="3.5" fill="#83CA16">
+      <g transform="translate(16, 44)">
+        <circle cx="4" cy="-4" r="3.2" fill="#83CA16">
           <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite" />
         </circle>
-        <text x="15" y="0" class="float-title">Available for projects</text>
+        <text x="14" y="0" class="float-title">Available for projects</text>
       </g>
       
       <!-- Description -->
-      <text x="20" y="74" class="float-desc">Share a few details, and I'll get back</text>
-      <text x="20" y="89" class="float-desc">with a clear direction.</text>
-
-      <!-- Circular Arrow Button -->
-      <g transform="translate(238, 80)">
-        <circle cx="0" cy="0" r="14" fill="#FFFFFF" />
-        <path d="M-3.5 3.5 L3.5 -3.5 M3.5 -3.5 H-1 M3.5 -3.5 V1" stroke="#121218" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none" />
-      </g>
+      <text x="16" y="65" class="float-desc">Share a few details, and I'll get back</text>
+      <text x="16" y="80" class="float-desc">with a clear direction.</text>
     </g>
 
     <!-- Bottom Footer Divider Line -->
