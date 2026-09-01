@@ -74,7 +74,7 @@ In addition to engineering engagements, I hold executive and leadership position
 ### Contribution Activity &amp; 3D Isometric Analytics
 
 <p align="center">
-  <img src="./assets/isometric-contributions.svg" alt="Muditha Methsara — 3D Isometric Contributions" width="100%" />
+  <img src="./assets/isometric-contributions.svg?v=2" alt="Muditha Methsara — 3D Isometric Contributions" width="100%" />
 </p>
 
 <p align="center">

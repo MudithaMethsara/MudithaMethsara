@@ -141,12 +141,12 @@ def generate_isometric_svg():
         w = 0
         for ch in s:
             if ch == '1':
-                w += 14
+                w += 16
             elif ch in (',', '.'):
                 w += 8
             else:
-                w += 20
-        return max(32, w + 12)
+                w += 22
+        return max(36, w + 16)
 
     total_x_offset = calc_metric_offset(total_contributions)
     busiest_x_offset = calc_metric_offset(busiest_count)
