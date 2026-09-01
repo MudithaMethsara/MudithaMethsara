@@ -135,6 +135,27 @@ def generate_isometric_svg():
         else:
             break
 
+    # Dynamic label X offsets based on metric number widths to prevent any overlap
+    def calc_metric_offset(val):
+        s = str(val)
+        w = 0
+        for ch in s:
+            if ch == '1':
+                w += 14
+            elif ch in (',', '.'):
+                w += 8
+            else:
+                w += 20
+        return max(32, w + 12)
+
+    total_x_offset = calc_metric_offset(total_contributions)
+    busiest_x_offset = calc_metric_offset(busiest_count)
+    longest_x_offset = calc_metric_offset(longest_streak)
+    curr_x_offset = calc_metric_offset(curr_streak)
+
+    longest_streak_unit = "day" if longest_streak == 1 else "days"
+    curr_streak_unit = "day" if curr_streak == 1 else "days"
+
     # 3. Organize by weeks
     try:
         first_day_obj = datetime.strptime(contribs[0]["date"], "%Y-%m-%d")
@@ -341,16 +362,16 @@ def generate_isometric_svg():
   <g transform="translate(580, 85)">
     <text x="0" y="0" class="stat-label">1 YEAR TOTAL</text>
     <text x="0" y="32" class="stat-big-green">{total_contributions}</text>
-    <text x="65" y="22" class="stat-title">contributions</text>
-    <text x="65" y="36" class="stat-muted">{range_str}</text>
+    <text x="{total_x_offset}" y="22" class="stat-title">contributions</text>
+    <text x="{total_x_offset}" y="36" class="stat-muted">{range_str}</text>
   </g>
 
   <!-- Metric 2: Busiest Day -->
   <g transform="translate(580, 155)">
     <text x="0" y="0" class="stat-label">BUSIEST DAY</text>
     <text x="0" y="32" class="stat-big-lime">{busiest_count}</text>
-    <text x="50" y="22" class="stat-title">contributions</text>
-    <text x="50" y="36" class="stat-muted">{busiest_formatted}</text>
+    <text x="{busiest_x_offset}" y="22" class="stat-title">contributions</text>
+    <text x="{busiest_x_offset}" y="36" class="stat-muted">{busiest_formatted}</text>
   </g>
 
   <!-- ==================== BOTTOM LEFT STATS ==================== -->
@@ -358,16 +379,16 @@ def generate_isometric_svg():
   <g transform="translate(30, 335)">
     <text x="0" y="0" class="stat-label">LONGEST STREAK</text>
     <text x="0" y="32" class="stat-big-green">{longest_streak}</text>
-    <text x="32" y="22" class="stat-title">days</text>
-    <text x="32" y="36" class="stat-muted">Peak consistency</text>
+    <text x="{longest_x_offset}" y="22" class="stat-title">{longest_streak_unit}</text>
+    <text x="{longest_x_offset}" y="36" class="stat-muted">Peak consistency</text>
   </g>
 
   <!-- Current Streak -->
   <g transform="translate(30, 395)">
     <text x="0" y="0" class="stat-label">CURRENT STREAK</text>
-    <text x="0" y="28" class="stat-big-lime">{curr_streak}</text>
-    <text x="30" y="18" class="stat-title">days</text>
-    <text x="30" y="32" class="stat-muted">Active streak</text>
+    <text x="0" y="32" class="stat-big-lime">{curr_streak}</text>
+    <text x="{curr_x_offset}" y="22" class="stat-title">{curr_streak_unit}</text>
+    <text x="{curr_x_offset}" y="36" class="stat-muted">Active streak</text>
   </g>
 
   <!-- ==================== 3D ISOMETRIC CALENDAR ==================== -->

@@ -48,16 +48,16 @@
   <g transform="translate(580, 85)">
     <text x="0" y="0" class="stat-label">1 YEAR TOTAL</text>
     <text x="0" y="32" class="stat-big-green">377</text>
-    <text x="65" y="22" class="stat-title">contributions</text>
-    <text x="65" y="36" class="stat-muted">Aug 31, 2025 – Sep 01, 2026</text>
+    <text x="72" y="22" class="stat-title">contributions</text>
+    <text x="72" y="36" class="stat-muted">Aug 31, 2025 – Sep 01, 2026</text>
   </g>
 
   <!-- Metric 2: Busiest Day -->
   <g transform="translate(580, 155)">
     <text x="0" y="0" class="stat-label">BUSIEST DAY</text>
     <text x="0" y="32" class="stat-big-lime">30</text>
-    <text x="50" y="22" class="stat-title">contributions</text>
-    <text x="50" y="36" class="stat-muted">May 02</text>
+    <text x="52" y="22" class="stat-title">contributions</text>
+    <text x="52" y="36" class="stat-muted">May 02</text>
   </g>
 
   <!-- ==================== BOTTOM LEFT STATS ==================== -->
@@ -65,16 +65,16 @@
   <g transform="translate(30, 335)">
     <text x="0" y="0" class="stat-label">LONGEST STREAK</text>
     <text x="0" y="32" class="stat-big-green">10</text>
-    <text x="32" y="22" class="stat-title">days</text>
-    <text x="32" y="36" class="stat-muted">Peak consistency</text>
+    <text x="46" y="22" class="stat-title">days</text>
+    <text x="46" y="36" class="stat-muted">Peak consistency</text>
   </g>
 
   <!-- Current Streak -->
   <g transform="translate(30, 395)">
     <text x="0" y="0" class="stat-label">CURRENT STREAK</text>
-    <text x="0" y="28" class="stat-big-lime">1</text>
-    <text x="30" y="18" class="stat-title">days</text>
-    <text x="30" y="32" class="stat-muted">Active streak</text>
+    <text x="0" y="32" class="stat-big-lime">1</text>
+    <text x="32" y="22" class="stat-title">day</text>
+    <text x="32" y="36" class="stat-muted">Active streak</text>
   </g>
 
   <!-- ==================== 3D ISOMETRIC CALENDAR ==================== -->
