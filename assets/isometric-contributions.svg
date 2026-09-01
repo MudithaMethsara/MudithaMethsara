@@ -30,7 +30,7 @@
 
   <!-- Header Section -->
   <g transform="translate(30, 40)">
-    <text x="0" y="0" class="header-title">87 contributions in the last year</text>
+    <text x="0" y="0" class="header-title">377 contributions in the last year</text>
     <text x="0" y="18" class="header-sub">Aug 31, 2025 – Sep 01, 2026</text>
     
     <!-- Top Right 3D Isometric Mode Badge -->
@@ -47,7 +47,7 @@
   <!-- Metric 1: 1 Year Total -->
   <g transform="translate(580, 85)">
     <text x="0" y="0" class="stat-label">1 YEAR TOTAL</text>
-    <text x="0" y="32" class="stat-big-green">87</text>
+    <text x="0" y="32" class="stat-big-green">377</text>
     <text x="65" y="22" class="stat-title">contributions</text>
     <text x="65" y="36" class="stat-muted">Aug 31, 2025 – Sep 01, 2026</text>
   </g>
@@ -55,16 +55,16 @@
   <!-- Metric 2: Busiest Day -->
   <g transform="translate(580, 155)">
     <text x="0" y="0" class="stat-label">BUSIEST DAY</text>
-    <text x="0" y="32" class="stat-big-lime">27</text>
+    <text x="0" y="32" class="stat-big-lime">30</text>
     <text x="50" y="22" class="stat-title">contributions</text>
-    <text x="50" y="36" class="stat-muted">May 28</text>
+    <text x="50" y="36" class="stat-muted">May 02</text>
   </g>
 
   <!-- ==================== BOTTOM LEFT STATS ==================== -->
   <!-- Longest Streak -->
   <g transform="translate(30, 335)">
     <text x="0" y="0" class="stat-label">LONGEST STREAK</text>
-    <text x="0" y="32" class="stat-big-green">2</text>
+    <text x="0" y="32" class="stat-big-green">10</text>
     <text x="32" y="22" class="stat-title">days</text>
     <text x="32" y="36" class="stat-muted">Peak consistency</text>
   </g>
@@ -856,13 +856,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="362.00,209.90 369.20,205.90 362.00,201.90 354.80,205.90" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2025-11-14" data-count="0">
+    <g class="iso-active" data-date="2025-11-14" data-count="1">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="268.30,203.00 275.50,207.00 275.50,204.50 268.30,200.50" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="268.30,203.00 275.50,207.00 275.50,193.40 268.30,189.40" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="275.50,207.00 282.70,203.00 282.70,200.50 275.50,204.50" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="275.50,207.00 282.70,203.00 282.70,189.40 275.50,193.40" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="275.50,204.50 282.70,200.50 275.50,196.50 268.30,200.50" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="275.50,193.40 282.70,189.40 275.50,185.40 268.30,189.40" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2025-12-29" data-count="0">
       <!-- Left Facet -->
@@ -1371,13 +1372,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="390.70,236.90 397.90,232.90 390.70,228.90 383.50,232.90" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-03-02" data-count="0">
+    <g class="iso-active" data-date="2026-03-02" data-count="5">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.8s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="503.10,243.80 510.30,247.80 510.30,245.30 503.10,241.30" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="503.10,243.80 510.30,247.80 510.30,217.80 503.10,213.80" fill="#6EAD0E" stroke="#4C7D04" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="510.30,247.80 517.50,243.80 517.50,241.30 510.30,245.30" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="510.30,247.80 517.50,243.80 517.50,213.80 510.30,217.80" fill="#5C9308" stroke="#4C7D04" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="510.30,245.30 517.50,241.30 510.30,237.30 503.10,241.30" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="510.30,217.80 517.50,213.80 510.30,209.80 503.10,213.80" fill="#83CA16" stroke="#4C7D04" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-01-29" data-count="0">
       <!-- Left Facet -->
@@ -1668,13 +1670,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="487.80,257.90 495.00,253.90 487.80,249.90 480.60,253.90" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-04-19" data-count="0">
+    <g class="iso-active" data-date="2026-04-19" data-count="1">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="600.20,264.80 607.40,268.80 607.40,266.30 600.20,262.30" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="600.20,264.80 607.40,268.80 607.40,255.20 600.20,251.20" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="607.40,268.80 614.60,264.80 614.60,262.30 607.40,266.30" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="607.40,268.80 614.60,264.80 614.60,251.20 607.40,255.20" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="607.40,266.30 614.60,262.30 607.40,258.30 600.20,262.30" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="607.40,255.20 614.60,251.20 607.40,247.20 600.20,251.20" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-03-18" data-count="0">
       <!-- Left Facet -->
@@ -1724,13 +1727,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="500.60,261.50 507.80,257.50 500.60,253.50 493.40,257.50" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-04-26" data-count="0">
+    <g class="iso-active" data-date="2026-04-26" data-count="2">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="613.00,268.40 620.20,272.40 620.20,269.90 613.00,265.90" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="613.00,268.40 620.20,272.40 620.20,257.20 613.00,253.20" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="620.20,272.40 627.40,268.40 627.40,265.90 620.20,269.90" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="620.20,272.40 627.40,268.40 627.40,253.20 620.20,257.20" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="620.20,269.90 627.40,265.90 620.20,261.90 613.00,265.90" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="620.20,257.20 627.40,253.20 620.20,249.20 613.00,253.20" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-03-25" data-count="0">
       <!-- Left Facet -->
@@ -1764,13 +1768,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="480.30,262.10 487.50,258.10 480.30,254.10 473.10,258.10" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-04-20" data-count="0">
+    <g class="iso-active" data-date="2026-04-20" data-count="3">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.8s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="592.70,269.00 599.90,273.00 599.90,270.50 592.70,266.50" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="592.70,269.00 599.90,273.00 599.90,246.20 592.70,242.20" fill="#6EAD0E" stroke="#4C7D04" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="599.90,273.00 607.10,269.00 607.10,266.50 599.90,270.50" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="599.90,273.00 607.10,269.00 607.10,242.20 599.90,246.20" fill="#5C9308" stroke="#4C7D04" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="599.90,270.50 607.10,266.50 599.90,262.50 592.70,266.50" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="599.90,246.20 607.10,242.20 599.90,238.20 592.70,242.20" fill="#83CA16" stroke="#4C7D04" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-03-19" data-count="0">
       <!-- Left Facet -->
@@ -1780,13 +1785,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="513.40,265.10 520.60,261.10 513.40,257.10 506.20,261.10" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-05-03" data-count="0">
+    <g class="iso-active" data-date="2026-05-03" data-count="1">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="625.80,272.00 633.00,276.00 633.00,273.50 625.80,269.50" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="625.80,272.00 633.00,276.00 633.00,262.40 625.80,258.40" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="633.00,276.00 640.20,272.00 640.20,269.50 633.00,273.50" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="633.00,276.00 640.20,272.00 640.20,258.40 633.00,262.40" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="633.00,273.50 640.20,269.50 633.00,265.50 625.80,269.50" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="633.00,262.40 640.20,258.40 633.00,254.40 625.80,258.40" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-04-01" data-count="0">
       <!-- Left Facet -->
@@ -1796,13 +1802,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="546.50,268.10 553.70,264.10 546.50,260.10 539.30,264.10" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-02-28" data-count="0">
+    <g class="iso-active" data-date="2026-02-28" data-count="3">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.8s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="452.80,261.20 460.00,265.20 460.00,262.70 452.80,258.70" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="452.80,261.20 460.00,265.20 460.00,238.40 452.80,234.40" fill="#6EAD0E" stroke="#4C7D04" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="460.00,265.20 467.20,261.20 467.20,258.70 460.00,262.70" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="460.00,265.20 467.20,261.20 467.20,234.40 460.00,238.40" fill="#5C9308" stroke="#4C7D04" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="460.00,262.70 467.20,258.70 460.00,254.70 452.80,258.70" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="460.00,238.40 467.20,234.40 460.00,230.40 452.80,234.40" fill="#83CA16" stroke="#4C7D04" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-04-14" data-count="0">
       <!-- Left Facet -->
@@ -1820,13 +1827,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="493.10,265.70 500.30,261.70 493.10,257.70 485.90,261.70" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-04-27" data-count="0">
+    <g class="iso-active" data-date="2026-04-27" data-count="1">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="605.50,272.60 612.70,276.60 612.70,274.10 605.50,270.10" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="605.50,272.60 612.70,276.60 612.70,263.00 605.50,259.00" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="612.70,276.60 619.90,272.60 619.90,270.10 612.70,274.10" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="612.70,276.60 619.90,272.60 619.90,259.00 612.70,263.00" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="612.70,274.10 619.90,270.10 612.70,266.10 605.50,270.10" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="612.70,263.00 619.90,259.00 612.70,255.00 605.50,259.00" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-03-26" data-count="0">
       <!-- Left Facet -->
@@ -1836,13 +1844,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="526.20,268.70 533.40,264.70 526.20,260.70 519.00,264.70" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-05-10" data-count="0">
+    <g class="iso-active" data-date="2026-05-10" data-count="8">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="4.2s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="638.60,275.60 645.80,279.60 645.80,277.10 638.60,273.10" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="638.60,275.60 645.80,279.60 645.80,232.80 638.60,228.80" fill="#10B981" stroke="#047857" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="645.80,279.60 653.00,275.60 653.00,273.10 645.80,277.10" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="645.80,279.60 653.00,275.60 653.00,228.80 645.80,232.80" fill="#059669" stroke="#047857" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="645.80,277.10 653.00,273.10 645.80,269.10 638.60,273.10" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="645.80,232.80 653.00,228.80 645.80,224.80 638.60,228.80" fill="#34D399" stroke="#047857" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-04-08" data-count="0">
       <!-- Left Facet -->
@@ -1860,13 +1869,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="472.80,266.30 480.00,262.30 472.80,258.30 465.60,262.30" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-04-21" data-count="0">
+    <g class="iso-active" data-date="2026-04-21" data-count="1">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="585.20,273.20 592.40,277.20 592.40,274.70 585.20,270.70" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="585.20,273.20 592.40,277.20 592.40,263.60 585.20,259.60" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="592.40,277.20 599.60,273.20 599.60,270.70 592.40,274.70" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="592.40,277.20 599.60,273.20 599.60,259.60 592.40,263.60" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="592.40,274.70 599.60,270.70 592.40,266.70 585.20,270.70" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="592.40,263.60 599.60,259.60 592.40,255.60 585.20,259.60" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-03-20" data-count="0">
       <!-- Left Facet -->
@@ -1892,13 +1902,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="539.00,272.30 546.20,268.30 539.00,264.30 531.80,268.30" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-05-17" data-count="0">
+    <g class="iso-active" data-date="2026-05-17" data-count="1">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="651.40,279.20 658.60,283.20 658.60,280.70 651.40,276.70" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="651.40,279.20 658.60,283.20 658.60,269.60 651.40,265.60" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="658.60,283.20 665.80,279.20 665.80,276.70 658.60,280.70" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="658.60,283.20 665.80,279.20 665.80,265.60 658.60,269.60" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="658.60,280.70 665.80,276.70 658.60,272.70 651.40,276.70" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="658.60,269.60 665.80,265.60 658.60,261.60 651.40,265.60" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-04-15" data-count="0">
       <!-- Left Facet -->
@@ -1932,21 +1943,23 @@
       <!-- Top Diamond Facet -->
       <polygon points="518.70,272.90 525.90,268.90 518.70,264.90 511.50,268.90" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-05-11" data-count="0">
+    <g class="iso-active" data-date="2026-05-11" data-count="4">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.8s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="631.10,279.80 638.30,283.80 638.30,281.30 631.10,277.30" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="631.10,279.80 638.30,283.80 638.30,255.40 631.10,251.40" fill="#6EAD0E" stroke="#4C7D04" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="638.30,283.80 645.50,279.80 645.50,277.30 638.30,281.30" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="638.30,283.80 645.50,279.80 645.50,251.40 638.30,255.40" fill="#5C9308" stroke="#4C7D04" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="638.30,281.30 645.50,277.30 638.30,273.30 631.10,277.30" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="638.30,255.40 645.50,251.40 638.30,247.40 631.10,251.40" fill="#83CA16" stroke="#4C7D04" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-04-09" data-count="0">
+    <g class="iso-active" data-date="2026-04-09" data-count="1">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="544.60,274.40 551.80,278.40 551.80,275.90 544.60,271.90" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="544.60,274.40 551.80,278.40 551.80,264.80 544.60,260.80" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="551.80,278.40 559.00,274.40 559.00,271.90 551.80,275.90" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="551.80,278.40 559.00,274.40 559.00,260.80 551.80,264.80" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="551.80,275.90 559.00,271.90 551.80,267.90 544.60,271.90" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="551.80,264.80 559.00,260.80 551.80,256.80 544.60,260.80" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-05-24" data-count="0">
       <!-- Left Facet -->
@@ -1956,13 +1969,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="671.40,284.30 678.60,280.30 671.40,276.30 664.20,280.30" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-04-22" data-count="0">
+    <g class="iso-active" data-date="2026-04-22" data-count="24">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="4.6s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="577.70,277.40 584.90,281.40 584.90,278.90 577.70,274.90" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="577.70,277.40 584.90,281.40 584.90,213.40 577.70,209.40" fill="#059669" stroke="#065F46" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="584.90,281.40 592.10,277.40 592.10,274.90 584.90,278.90" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="584.90,281.40 592.10,277.40 592.10,209.40 584.90,213.40" fill="#047857" stroke="#065F46" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="584.90,278.90 592.10,274.90 584.90,270.90 577.70,274.90" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="584.90,213.40 592.10,209.40 584.90,205.40 577.70,209.40" fill="#10B981" stroke="#065F46" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-03-21" data-count="0">
       <!-- Left Facet -->
@@ -1972,13 +1986,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="498.40,273.50 505.60,269.50 498.40,265.50 491.20,269.50" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-05-05" data-count="0">
+    <g class="iso-active" data-date="2026-05-05" data-count="1">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="610.80,280.40 618.00,284.40 618.00,281.90 610.80,277.90" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="610.80,280.40 618.00,284.40 618.00,270.80 610.80,266.80" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="618.00,284.40 625.20,280.40 625.20,277.90 618.00,281.90" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="618.00,284.40 625.20,280.40 625.20,266.80 618.00,270.80" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="618.00,281.90 625.20,277.90 618.00,273.90 610.80,277.90" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="618.00,270.80 625.20,266.80 618.00,262.80 610.80,266.80" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-04-03" data-count="0">
       <!-- Left Facet -->
@@ -1988,13 +2003,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="531.50,276.50 538.70,272.50 531.50,268.50 524.30,272.50" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-05-18" data-count="0">
+    <g class="iso-active" data-date="2026-05-18" data-count="1">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="643.90,283.40 651.10,287.40 651.10,284.90 643.90,280.90" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="643.90,283.40 651.10,287.40 651.10,273.80 643.90,269.80" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="651.10,287.40 658.30,283.40 658.30,280.90 651.10,284.90" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="651.10,287.40 658.30,283.40 658.30,269.80 651.10,273.80" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="651.10,284.90 658.30,280.90 651.10,276.90 643.90,280.90" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="651.10,273.80 658.30,269.80 651.10,265.80 643.90,269.80" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-04-16" data-count="0">
       <!-- Left Facet -->
@@ -2028,13 +2044,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="511.20,277.10 518.40,273.10 511.20,269.10 504.00,273.10" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-05-12" data-count="0">
+    <g class="iso-active" data-date="2026-05-12" data-count="1">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="623.60,284.00 630.80,288.00 630.80,285.50 623.60,281.50" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="623.60,284.00 630.80,288.00 630.80,274.40 623.60,270.40" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="630.80,288.00 638.00,284.00 638.00,281.50 630.80,285.50" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="630.80,288.00 638.00,284.00 638.00,270.40 630.80,274.40" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="630.80,285.50 638.00,281.50 630.80,277.50 623.60,281.50" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="630.80,274.40 638.00,270.40 630.80,266.40 623.60,270.40" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-04-10" data-count="0">
       <!-- Left Facet -->
@@ -2052,21 +2069,23 @@
       <!-- Top Diamond Facet -->
       <polygon points="663.90,288.50 671.10,284.50 663.90,280.50 656.70,284.50" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-04-23" data-count="0">
+    <g class="iso-active" data-date="2026-04-23" data-count="4">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.8s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="570.20,281.60 577.40,285.60 577.40,283.10 570.20,279.10" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="570.20,281.60 577.40,285.60 577.40,257.20 570.20,253.20" fill="#6EAD0E" stroke="#4C7D04" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="577.40,285.60 584.60,281.60 584.60,279.10 577.40,283.10" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="577.40,285.60 584.60,281.60 584.60,253.20 577.40,257.20" fill="#5C9308" stroke="#4C7D04" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="577.40,283.10 584.60,279.10 577.40,275.10 570.20,279.10" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="577.40,257.20 584.60,253.20 577.40,249.20 570.20,253.20" fill="#83CA16" stroke="#4C7D04" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-06-07" data-count="0">
+    <g class="iso-active" data-date="2026-06-07" data-count="7">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.8s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="689.80,290.00 697.00,294.00 697.00,291.50 689.80,287.50" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="689.80,290.00 697.00,294.00 697.00,260.80 689.80,256.80" fill="#6EAD0E" stroke="#4C7D04" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="697.00,294.00 704.20,290.00 704.20,287.50 697.00,291.50" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="697.00,294.00 704.20,290.00 704.20,256.80 697.00,260.80" fill="#5C9308" stroke="#4C7D04" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="697.00,291.50 704.20,287.50 697.00,283.50 689.80,287.50" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="697.00,260.80 704.20,256.80 697.00,252.80 689.80,256.80" fill="#83CA16" stroke="#4C7D04" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-05-06" data-count="0">
       <!-- Left Facet -->
@@ -2084,13 +2103,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="524.00,280.70 531.20,276.70 524.00,272.70 516.80,276.70" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-05-19" data-count="0">
+    <g class="iso-active" data-date="2026-05-19" data-count="1">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="636.40,287.60 643.60,291.60 643.60,289.10 636.40,285.10" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="636.40,287.60 643.60,291.60 643.60,278.00 636.40,274.00" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="643.60,291.60 650.80,287.60 650.80,285.10 643.60,289.10" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="643.60,291.60 650.80,287.60 650.80,274.00 643.60,278.00" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="643.60,289.10 650.80,285.10 643.60,281.10 636.40,285.10" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="643.60,278.00 650.80,274.00 643.60,270.00 636.40,274.00" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-04-17" data-count="0">
       <!-- Left Facet -->
@@ -2108,14 +2128,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="676.70,292.10 683.90,288.10 676.70,284.10 669.50,288.10" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-active" data-date="2026-04-30" data-count="8">
+    <g class="iso-active" data-date="2026-04-30" data-count="11">
         <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="4.2s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="583.00,285.20 590.20,289.20 590.20,242.40 583.00,238.40" fill="#10B981" stroke="#047857" stroke-width="0.35" />
+      <polygon points="583.00,285.20 590.20,289.20 590.20,237.60 583.00,233.60" fill="#10B981" stroke="#047857" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="590.20,289.20 597.40,285.20 597.40,238.40 590.20,242.40" fill="#059669" stroke="#047857" stroke-width="0.35" />
+      <polygon points="590.20,289.20 597.40,285.20 597.40,233.60 590.20,237.60" fill="#059669" stroke="#047857" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="590.20,242.40 597.40,238.40 590.20,234.40 583.00,238.40" fill="#34D399" stroke="#047857" stroke-width="0.35" />
+      <polygon points="590.20,237.60 597.40,233.60 590.20,229.60 583.00,233.60" fill="#34D399" stroke="#047857" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-06-14" data-count="0">
       <!-- Left Facet -->
@@ -2133,14 +2153,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="623.30,289.70 630.50,285.70 623.30,281.70 616.10,285.70" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-active" data-date="2026-04-11" data-count="3">
+    <g class="iso-active" data-date="2026-04-11" data-count="6">
         <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.8s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="529.60,282.80 536.80,286.80 536.80,260.00 529.60,256.00" fill="#6EAD0E" stroke="#4C7D04" stroke-width="0.35" />
+      <polygon points="529.60,282.80 536.80,286.80 536.80,255.20 529.60,251.20" fill="#6EAD0E" stroke="#4C7D04" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="536.80,286.80 544.00,282.80 544.00,256.00 536.80,260.00" fill="#5C9308" stroke="#4C7D04" stroke-width="0.35" />
+      <polygon points="536.80,286.80 544.00,282.80 544.00,251.20 536.80,255.20" fill="#5C9308" stroke="#4C7D04" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="536.80,260.00 544.00,256.00 536.80,252.00 529.60,256.00" fill="#83CA16" stroke="#4C7D04" stroke-width="0.35" />
+      <polygon points="536.80,255.20 544.00,251.20 536.80,247.20 529.60,251.20" fill="#83CA16" stroke="#4C7D04" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-05-26" data-count="0">
       <!-- Left Facet -->
@@ -2166,13 +2186,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="689.50,295.70 696.70,291.70 689.50,287.70 682.30,291.70" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-05-07" data-count="0">
+    <g class="iso-active" data-date="2026-05-07" data-count="1">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="595.80,288.80 603.00,292.80 603.00,290.30 595.80,286.30" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="595.80,288.80 603.00,292.80 603.00,279.20 595.80,275.20" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="603.00,292.80 610.20,288.80 610.20,286.30 603.00,290.30" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="603.00,292.80 610.20,288.80 610.20,275.20 603.00,279.20" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="603.00,290.30 610.20,286.30 603.00,282.30 595.80,286.30" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="603.00,279.20 610.20,275.20 603.00,271.20 595.80,275.20" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-06-21" data-count="0">
       <!-- Left Facet -->
@@ -2190,13 +2211,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="636.10,293.30 643.30,289.30 636.10,285.30 628.90,289.30" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-04-18" data-count="0">
+    <g class="iso-active" data-date="2026-04-18" data-count="1">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="542.40,286.40 549.60,290.40 549.60,287.90 542.40,283.90" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="542.40,286.40 549.60,290.40 549.60,276.80 542.40,272.80" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="549.60,290.40 556.80,286.40 556.80,283.90 549.60,287.90" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="549.60,290.40 556.80,286.40 556.80,272.80 549.60,276.80" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="549.60,287.90 556.80,283.90 549.60,279.90 542.40,283.90" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="549.60,276.80 556.80,272.80 549.60,268.80 542.40,272.80" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-06-02" data-count="0">
       <!-- Left Facet -->
@@ -2206,13 +2228,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="669.20,296.30 676.40,292.30 669.20,288.30 662.00,292.30" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-05-01" data-count="0">
+    <g class="iso-active" data-date="2026-05-01" data-count="1">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="575.50,289.40 582.70,293.40 582.70,290.90 575.50,286.90" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="575.50,289.40 582.70,293.40 582.70,279.80 575.50,275.80" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="582.70,293.40 589.90,289.40 589.90,286.90 582.70,290.90" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="582.70,293.40 589.90,289.40 589.90,275.80 582.70,279.80" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="582.70,290.90 589.90,286.90 582.70,282.90 575.50,286.90" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="582.70,279.80 589.90,275.80 582.70,271.80 575.50,275.80" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-06-15" data-count="0">
       <!-- Left Facet -->
@@ -2278,13 +2301,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="715.10,302.90 722.30,298.90 715.10,294.90 707.90,298.90" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-05-21" data-count="0">
+    <g class="iso-active" data-date="2026-05-21" data-count="1">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="621.40,296.00 628.60,300.00 628.60,297.50 621.40,293.50" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="621.40,296.00 628.60,300.00 628.60,286.40 621.40,282.40" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="628.60,300.00 635.80,296.00 635.80,293.50 628.60,297.50" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="628.60,300.00 635.80,296.00 635.80,282.40 628.60,286.40" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="628.60,297.50 635.80,293.50 628.60,289.50 621.40,293.50" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="628.60,286.40 635.80,282.40 628.60,278.40 621.40,282.40" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-07-05" data-count="0">
       <!-- Left Facet -->
@@ -2302,13 +2326,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="661.70,300.50 668.90,296.50 661.70,292.50 654.50,296.50" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-05-02" data-count="0">
+    <g class="iso-active" data-date="2026-05-02" data-count="30">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="4.6s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="568.00,293.60 575.20,297.60 575.20,295.10 568.00,291.10" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="568.00,293.60 575.20,297.60 575.20,229.60 568.00,225.60" fill="#059669" stroke="#065F46" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="575.20,297.60 582.40,293.60 582.40,291.10 575.20,295.10" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="575.20,297.60 582.40,293.60 582.40,225.60 575.20,229.60" fill="#047857" stroke="#065F46" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="575.20,295.10 582.40,291.10 575.20,287.10 568.00,291.10" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="575.20,229.60 582.40,225.60 575.20,221.60 568.00,225.60" fill="#10B981" stroke="#065F46" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-06-16" data-count="0">
       <!-- Left Facet -->
@@ -2318,13 +2343,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="694.80,303.50 702.00,299.50 694.80,295.50 687.60,299.50" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-05-15" data-count="0">
+    <g class="iso-active" data-date="2026-05-15" data-count="1">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="601.10,296.60 608.30,300.60 608.30,298.10 601.10,294.10" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="601.10,296.60 608.30,300.60 608.30,287.00 601.10,283.00" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="608.30,300.60 615.50,296.60 615.50,294.10 608.30,298.10" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="608.30,300.60 615.50,296.60 615.50,283.00 608.30,287.00" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="608.30,298.10 615.50,294.10 608.30,290.10 601.10,294.10" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="608.30,287.00 615.50,283.00 608.30,279.00 601.10,283.00" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-06-29" data-count="0">
       <!-- Left Facet -->
@@ -2375,13 +2401,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="707.60,307.10 714.80,303.10 707.60,299.10 700.40,303.10" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-05-22" data-count="0">
+    <g class="iso-active" data-date="2026-05-22" data-count="2">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="613.90,300.20 621.10,304.20 621.10,301.70 613.90,297.70" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="613.90,300.20 621.10,304.20 621.10,289.00 613.90,285.00" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="621.10,304.20 628.30,300.20 628.30,297.70 621.10,301.70" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="621.10,304.20 628.30,300.20 628.30,285.00 621.10,289.00" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="621.10,301.70 628.30,297.70 621.10,293.70 613.90,297.70" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="621.10,289.00 628.30,285.00 621.10,281.00 613.90,285.00" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-07-06" data-count="0">
       <!-- Left Facet -->
@@ -2391,13 +2418,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="740.70,310.10 747.90,306.10 740.70,302.10 733.50,306.10" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-06-04" data-count="0">
+    <g class="iso-active" data-date="2026-06-04" data-count="1">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="647.00,303.20 654.20,307.20 654.20,304.70 647.00,300.70" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="647.00,303.20 654.20,307.20 654.20,293.60 647.00,289.60" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="654.20,307.20 661.40,303.20 661.40,300.70 654.20,304.70" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="654.20,307.20 661.40,303.20 661.40,289.60 654.20,293.60" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="654.20,304.70 661.40,300.70 654.20,296.70 647.00,300.70" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="654.20,293.60 661.40,289.60 654.20,285.60 647.00,289.60" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-07-19" data-count="0">
       <!-- Left Facet -->
@@ -2415,13 +2443,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="687.30,307.70 694.50,303.70 687.30,299.70 680.10,303.70" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-05-16" data-count="0">
+    <g class="iso-active" data-date="2026-05-16" data-count="1">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="593.60,300.80 600.80,304.80 600.80,302.30 593.60,298.30" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="593.60,300.80 600.80,304.80 600.80,291.20 593.60,287.20" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="600.80,304.80 608.00,300.80 608.00,298.30 600.80,302.30" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="600.80,304.80 608.00,300.80 608.00,287.20 600.80,291.20" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="600.80,302.30 608.00,298.30 600.80,294.30 593.60,298.30" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="600.80,291.20 608.00,287.20 600.80,283.20 593.60,287.20" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-06-30" data-count="0">
       <!-- Left Facet -->
@@ -2472,13 +2501,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="700.10,311.30 707.30,307.30 700.10,303.30 692.90,307.30" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-05-23" data-count="0">
+    <g class="iso-active" data-date="2026-05-23" data-count="10">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="4.2s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="606.40,304.40 613.60,308.40 613.60,305.90 606.40,301.90" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="606.40,304.40 613.60,308.40 613.60,258.40 606.40,254.40" fill="#10B981" stroke="#047857" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="613.60,308.40 620.80,304.40 620.80,301.90 613.60,305.90" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="613.60,308.40 620.80,304.40 620.80,254.40 613.60,258.40" fill="#059669" stroke="#047857" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="613.60,305.90 620.80,301.90 613.60,297.90 606.40,301.90" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="613.60,258.40 620.80,254.40 613.60,250.40 606.40,254.40" fill="#34D399" stroke="#047857" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-07-07" data-count="0">
       <!-- Left Facet -->
@@ -2568,13 +2598,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="692.60,315.50 699.80,311.50 692.60,307.50 685.40,311.50" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-08-09" data-count="0">
+    <g class="iso-active" data-date="2026-08-09" data-count="24">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="4.6s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="805.00,322.40 812.20,326.40 812.20,323.90 805.00,319.90" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="805.00,322.40 812.20,326.40 812.20,258.40 805.00,254.40" fill="#059669" stroke="#065F46" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="812.20,326.40 819.40,322.40 819.40,319.90 812.20,323.90" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="812.20,326.40 819.40,322.40 819.40,254.40 812.20,258.40" fill="#047857" stroke="#065F46" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="812.20,323.90 819.40,319.90 812.20,315.90 805.00,319.90" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="812.20,258.40 819.40,254.40 812.20,250.40 805.00,254.40" fill="#10B981" stroke="#065F46" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-07-08" data-count="0">
       <!-- Left Facet -->
@@ -2600,22 +2631,23 @@
       <!-- Top Diamond Facet -->
       <polygon points="758.80,321.50 766.00,317.50 758.80,313.50 751.60,317.50" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-06-19" data-count="0">
-      <!-- Left Facet -->
-      <polygon points="665.10,314.60 672.30,318.60 672.30,316.10 665.10,312.10" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
-      <!-- Right Facet -->
-      <polygon points="672.30,318.60 679.50,314.60 679.50,312.10 672.30,316.10" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
-      <!-- Top Diamond Facet -->
-      <polygon points="672.30,316.10 679.50,312.10 672.30,308.10 665.10,312.10" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
-    </g>
-    <g class="iso-active" data-date="2026-08-03" data-count="2">
+    <g class="iso-active" data-date="2026-06-19" data-count="2">
         <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="784.70,323.00 791.90,327.00 791.90,311.80 784.70,307.80" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
+      <polygon points="665.10,314.60 672.30,318.60 672.30,303.40 665.10,299.40" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="791.90,327.00 799.10,323.00 799.10,307.80 791.90,311.80" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
+      <polygon points="672.30,318.60 679.50,314.60 679.50,299.40 672.30,303.40" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="791.90,311.80 799.10,307.80 791.90,303.80 784.70,307.80" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
+      <polygon points="672.30,303.40 679.50,299.40 672.30,295.40 665.10,299.40" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
+    </g>
+    <g class="iso-active" data-date="2026-08-03" data-count="4">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.8s" repeatCount="indefinite" />
+      <!-- Left Facet -->
+      <polygon points="784.70,323.00 791.90,327.00 791.90,298.60 784.70,294.60" fill="#6EAD0E" stroke="#4C7D04" stroke-width="0.35" />
+      <!-- Right Facet -->
+      <polygon points="791.90,327.00 799.10,323.00 799.10,294.60 791.90,298.60" fill="#5C9308" stroke="#4C7D04" stroke-width="0.35" />
+      <!-- Top Diamond Facet -->
+      <polygon points="791.90,298.60 799.10,294.60 791.90,290.60 784.70,294.60" fill="#83CA16" stroke="#4C7D04" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-07-02" data-count="0">
       <!-- Left Facet -->
@@ -2649,29 +2681,32 @@
       <!-- Top Diamond Facet -->
       <polygon points="652.00,316.70 659.20,312.70 652.00,308.70 644.80,312.70" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-07-28" data-count="0">
+    <g class="iso-active" data-date="2026-07-28" data-count="1">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="764.40,323.60 771.60,327.60 771.60,325.10 764.40,321.10" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="764.40,323.60 771.60,327.60 771.60,314.00 764.40,310.00" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="771.60,327.60 778.80,323.60 778.80,321.10 771.60,325.10" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="771.60,327.60 778.80,323.60 778.80,310.00 771.60,314.00" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="771.60,325.10 778.80,321.10 771.60,317.10 764.40,321.10" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="771.60,314.00 778.80,310.00 771.60,306.00 764.40,310.00" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-06-26" data-count="0">
+    <g class="iso-active" data-date="2026-06-26" data-count="1">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="677.90,318.20 685.10,322.20 685.10,319.70 677.90,315.70" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="677.90,318.20 685.10,322.20 685.10,308.60 677.90,304.60" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="685.10,322.20 692.30,318.20 692.30,315.70 685.10,319.70" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="685.10,322.20 692.30,318.20 692.30,304.60 685.10,308.60" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="685.10,319.70 692.30,315.70 685.10,311.70 677.90,315.70" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="685.10,308.60 692.30,304.60 685.10,300.60 677.90,304.60" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-08-10" data-count="0">
+    <g class="iso-active" data-date="2026-08-10" data-count="13">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="4.2s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="797.50,326.60 804.70,330.60 804.70,328.10 797.50,324.10" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="797.50,326.60 804.70,330.60 804.70,275.80 797.50,271.80" fill="#10B981" stroke="#047857" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="804.70,330.60 811.90,326.60 811.90,324.10 804.70,328.10" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="804.70,330.60 811.90,326.60 811.90,271.80 804.70,275.80" fill="#059669" stroke="#047857" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="804.70,328.10 811.90,324.10 804.70,320.10 797.50,324.10" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="804.70,275.80 811.90,271.80 804.70,267.80 797.50,271.80" fill="#34D399" stroke="#047857" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-07-09" data-count="0">
       <!-- Left Facet -->
@@ -2681,13 +2716,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="718.20,322.70 725.40,318.70 718.20,314.70 711.00,318.70" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-08-23" data-count="0">
+    <g class="iso-active" data-date="2026-08-23" data-count="8">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="4.2s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="830.60,329.60 837.80,333.60 837.80,331.10 830.60,327.10" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="830.60,329.60 837.80,333.60 837.80,286.80 830.60,282.80" fill="#10B981" stroke="#047857" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="837.80,333.60 845.00,329.60 845.00,327.10 837.80,331.10" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="837.80,333.60 845.00,329.60 845.00,282.80 837.80,286.80" fill="#059669" stroke="#047857" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="837.80,331.10 845.00,327.10 837.80,323.10 830.60,327.10" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="837.80,286.80 845.00,282.80 837.80,278.80 830.60,282.80" fill="#34D399" stroke="#047857" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-07-22" data-count="0">
       <!-- Left Facet -->
@@ -2737,21 +2773,23 @@
       <!-- Top Diamond Facet -->
       <polygon points="731.00,326.30 738.20,322.30 731.00,318.30 723.80,322.30" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-08-30" data-count="0">
+    <g class="iso-active" data-date="2026-08-30" data-count="11">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="4.2s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="843.40,333.20 850.60,337.20 850.60,334.70 843.40,330.70" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="843.40,333.20 850.60,337.20 850.60,285.60 843.40,281.60" fill="#10B981" stroke="#047857" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="850.60,337.20 857.80,333.20 857.80,330.70 850.60,334.70" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="850.60,337.20 857.80,333.20 857.80,281.60 850.60,285.60" fill="#059669" stroke="#047857" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="850.60,334.70 857.80,330.70 850.60,326.70 843.40,330.70" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="850.60,285.60 857.80,281.60 850.60,277.60 843.40,281.60" fill="#34D399" stroke="#047857" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-07-29" data-count="0">
+    <g class="iso-active" data-date="2026-07-29" data-count="6">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.8s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="756.90,327.80 764.10,331.80 764.10,329.30 756.90,325.30" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="756.90,327.80 764.10,331.80 764.10,300.20 756.90,296.20" fill="#6EAD0E" stroke="#4C7D04" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="764.10,331.80 771.30,327.80 771.30,325.30 764.10,329.30" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="764.10,331.80 771.30,327.80 771.30,296.20 764.10,300.20" fill="#5C9308" stroke="#4C7D04" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="764.10,329.30 771.30,325.30 764.10,321.30 756.90,325.30" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="764.10,300.20 771.30,296.20 764.10,292.20 756.90,296.20" fill="#83CA16" stroke="#4C7D04" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-06-27" data-count="0">
       <!-- Left Facet -->
@@ -2761,13 +2799,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="677.60,323.90 684.80,319.90 677.60,315.90 670.40,319.90" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-08-11" data-count="0">
+    <g class="iso-active" data-date="2026-08-11" data-count="1">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="790.00,330.80 797.20,334.80 797.20,332.30 790.00,328.30" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="790.00,330.80 797.20,334.80 797.20,321.20 790.00,317.20" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="797.20,334.80 804.40,330.80 804.40,328.30 797.20,332.30" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="797.20,334.80 804.40,330.80 804.40,317.20 797.20,321.20" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="797.20,332.30 804.40,328.30 797.20,324.30 790.00,328.30" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="797.20,321.20 804.40,317.20 797.20,313.20 790.00,317.20" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-07-10" data-count="0">
       <!-- Left Facet -->
@@ -2777,13 +2816,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="710.70,326.90 717.90,322.90 710.70,318.90 703.50,322.90" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-08-24" data-count="0">
+    <g class="iso-active" data-date="2026-08-24" data-count="24">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="4.6s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="823.10,333.80 830.30,337.80 830.30,335.30 823.10,331.30" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="823.10,333.80 830.30,337.80 830.30,269.80 823.10,265.80" fill="#059669" stroke="#065F46" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="830.30,337.80 837.50,333.80 837.50,331.30 830.30,335.30" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="830.30,337.80 837.50,333.80 837.50,265.80 830.30,269.80" fill="#047857" stroke="#065F46" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="830.30,335.30 837.50,331.30 830.30,327.30 823.10,331.30" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="830.30,269.80 837.50,265.80 830.30,261.80 823.10,265.80" fill="#10B981" stroke="#065F46" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-07-23" data-count="0">
       <!-- Left Facet -->
@@ -2833,13 +2873,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="843.10,338.90 850.30,334.90 843.10,330.90 835.90,334.90" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-07-30" data-count="0">
+    <g class="iso-active" data-date="2026-07-30" data-count="1">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="749.40,332.00 756.60,336.00 756.60,333.50 749.40,329.50" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="749.40,332.00 756.60,336.00 756.60,322.40 749.40,318.40" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="756.60,336.00 763.80,332.00 763.80,329.50 756.60,333.50" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="756.60,336.00 763.80,332.00 763.80,318.40 756.60,322.40" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="756.60,333.50 763.80,329.50 756.60,325.50 749.40,329.50" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="756.60,322.40 763.80,318.40 756.60,314.40 749.40,318.40" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-08-12" data-count="0">
       <!-- Left Facet -->
@@ -2857,13 +2898,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="703.20,331.10 710.40,327.10 703.20,323.10 696.00,327.10" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-08-25" data-count="0">
+    <g class="iso-active" data-date="2026-08-25" data-count="26">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="4.6s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="815.60,338.00 822.80,342.00 822.80,339.50 815.60,335.50" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="815.60,338.00 822.80,342.00 822.80,274.00 815.60,270.00" fill="#059669" stroke="#065F46" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="822.80,342.00 830.00,338.00 830.00,335.50 822.80,339.50" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="822.80,342.00 830.00,338.00 830.00,270.00 822.80,274.00" fill="#047857" stroke="#065F46" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="822.80,339.50 830.00,335.50 822.80,331.50 815.60,335.50" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="822.80,274.00 830.00,270.00 822.80,266.00 815.60,270.00" fill="#10B981" stroke="#065F46" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-07-24" data-count="0">
       <!-- Left Facet -->
@@ -2897,7 +2939,7 @@
       <!-- Top Diamond Facet -->
       <polygon points="716.00,334.70 723.20,330.70 716.00,326.70 708.80,330.70" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-active" data-date="2026-09-01" data-count="21">
+    <g class="iso-active" data-date="2026-09-01" data-count="23">
         <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="4.6s" repeatCount="indefinite" />
       <!-- Left Facet -->
       <polygon points="828.40,341.60 835.60,345.60 835.60,277.60 828.40,273.60" fill="#059669" stroke="#065F46" stroke-width="0.35" />
@@ -2906,13 +2948,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="835.60,277.60 842.80,273.60 835.60,269.60 828.40,273.60" fill="#10B981" stroke="#065F46" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-07-31" data-count="0">
+    <g class="iso-active" data-date="2026-07-31" data-count="2">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="741.90,336.20 749.10,340.20 749.10,337.70 741.90,333.70" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="741.90,336.20 749.10,340.20 749.10,325.00 741.90,321.00" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="749.10,340.20 756.30,336.20 756.30,333.70 749.10,337.70" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="749.10,340.20 756.30,336.20 756.30,321.00 749.10,325.00" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="749.10,337.70 756.30,333.70 749.10,329.70 741.90,333.70" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="749.10,325.00 756.30,321.00 749.10,317.00 741.90,321.00" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-08-13" data-count="0">
       <!-- Left Facet -->
@@ -2922,13 +2965,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="782.20,340.70 789.40,336.70 782.20,332.70 775.00,336.70" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-08-26" data-count="0">
+    <g class="iso-active" data-date="2026-08-26" data-count="5">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.8s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="808.10,342.20 815.30,346.20 815.30,343.70 808.10,339.70" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="808.10,342.20 815.30,346.20 815.30,316.20 808.10,312.20" fill="#6EAD0E" stroke="#4C7D04" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="815.30,346.20 822.50,342.20 822.50,339.70 815.30,343.70" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="815.30,346.20 822.50,342.20 822.50,312.20 815.30,316.20" fill="#5C9308" stroke="#4C7D04" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="815.30,343.70 822.50,339.70 815.30,335.70 808.10,339.70" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="815.30,316.20 822.50,312.20 815.30,308.20 808.10,312.20" fill="#83CA16" stroke="#4C7D04" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-07-25" data-count="0">
       <!-- Left Facet -->
@@ -2970,13 +3014,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="774.70,344.90 781.90,340.90 774.70,336.90 767.50,340.90" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-08-27" data-count="0">
+    <g class="iso-active" data-date="2026-08-27" data-count="11">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="4.2s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="800.60,346.40 807.80,350.40 807.80,347.90 800.60,343.90" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="800.60,346.40 807.80,350.40 807.80,298.80 800.60,294.80" fill="#10B981" stroke="#047857" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="807.80,350.40 815.00,346.40 815.00,343.90 807.80,347.90" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="807.80,350.40 815.00,346.40 815.00,294.80 807.80,298.80" fill="#059669" stroke="#047857" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="807.80,347.90 815.00,343.90 807.80,339.90 800.60,343.90" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="807.80,298.80 815.00,294.80 807.80,290.80 800.60,294.80" fill="#34D399" stroke="#047857" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-08-08" data-count="0">
       <!-- Left Facet -->
@@ -2986,13 +3031,14 @@
       <!-- Top Diamond Facet -->
       <polygon points="754.40,345.50 761.60,341.50 754.40,337.50 747.20,341.50" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-08-21" data-count="0">
+    <g class="iso-active" data-date="2026-08-21" data-count="3">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.8s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="780.30,347.00 787.50,351.00 787.50,348.50 780.30,344.50" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="780.30,347.00 787.50,351.00 787.50,324.20 780.30,320.20" fill="#6EAD0E" stroke="#4C7D04" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="787.50,351.00 794.70,347.00 794.70,344.50 787.50,348.50" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="787.50,351.00 794.70,347.00 794.70,320.20 787.50,324.20" fill="#5C9308" stroke="#4C7D04" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="787.50,348.50 794.70,344.50 787.50,340.50 780.30,344.50" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="787.50,324.20 794.70,320.20 787.50,316.20 780.30,320.20" fill="#83CA16" stroke="#4C7D04" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-08-15" data-count="0">
       <!-- Left Facet -->
@@ -3002,29 +3048,32 @@
       <!-- Top Diamond Facet -->
       <polygon points="767.20,349.10 774.40,345.10 767.20,341.10 760.00,345.10" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-08-28" data-count="0">
+    <g class="iso-active" data-date="2026-08-28" data-count="6">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.8s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="793.10,350.60 800.30,354.60 800.30,352.10 793.10,348.10" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="793.10,350.60 800.30,354.60 800.30,323.00 793.10,319.00" fill="#6EAD0E" stroke="#4C7D04" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="800.30,354.60 807.50,350.60 807.50,348.10 800.30,352.10" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="800.30,354.60 807.50,350.60 807.50,319.00 800.30,323.00" fill="#5C9308" stroke="#4C7D04" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="800.30,352.10 807.50,348.10 800.30,344.10 793.10,348.10" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="800.30,323.00 807.50,319.00 800.30,315.00 793.10,319.00" fill="#83CA16" stroke="#4C7D04" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-08-22" data-count="0">
+    <g class="iso-active" data-date="2026-08-22" data-count="1">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="772.80,351.20 780.00,355.20 780.00,352.70 772.80,348.70" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="772.80,351.20 780.00,355.20 780.00,341.60 772.80,337.60" fill="#BEE674" stroke="#94C745" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="780.00,355.20 787.20,351.20 787.20,348.70 780.00,352.70" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="780.00,355.20 787.20,351.20 787.20,337.60 780.00,341.60" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="780.00,352.70 787.20,348.70 780.00,344.70 772.80,348.70" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="780.00,341.60 787.20,337.60 780.00,333.60 772.80,337.60" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
     </g>
-    <g class="iso-tile" data-date="2026-08-29" data-count="0">
+    <g class="iso-active" data-date="2026-08-29" data-count="14">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="4.2s" repeatCount="indefinite" />
       <!-- Left Facet -->
-      <polygon points="785.60,354.80 792.80,358.80 792.80,356.30 785.60,352.30" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="785.60,354.80 792.80,358.80 792.80,302.80 785.60,298.80" fill="#10B981" stroke="#047857" stroke-width="0.35" />
       <!-- Right Facet -->
-      <polygon points="792.80,358.80 800.00,354.80 800.00,352.30 792.80,356.30" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="792.80,358.80 800.00,354.80 800.00,298.80 792.80,302.80" fill="#059669" stroke="#047857" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
-      <polygon points="792.80,356.30 800.00,352.30 792.80,348.30 785.60,352.30" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+      <polygon points="792.80,302.80 800.00,298.80 792.80,294.80 785.60,298.80" fill="#34D399" stroke="#047857" stroke-width="0.35" />
     </g>
   </g>
 

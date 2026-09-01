@@ -68,20 +68,28 @@ def fetch_github_contributions_rest(username):
         return total, contribs
 
 def fetch_contributions():
+    # 1. Primary: Fetch via public Contributions API (reflects all 377+ contributions including private/org activity visible on profile)
+    try:
+        print("Fetching live complete profile data via Contributions API...")
+        total, contribs = fetch_github_contributions_rest(USERNAME)
+        if contribs and total > 0:
+            print(f"Successfully loaded {total} contributions from Contributions API.")
+            return total, contribs
+    except Exception as e:
+        print("Contributions API error, attempting fallback:", e)
+
+    # 2. Fallback: GitHub GraphQL API if GITHUB_TOKEN is set
     token = os.environ.get("GITHUB_TOKEN")
     if token:
         try:
             print("Fetching live data via GitHub GraphQL API...")
-            return fetch_github_contributions_graphql(USERNAME, token)
+            total, contribs = fetch_github_contributions_graphql(USERNAME, token)
+            if contribs and total > 0:
+                return total, contribs
         except Exception as e:
-            print("GraphQL error, falling back to REST API:", e)
-    
-    try:
-        print("Fetching live data via Contributions API...")
-        return fetch_github_contributions_rest(USERNAME)
-    except Exception as e:
-        print("REST error:", e)
-        return 0, []
+            print("GraphQL error:", e)
+
+    return 0, []
 
 def generate_isometric_svg():
     # 1. Fetch live automated GitHub contributions
