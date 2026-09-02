@@ -31,7 +31,7 @@
   <!-- Header Section -->
   <g transform="translate(30, 40)">
     <text x="0" y="0" class="header-title">383 contributions in the last year</text>
-    <text x="0" y="18" class="header-sub">Aug 31, 2025 – Sep 01, 2026</text>
+    <text x="0" y="18" class="header-sub">Aug 31, 2025 – Sep 02, 2026</text>
     
     <!-- Top Right 3D Isometric Mode Badge -->
     <g transform="translate(765, -10)">
@@ -49,7 +49,7 @@
     <text x="0" y="0" class="stat-label">1 YEAR TOTAL</text>
     <text x="0" y="32" class="stat-big-green">383</text>
     <text x="82" y="22" class="stat-title">contributions</text>
-    <text x="82" y="36" class="stat-muted">Aug 31, 2025 – Sep 01, 2026</text>
+    <text x="82" y="36" class="stat-muted">Aug 31, 2025 – Sep 02, 2026</text>
   </g>
 
   <!-- Metric 2: Busiest Day -->
@@ -72,9 +72,9 @@
   <!-- Current Streak -->
   <g transform="translate(30, 395)">
     <text x="0" y="0" class="stat-label">CURRENT STREAK</text>
-    <text x="0" y="32" class="stat-big-lime">1</text>
-    <text x="36" y="22" class="stat-title">day</text>
-    <text x="36" y="36" class="stat-muted">Active streak</text>
+    <text x="0" y="32" class="stat-big-lime">0</text>
+    <text x="38" y="22" class="stat-title">days</text>
+    <text x="38" y="36" class="stat-muted">Active streak</text>
   </g>
 
   <!-- ==================== 3D ISOMETRIC CALENDAR ==================== -->
@@ -2997,6 +2997,14 @@
       <polygon points="795.00,346.80 802.20,342.80 802.20,340.30 795.00,344.30" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
       <polygon points="795.00,344.30 802.20,340.30 795.00,336.30 787.80,340.30" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
+    </g>
+    <g class="iso-tile" data-date="2026-09-02" data-count="0">
+      <!-- Left Facet -->
+      <polygon points="820.90,345.80 828.10,349.80 828.10,347.30 820.90,343.30" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <!-- Right Facet -->
+      <polygon points="828.10,349.80 835.30,345.80 835.30,343.30 828.10,347.30" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <!-- Top Diamond Facet -->
+      <polygon points="828.10,347.30 835.30,343.30 828.10,339.30 820.90,343.30" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-08-01" data-count="0">
       <!-- Left Facet -->
