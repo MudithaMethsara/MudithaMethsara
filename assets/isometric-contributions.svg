@@ -31,7 +31,7 @@
   <!-- Header Section -->
   <g transform="translate(30, 40)">
     <text x="0" y="0" class="header-title">415 contributions in the last year</text>
-    <text x="0" y="18" class="header-sub">Sep 07, 2025 – Sep 09, 2026</text>
+    <text x="0" y="18" class="header-sub">Sep 07, 2025 – Sep 10, 2026</text>
     
     <!-- Top Right 3D Isometric Mode Badge -->
     <g transform="translate(765, -10)">
@@ -49,7 +49,7 @@
     <text x="0" y="0" class="stat-label">1 YEAR TOTAL</text>
     <text x="0" y="32" class="stat-big-green">415</text>
     <text x="76" y="22" class="stat-title">contributions</text>
-    <text x="76" y="36" class="stat-muted">Sep 07, 2025 – Sep 09, 2026</text>
+    <text x="76" y="36" class="stat-muted">Sep 07, 2025 – Sep 10, 2026</text>
   </g>
 
   <!-- Metric 2: Busiest Day -->
@@ -72,7 +72,7 @@
   <!-- Current Streak -->
   <g transform="translate(30, 395)">
     <text x="0" y="0" class="stat-label">CURRENT STREAK</text>
-    <text x="0" y="32" class="stat-big-lime">5</text>
+    <text x="0" y="32" class="stat-big-lime">0</text>
     <text x="38" y="22" class="stat-title">days</text>
     <text x="38" y="36" class="stat-muted">Active streak</text>
   </g>
@@ -3053,6 +3053,14 @@
       <polygon points="787.50,351.00 794.70,347.00 794.70,315.40 787.50,319.40" fill="#5C9308" stroke="#4C7D04" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
       <polygon points="787.50,319.40 794.70,315.40 787.50,311.40 780.30,315.40" fill="#83CA16" stroke="#4C7D04" stroke-width="0.35" />
+    </g>
+    <g class="iso-tile" data-date="2026-09-10" data-count="0">
+      <!-- Left Facet -->
+      <polygon points="813.40,350.00 820.60,354.00 820.60,351.50 813.40,347.50" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <!-- Right Facet -->
+      <polygon points="820.60,354.00 827.80,350.00 827.80,347.50 820.60,351.50" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <!-- Top Diamond Facet -->
+      <polygon points="820.60,351.50 827.80,347.50 820.60,343.50 813.40,347.50" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
     <g class="iso-active" data-date="2026-08-22" data-count="1">
         <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.4s" repeatCount="indefinite" />

@@ -77,7 +77,7 @@
       <g transform="translate(0, 275)">
         <!-- Metric 1: Automated Projects Completed -->
         <g transform="translate(0, 0)">
-          <text x="0" y="0" class="stat-val">31+</text>
+          <text x="0" y="0" class="stat-val">30+</text>
           <text x="0" y="20" class="stat-lbl">Projects completed</text>
         </g>
 
