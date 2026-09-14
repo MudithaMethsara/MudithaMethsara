@@ -31,7 +31,7 @@
   <!-- Header Section -->
   <g transform="translate(30, 40)">
     <text x="0" y="0" class="header-title">415 contributions in the last year</text>
-    <text x="0" y="18" class="header-sub">Sep 14, 2025 – Sep 13, 2026</text>
+    <text x="0" y="18" class="header-sub">Sep 14, 2025 – Sep 14, 2026</text>
     
     <!-- Top Right 3D Isometric Mode Badge -->
     <g transform="translate(765, -10)">
@@ -49,7 +49,7 @@
     <text x="0" y="0" class="stat-label">1 YEAR TOTAL</text>
     <text x="0" y="32" class="stat-big-green">415</text>
     <text x="76" y="22" class="stat-title">contributions</text>
-    <text x="76" y="36" class="stat-muted">Sep 14, 2025 – Sep 13, 2026</text>
+    <text x="76" y="36" class="stat-muted">Sep 14, 2025 – Sep 14, 2026</text>
   </g>
 
   <!-- Metric 2: Busiest Day -->
@@ -2870,6 +2870,14 @@
       <polygon points="723.50,333.00 730.70,329.00 730.70,313.80 723.50,317.80" fill="#A6D657" stroke="#94C745" stroke-width="0.35" />
       <!-- Top Diamond Facet -->
       <polygon points="723.50,317.80 730.70,313.80 723.50,309.80 716.30,313.80" fill="#D8F89D" stroke="#94C745" stroke-width="0.35" />
+    </g>
+    <g class="iso-tile" data-date="2026-09-14" data-count="0">
+      <!-- Left Facet -->
+      <polygon points="835.90,337.40 843.10,341.40 843.10,338.90 835.90,334.90" fill="#161920" stroke="#2D333F" stroke-width="0.35" />
+      <!-- Right Facet -->
+      <polygon points="843.10,341.40 850.30,337.40 850.30,334.90 843.10,338.90" fill="#11141A" stroke="#2D333F" stroke-width="0.35" />
+      <!-- Top Diamond Facet -->
+      <polygon points="843.10,338.90 850.30,334.90 843.10,330.90 835.90,334.90" fill="#1E222A" stroke="#2D333F" stroke-width="0.35" />
     </g>
     <g class="iso-tile" data-date="2026-08-13" data-count="0">
       <!-- Left Facet -->
