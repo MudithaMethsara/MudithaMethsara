@@ -89,7 +89,7 @@
 
         <!-- Metric 3: Automated Happy Clients -->
         <g transform="translate(245, 0)">
-          <text x="0" y="0" class="stat-val">40+</text>
+          <text x="0" y="0" class="stat-val">41+</text>
           <text x="0" y="20" class="stat-lbl">Happy clients</text>
         </g>
       </g>
